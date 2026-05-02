@@ -155,7 +155,7 @@ export default function HomePage() {
         {/* AI Hero Background */}
         <div
           className="absolute inset-0 bg-cover bg-center opacity-40"
-          style={{ backgroundImage: "url(/images/hero-master.jpg)" }}
+          style={{ backgroundImage: "url(/huaxia-history/images/hero-master.jpg)" }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0f]/60 via-[#0a0a0f]/40 to-[#0a0a0f]/90" />
 

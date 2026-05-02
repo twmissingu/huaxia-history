@@ -42,10 +42,10 @@ export const metadata: Metadata = {
     images: ['/images/hero-master.jpg'],
   },
   icons: {
-    icon: '/favicon.ico',
-    apple: '/apple-touch-icon.png',
+    icon: '/huaxia-history/favicon.ico',
+    apple: '/huaxia-history/apple-touch-icon.png',
   },
-  manifest: '/site.webmanifest',
+  manifest: '/huaxia-history/site.webmanifest',
   metadataBase: new URL('https://huaxia-history.vercel.app'),
 };
 
