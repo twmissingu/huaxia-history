@@ -5,7 +5,6 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  basePath: '/huaxia-history',
 };
 
 module.exports = nextConfig;
