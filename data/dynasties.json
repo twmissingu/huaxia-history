@@ -1,0 +1,3374 @@
+[
+  {
+    "id": "xia",
+    "name": "夏",
+    "shortName": "夏朝",
+    "period": "约前2070-前1600",
+    "startYear": -2070,
+    "endYear": -1600,
+    "capital": "阳城（今河南登封）",
+    "capitalCoordinates": [
+      113.02,
+      34.46
+    ],
+    "color": "#8b7355",
+    "secondaryColor": "#a08b6d",
+    "richness": "thin",
+    "overview": "中国历史上第一个世袭制王朝，禹传启家天下，奠定了华夏文明的根基。",
+    "heroImage": "/images/hero-xia.jpg",
+    "tagline": "九州铸鼎，家天下的开端",
+    "cities": [
+      {
+        "name": "阳城",
+        "coordinates": [
+          113.02,
+          34.46
+        ],
+        "type": "capital",
+        "description": "夏朝都城，今河南登封"
+      },
+      {
+        "name": "阳翟",
+        "coordinates": [
+          113.68,
+          34.15
+        ],
+        "type": "major",
+        "description": "夏朝重要城邑，今河南禹州"
+      },
+      {
+        "name": "斟鄩",
+        "coordinates": [
+          112.68,
+          34.72
+        ],
+        "type": "major",
+        "description": "夏朝都城之一，今河南偃师"
+      },
+      {
+        "name": "安邑",
+        "coordinates": [
+          111.22,
+          35.15
+        ],
+        "type": "major",
+        "description": "夏朝故都，今山西夏县"
+      },
+      {
+        "name": "平阳",
+        "coordinates": [
+          111.52,
+          36.08
+        ],
+        "type": "major",
+        "description": "尧都所在，今山西临汾"
+      },
+      {
+        "name": "蒲坂",
+        "coordinates": [
+          110.32,
+          34.87
+        ],
+        "type": "major",
+        "description": "舜都所在，今山西永济"
+      },
+      {
+        "name": "帝丘",
+        "coordinates": [
+          115.03,
+          35.72
+        ],
+        "type": "major",
+        "description": "颛顼故都，今河南濮阳"
+      },
+      {
+        "name": "老丘",
+        "coordinates": [
+          114.68,
+          34.82
+        ],
+        "type": "major",
+        "description": "夏朝都城，今河南开封祥符区"
+      },
+      {
+        "name": "原",
+        "coordinates": [
+          113.38,
+          35.08
+        ],
+        "type": "major",
+        "description": "夏朝城邑，今河南济源"
+      },
+      {
+        "name": "西河",
+        "coordinates": [
+          110.83,
+          35.02
+        ],
+        "type": "major",
+        "description": "夏朝城邑，今河南安阳汤阴"
+      },
+      {
+        "name": "纶",
+        "coordinates": [
+          115.38,
+          34.42
+        ],
+        "type": "major",
+        "description": "少康故地，今河南商丘虞城"
+      },
+      {
+        "name": "有仍",
+        "coordinates": [
+          116.38,
+          35.42
+        ],
+        "type": "major",
+        "description": "有仍氏部落，今山东济宁"
+      },
+      {
+        "name": "有扈",
+        "coordinates": [
+          108.72,
+          34.35
+        ],
+        "type": "major",
+        "description": "有扈氏所在，今陕西户县"
+      },
+      {
+        "name": "有鬲",
+        "coordinates": [
+          116.38,
+          37.05
+        ],
+        "type": "major",
+        "description": "有鬲氏所在，今山东德州"
+      },
+      {
+        "name": "有莘",
+        "coordinates": [
+          115.12,
+          36.28
+        ],
+        "type": "major",
+        "description": "有莘氏所在，今山东曹县"
+      },
+      {
+        "name": "昆吾",
+        "coordinates": [
+          114.08,
+          33.82
+        ],
+        "type": "major",
+        "description": "昆吾氏所在，今河南许昌"
+      },
+      {
+        "name": "涂山",
+        "coordinates": [
+          117.38,
+          32.92
+        ],
+        "type": "major",
+        "description": "涂山氏所在，今安徽蚌埠"
+      },
+      {
+        "name": "鸣条",
+        "coordinates": [
+          111.52,
+          35.02
+        ],
+        "type": "battlefield",
+        "description": "鸣条之战所在地"
+      },
+      {
+        "name": "羽山",
+        "coordinates": [
+          118.55,
+          34.78
+        ],
+        "type": "major",
+        "description": "舜殛鲧处，今山东临沂临沭"
+      },
+      {
+        "name": "甘",
+        "coordinates": [
+          113.38,
+          34.72
+        ],
+        "type": "battlefield",
+        "description": "甘之战所在地，今河南洛阳"
+      },
+      {
+        "name": "商丘",
+        "coordinates": [
+          115.65,
+          34.45
+        ],
+        "type": "major",
+        "description": "商部落发祥地"
+      },
+      {
+        "name": "陶",
+        "coordinates": [
+          115.92,
+          35.38
+        ],
+        "type": "major",
+        "description": "陶器制作中心"
+      }
+    ]
+  },
+  {
+    "id": "shang",
+    "name": "商",
+    "shortName": "商朝",
+    "period": "约前1600-前1046",
+    "startYear": -1600,
+    "endYear": -1046,
+    "capital": "殷（今河南安阳）",
+    "capitalCoordinates": [
+      114.39,
+      36.1
+    ],
+    "color": "#7a8b69",
+    "secondaryColor": "#9aad7a",
+    "richness": "thin",
+    "overview": "青铜文明的巅峰，甲骨文的故乡，神权与王权交织的神秘时代。",
+    "heroImage": "/images/hero-shang.jpg",
+    "tagline": "甲骨铸史，青铜载魂",
+    "cities": [
+      {
+        "name": "亳",
+        "coordinates": [
+          115.63,
+          34.43
+        ],
+        "type": "capital",
+        "description": "商汤都城，今河南商丘"
+      },
+      {
+        "name": "嚣",
+        "coordinates": [
+          113.62,
+          34.75
+        ],
+        "type": "capital",
+        "description": "商朝中城，今河南荥阳"
+      },
+      {
+        "name": "相",
+        "coordinates": [
+          114.28,
+          36.08
+        ],
+        "type": "capital",
+        "description": "商朝中城，今河南内黄"
+      },
+      {
+        "name": "邢",
+        "coordinates": [
+          114.48,
+          37.07
+        ],
+        "type": "capital",
+        "description": "商朝中城，今河北邢台"
+      },
+      {
+        "name": "奄",
+        "coordinates": [
+          116.98,
+          35.58
+        ],
+        "type": "capital",
+        "description": "商朝中城，今山东曲阜"
+      },
+      {
+        "name": "殷",
+        "coordinates": [
+          114.38,
+          36.12
+        ],
+        "type": "capital",
+        "description": "盘庚迁殷后商都，今河南安阳"
+      },
+      {
+        "name": "朝歌",
+        "coordinates": [
+          114.18,
+          35.62
+        ],
+        "type": "capital",
+        "description": "商朝晚期陪都，今河南淇县"
+      },
+      {
+        "name": "西亳",
+        "coordinates": [
+          112.58,
+          34.72
+        ],
+        "type": "major",
+        "description": "商朝早期都城，今河南偃师"
+      },
+      {
+        "name": "牧野",
+        "coordinates": [
+          113.82,
+          35.32
+        ],
+        "type": "battlefield",
+        "description": "牧野之战所在地"
+      },
+      {
+        "name": "崇",
+        "coordinates": [
+          113.85,
+          34.52
+        ],
+        "type": "major",
+        "description": "崇国故地，今河南登封"
+      },
+      {
+        "name": "周原",
+        "coordinates": [
+          107.82,
+          34.42
+        ],
+        "type": "major",
+        "description": "周人发源地，今陕西岐山"
+      },
+      {
+        "name": "黎",
+        "coordinates": [
+          113.35,
+          36.22
+        ],
+        "type": "major",
+        "description": "黎国，今山西长治"
+      },
+      {
+        "name": "盂",
+        "coordinates": [
+          112.58,
+          37.85
+        ],
+        "type": "major",
+        "description": "盂方，今山西阳曲"
+      },
+      {
+        "name": "召",
+        "coordinates": [
+          112.42,
+          34.68
+        ],
+        "type": "major",
+        "description": "召方，今河南偃师附近"
+      },
+      {
+        "name": "羌",
+        "coordinates": [
+          103.82,
+          36.05
+        ],
+        "type": "major",
+        "description": "羌方活动区域，今甘肃东部"
+      },
+      {
+        "name": "鬼方",
+        "coordinates": [
+          110.22,
+          39.82
+        ],
+        "type": "major",
+        "description": "鬼方，今陕西北部、内蒙古"
+      },
+      {
+        "name": "东夷",
+        "coordinates": [
+          119.42,
+          35.42
+        ],
+        "type": "major",
+        "description": "东夷部落区域，今山东"
+      },
+      {
+        "name": "人方",
+        "coordinates": [
+          120.38,
+          36.38
+        ],
+        "type": "major",
+        "description": "人方，今山东半岛"
+      },
+      {
+        "name": "周",
+        "coordinates": [
+          108.08,
+          34.35
+        ],
+        "type": "major",
+        "description": "周方国，今陕西扶风"
+      },
+      {
+        "name": "楚",
+        "coordinates": [
+          112.22,
+          31.05
+        ],
+        "type": "major",
+        "description": "楚部落雏形，今湖北荆州"
+      },
+      {
+        "name": "蜀",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "蜀方，今四川成都"
+      },
+      {
+        "name": "巴",
+        "coordinates": [
+          106.55,
+          29.57
+        ],
+        "type": "major",
+        "description": "巴方，今重庆"
+      }
+    ]
+  },
+  {
+    "id": "zhou",
+    "name": "周",
+    "shortName": "周朝",
+    "period": "前1046-前256",
+    "startYear": -1046,
+    "endYear": -256,
+    "capital": "镐京（今陕西西安）/ 洛邑（今河南洛阳）",
+    "capitalCoordinates": [
+      112.45,
+      34.62
+    ],
+    "color": "#8b4513",
+    "secondaryColor": "#a0522d",
+    "richness": "medium",
+    "overview": "礼乐文明的奠基者，八百载分封天下，诸子百家在此争鸣。",
+    "heroImage": "/images/hero-zhou.jpg",
+    "tagline": "制礼作乐，八百诸侯归一鼎",
+    "cities": [
+      {
+        "name": "镐京",
+        "coordinates": [
+          108.82,
+          34.28
+        ],
+        "type": "capital",
+        "description": "西周都城，今陕西西安"
+      },
+      {
+        "name": "洛邑",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "capital",
+        "description": "东周都城，今河南洛阳"
+      },
+      {
+        "name": "岐山",
+        "coordinates": [
+          107.82,
+          34.42
+        ],
+        "type": "major",
+        "description": "周人发祥地，今陕西岐山"
+      },
+      {
+        "name": "丰京",
+        "coordinates": [
+          108.72,
+          34.28
+        ],
+        "type": "major",
+        "description": "西周都城，今陕西西安"
+      },
+      {
+        "name": "成周",
+        "coordinates": [
+          112.48,
+          34.65
+        ],
+        "type": "major",
+        "description": "东周王城，今河南洛阳"
+      },
+      {
+        "name": "曲阜",
+        "coordinates": [
+          116.98,
+          35.58
+        ],
+        "type": "major",
+        "description": "鲁国都城，孔子故乡"
+      },
+      {
+        "name": "临淄",
+        "coordinates": [
+          118.32,
+          36.82
+        ],
+        "type": "major",
+        "description": "齐国都城，今山东淄博"
+      },
+      {
+        "name": "邯郸",
+        "coordinates": [
+          114.48,
+          36.62
+        ],
+        "type": "major",
+        "description": "赵国都城，今河北邯郸"
+      },
+      {
+        "name": "蓟",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "燕国都城，今北京"
+      },
+      {
+        "name": "郢",
+        "coordinates": [
+          112.22,
+          30.35
+        ],
+        "type": "capital",
+        "description": "楚国都城，今湖北荆州"
+      },
+      {
+        "name": "姑苏",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "吴国都城，今江苏苏州"
+      },
+      {
+        "name": "会稽",
+        "coordinates": [
+          120.58,
+          30
+        ],
+        "type": "major",
+        "description": "越国都城，今浙江绍兴"
+      },
+      {
+        "name": "新郑",
+        "coordinates": [
+          113.72,
+          34.4
+        ],
+        "type": "major",
+        "description": "郑国都城，今河南新郑"
+      },
+      {
+        "name": "大梁",
+        "coordinates": [
+          114.32,
+          34.8
+        ],
+        "type": "major",
+        "description": "魏国都城，今河南开封"
+      },
+      {
+        "name": "咸阳",
+        "coordinates": [
+          108.72,
+          34.35
+        ],
+        "type": "major",
+        "description": "秦国都城，今陕西咸阳"
+      },
+      {
+        "name": "寿春",
+        "coordinates": [
+          116.78,
+          32.58
+        ],
+        "type": "major",
+        "description": "楚国后期都城，今安徽寿县"
+      },
+      {
+        "name": "晋阳",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "晋国都城，今山西太原"
+      },
+      {
+        "name": "绛",
+        "coordinates": [
+          111.55,
+          35.72
+        ],
+        "type": "major",
+        "description": "晋国故都，今山西翼城"
+      },
+      {
+        "name": "上蔡",
+        "coordinates": [
+          114.25,
+          33.25
+        ],
+        "type": "major",
+        "description": "蔡国都城，今河南上蔡"
+      },
+      {
+        "name": "陈",
+        "coordinates": [
+          114.88,
+          33.72
+        ],
+        "type": "major",
+        "description": "陈国都城，今河南淮阳"
+      },
+      {
+        "name": "许",
+        "coordinates": [
+          113.82,
+          34.12
+        ],
+        "type": "major",
+        "description": "许国都城，今河南许昌"
+      },
+      {
+        "name": "申",
+        "coordinates": [
+          112.55,
+          33.02
+        ],
+        "type": "major",
+        "description": "申国所在，今河南南阳"
+      },
+      {
+        "name": "周原",
+        "coordinates": [
+          107.82,
+          34.42
+        ],
+        "type": "major",
+        "description": "西周发祥地"
+      }
+    ]
+  },
+  {
+    "id": "qin",
+    "name": "秦",
+    "shortName": "秦朝",
+    "period": "前221-前206",
+    "startYear": -221,
+    "endYear": -206,
+    "capital": "咸阳（今陕西咸阳）",
+    "capitalCoordinates": [
+      108.72,
+      34.33
+    ],
+    "color": "#c9372c",
+    "secondaryColor": "#e74c3c",
+    "richness": "medium",
+    "overview": "六王毕，四海一，书同文、车同轨，开创中国两千年帝制先河。",
+    "heroImage": "/images/hero-qin.jpg",
+    "tagline": "一扫六合，车书万里同文轨",
+    "cities": [
+      {
+        "name": "咸阳",
+        "coordinates": [
+          108.72,
+          34.35
+        ],
+        "type": "capital",
+        "description": "秦朝都城，今陕西咸阳"
+      },
+      {
+        "name": "栎阳",
+        "coordinates": [
+          109.22,
+          34.65
+        ],
+        "type": "major",
+        "description": "秦献公迁都于此，今陕西阎良"
+      },
+      {
+        "name": "雍城",
+        "coordinates": [
+          107.38,
+          34.52
+        ],
+        "type": "major",
+        "description": "秦国故都，今陕西凤翔"
+      },
+      {
+        "name": "邯郸",
+        "coordinates": [
+          114.48,
+          36.62
+        ],
+        "type": "major",
+        "description": "赵国都城，秦灭赵后设邯郸郡"
+      },
+      {
+        "name": "临淄",
+        "coordinates": [
+          118.32,
+          36.82
+        ],
+        "type": "major",
+        "description": "齐国都城，秦设齐郡"
+      },
+      {
+        "name": "蓟",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "燕国都城，秦设广阳郡"
+      },
+      {
+        "name": "郢",
+        "coordinates": [
+          112.22,
+          30.35
+        ],
+        "type": "major",
+        "description": "楚国都城，秦设南郡"
+      },
+      {
+        "name": "寿春",
+        "coordinates": [
+          116.78,
+          32.58
+        ],
+        "type": "major",
+        "description": "楚国后期都城"
+      },
+      {
+        "name": "大梁",
+        "coordinates": [
+          114.32,
+          34.8
+        ],
+        "type": "major",
+        "description": "魏国都城，秦设砀郡"
+      },
+      {
+        "name": "新郑",
+        "coordinates": [
+          113.72,
+          34.4
+        ],
+        "type": "major",
+        "description": "韩国都城，秦设颍川郡"
+      },
+      {
+        "name": "晋阳",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "赵国故都，今山西太原"
+      },
+      {
+        "name": "上郡",
+        "coordinates": [
+          109.78,
+          38.28
+        ],
+        "type": "major",
+        "description": "秦上郡治所，今陕西榆林"
+      },
+      {
+        "name": "九原",
+        "coordinates": [
+          109.82,
+          40.65
+        ],
+        "type": "major",
+        "description": "秦九原郡，今内蒙古包头"
+      },
+      {
+        "name": "辽东",
+        "coordinates": [
+          123.42,
+          41.82
+        ],
+        "type": "major",
+        "description": "秦辽东郡，今辽宁辽阳"
+      },
+      {
+        "name": "会稽",
+        "coordinates": [
+          120.58,
+          30
+        ],
+        "type": "major",
+        "description": "秦会稽郡，今浙江绍兴"
+      },
+      {
+        "name": "长沙",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "秦长沙郡，今湖南长沙"
+      },
+      {
+        "name": "南海",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "秦南海郡，今广东广州"
+      },
+      {
+        "name": "桂林",
+        "coordinates": [
+          110.28,
+          25.28
+        ],
+        "type": "major",
+        "description": "秦桂林郡，今广西桂林"
+      },
+      {
+        "name": "象郡",
+        "coordinates": [
+          108.32,
+          22.82
+        ],
+        "type": "major",
+        "description": "秦象郡，今广西南部"
+      },
+      {
+        "name": "闽中",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "major",
+        "description": "秦闽中郡，今福建福州"
+      },
+      {
+        "name": "蜀郡",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "秦蜀郡，今四川成都"
+      },
+      {
+        "name": "巴郡",
+        "coordinates": [
+          106.55,
+          29.57
+        ],
+        "type": "major",
+        "description": "秦巴郡，今重庆"
+      },
+      {
+        "name": "陇西",
+        "coordinates": [
+          104.62,
+          35.02
+        ],
+        "type": "major",
+        "description": "秦陇西郡，今甘肃临洮"
+      },
+      {
+        "name": "渔阳",
+        "coordinates": [
+          117.1,
+          40.33
+        ],
+        "type": "major",
+        "description": "秦渔阳郡，今北京密云"
+      }
+    ]
+  },
+  {
+    "id": "han",
+    "name": "汉",
+    "shortName": "汉朝",
+    "period": "前202-220",
+    "startYear": -202,
+    "endYear": 220,
+    "capital": "长安（今陕西西安）/ 洛阳（今河南洛阳）",
+    "capitalCoordinates": [
+      108.94,
+      34.34
+    ],
+    "color": "#c9372c",
+    "secondaryColor": "#e74c3c",
+    "richness": "rich",
+    "overview": "汉族之名由此而来，丝绸之路连通东西，罢黜百家独尊儒术。",
+    "heroImage": "/images/hero-han.jpg",
+    "tagline": "明犯强汉者，虽远必诛",
+    "cities": [
+      {
+        "name": "长安",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "capital",
+        "description": "西汉都城，今陕西西安"
+      },
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "capital",
+        "description": "东汉都城，今河南洛阳"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "蜀郡治所，今四川成都"
+      },
+      {
+        "name": "邯郸",
+        "coordinates": [
+          114.48,
+          36.62
+        ],
+        "type": "major",
+        "description": "赵国故地，今河北邯郸"
+      },
+      {
+        "name": "临淄",
+        "coordinates": [
+          118.32,
+          36.82
+        ],
+        "type": "major",
+        "description": "齐郡治所，今山东淄博"
+      },
+      {
+        "name": "宛",
+        "coordinates": [
+          112.52,
+          33
+        ],
+        "type": "major",
+        "description": "南阳郡治所，今河南南阳"
+      },
+      {
+        "name": "彭城",
+        "coordinates": [
+          117.18,
+          34.27
+        ],
+        "type": "major",
+        "description": "楚国故都，今江苏徐州"
+      },
+      {
+        "name": "寿春",
+        "coordinates": [
+          116.78,
+          32.58
+        ],
+        "type": "major",
+        "description": "九江郡治所，今安徽寿县"
+      },
+      {
+        "name": "蓟",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "广阳郡治所，今北京"
+      },
+      {
+        "name": "晋阳",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "太原郡治所，今山西太原"
+      },
+      {
+        "name": "江陵",
+        "coordinates": [
+          112.18,
+          30.35
+        ],
+        "type": "major",
+        "description": "南郡治所，今湖北荆州"
+      },
+      {
+        "name": "吴",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "吴郡治所，今江苏苏州"
+      },
+      {
+        "name": "番禺",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "南海郡治所，今广东广州"
+      },
+      {
+        "name": "桂阳",
+        "coordinates": [
+          112.38,
+          25.78
+        ],
+        "type": "major",
+        "description": "桂阳郡治所，今湖南郴州"
+      },
+      {
+        "name": "豫章",
+        "coordinates": [
+          115.88,
+          28.68
+        ],
+        "type": "major",
+        "description": "豫章郡治所，今江西南昌"
+      },
+      {
+        "name": "长沙",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "长沙国都，今湖南长沙"
+      },
+      {
+        "name": "敦煌",
+        "coordinates": [
+          94.68,
+          40.15
+        ],
+        "type": "major",
+        "description": "敦煌郡治所，今甘肃敦煌"
+      },
+      {
+        "name": "酒泉",
+        "coordinates": [
+          98.52,
+          39.75
+        ],
+        "type": "major",
+        "description": "酒泉郡治所，今甘肃酒泉"
+      },
+      {
+        "name": "武威",
+        "coordinates": [
+          102.63,
+          37.93
+        ],
+        "type": "major",
+        "description": "武威郡治所，今甘肃武威"
+      },
+      {
+        "name": "朔方",
+        "coordinates": [
+          108.72,
+          40.38
+        ],
+        "type": "major",
+        "description": "朔方郡治所，今内蒙古杭锦旗"
+      },
+      {
+        "name": "辽东",
+        "coordinates": [
+          123.42,
+          41.82
+        ],
+        "type": "major",
+        "description": "辽东郡治所，今辽宁辽阳"
+      },
+      {
+        "name": "闽越",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "major",
+        "description": "闽越国，今福建福州"
+      },
+      {
+        "name": "滇",
+        "coordinates": [
+          102.72,
+          25.05
+        ],
+        "type": "major",
+        "description": "滇国，今云南昆明"
+      }
+    ]
+  },
+  {
+    "id": "sanguo",
+    "name": "三国",
+    "shortName": "三国",
+    "period": "220-280",
+    "startYear": 220,
+    "endYear": 280,
+    "capital": "洛阳（魏）/ 成都（蜀）/ 建业（吴）",
+    "capitalCoordinates": [
+      112.45,
+      34.62
+    ],
+    "color": "#8b0000",
+    "secondaryColor": "#a52a2a",
+    "richness": "medium",
+    "overview": "乱世英雄起四方，魏蜀吴三分天下，乱世之中群星璀璨。",
+    "heroImage": "/images/hero-sanguo.jpg",
+    "tagline": "乱世出英雄，三分天下谁问鼎",
+    "cities": [
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "capital",
+        "description": "曹魏都城，今河南洛阳"
+      },
+      {
+        "name": "许昌",
+        "coordinates": [
+          113.82,
+          34.02
+        ],
+        "type": "capital",
+        "description": "曹魏前期都城，今河南许昌"
+      },
+      {
+        "name": "邺",
+        "coordinates": [
+          114.62,
+          36.35
+        ],
+        "type": "capital",
+        "description": "曹魏重镇，今河北临漳"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "capital",
+        "description": "蜀汉都城，今四川成都"
+      },
+      {
+        "name": "建业",
+        "coordinates": [
+          118.78,
+          32.05
+        ],
+        "type": "capital",
+        "description": "东吴都城，今江苏南京"
+      },
+      {
+        "name": "武昌",
+        "coordinates": [
+          114.32,
+          30.55
+        ],
+        "type": "major",
+        "description": "东吴西都，今湖北鄂州"
+      },
+      {
+        "name": "长安",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "major",
+        "description": "曹魏重镇，今陕西西安"
+      },
+      {
+        "name": "襄阳",
+        "coordinates": [
+          112.15,
+          32.05
+        ],
+        "type": "major",
+        "description": "兵家必争之地，今湖北襄阳"
+      },
+      {
+        "name": "江陵",
+        "coordinates": [
+          112.18,
+          30.35
+        ],
+        "type": "major",
+        "description": "荆州重镇，今湖北荆州"
+      },
+      {
+        "name": "合肥",
+        "coordinates": [
+          117.32,
+          31.87
+        ],
+        "type": "major",
+        "description": "魏吴争夺要地，今安徽合肥"
+      },
+      {
+        "name": "寿春",
+        "coordinates": [
+          116.78,
+          32.58
+        ],
+        "type": "major",
+        "description": "淮南重镇，今安徽寿县"
+      },
+      {
+        "name": "宛",
+        "coordinates": [
+          112.52,
+          33
+        ],
+        "type": "major",
+        "description": "南阳郡治所，今河南南阳"
+      },
+      {
+        "name": "下邳",
+        "coordinates": [
+          117.95,
+          34.12
+        ],
+        "type": "major",
+        "description": "徐州重镇，今江苏睢宁"
+      },
+      {
+        "name": "南皮",
+        "coordinates": [
+          116.72,
+          38.05
+        ],
+        "type": "major",
+        "description": "冀州治所，今河北南皮"
+      },
+      {
+        "name": "蓟",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "幽州治所，今北京"
+      },
+      {
+        "name": "晋阳",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "并州治所，今山西太原"
+      },
+      {
+        "name": "天水",
+        "coordinates": [
+          105.72,
+          34.58
+        ],
+        "type": "major",
+        "description": "凉州重镇，今甘肃天水"
+      },
+      {
+        "name": "汉中",
+        "coordinates": [
+          107.02,
+          33.07
+        ],
+        "type": "major",
+        "description": "蜀汉北大门，今陕西汉中"
+      },
+      {
+        "name": "雒城",
+        "coordinates": [
+          104.38,
+          31.12
+        ],
+        "type": "major",
+        "description": "益州重镇，今四川广汉"
+      },
+      {
+        "name": "交州",
+        "coordinates": [
+          108.32,
+          22.82
+        ],
+        "type": "major",
+        "description": "交州治所，今广西南宁"
+      },
+      {
+        "name": "番禺",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "南海郡治所，今广东广州"
+      },
+      {
+        "name": "云南",
+        "coordinates": [
+          102.72,
+          25.05
+        ],
+        "type": "major",
+        "description": "南中地区，今云南昆明"
+      },
+      {
+        "name": "辽东",
+        "coordinates": [
+          123.42,
+          41.82
+        ],
+        "type": "major",
+        "description": "公孙氏割据，今辽宁辽阳"
+      }
+    ]
+  },
+  {
+    "id": "jin",
+    "name": "晋",
+    "shortName": "晋朝",
+    "period": "265-420",
+    "startYear": 265,
+    "endYear": 420,
+    "capital": "洛阳（西晋）/ 建康（今江苏南京，东晋）",
+    "capitalCoordinates": [
+      118.78,
+      32.05
+    ],
+    "color": "#6b8e6b",
+    "secondaryColor": "#8fbc8f",
+    "richness": "medium",
+    "overview": "短暂统一后衣冠南渡，兰亭雅集风流天下，玄学清谈蔚然成风。",
+    "heroImage": "/images/hero-jin.jpg",
+    "tagline": "衣冠南渡，魏晋风骨照兰亭",
+    "cities": [
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "capital",
+        "description": "西晋都城，今河南洛阳"
+      },
+      {
+        "name": "建康",
+        "coordinates": [
+          118.78,
+          32.05
+        ],
+        "type": "capital",
+        "description": "东晋都城，今江苏南京"
+      },
+      {
+        "name": "长安",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "major",
+        "description": "西晋重镇，今陕西西安"
+      },
+      {
+        "name": "邺",
+        "coordinates": [
+          114.62,
+          36.35
+        ],
+        "type": "major",
+        "description": "后赵等政权都城"
+      },
+      {
+        "name": "襄阳",
+        "coordinates": [
+          112.15,
+          32.05
+        ],
+        "type": "major",
+        "description": "荆州重镇，今湖北襄阳"
+      },
+      {
+        "name": "江陵",
+        "coordinates": [
+          112.18,
+          30.35
+        ],
+        "type": "major",
+        "description": "荆州治所，今湖北荆州"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "益州治所，今四川成都"
+      },
+      {
+        "name": "寿春",
+        "coordinates": [
+          116.78,
+          32.58
+        ],
+        "type": "major",
+        "description": "淮南重镇，今安徽寿县"
+      },
+      {
+        "name": "广陵",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "扬州重镇，今江苏扬州"
+      },
+      {
+        "name": "吴郡",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "吴郡治所，今江苏苏州"
+      },
+      {
+        "name": "会稽",
+        "coordinates": [
+          120.58,
+          30
+        ],
+        "type": "major",
+        "description": "会稽郡治所，今浙江绍兴"
+      },
+      {
+        "name": "番禺",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "南海郡治所，今广东广州"
+      },
+      {
+        "name": "武昌",
+        "coordinates": [
+          114.32,
+          30.55
+        ],
+        "type": "major",
+        "description": "江州重镇，今湖北鄂州"
+      },
+      {
+        "name": "下邳",
+        "coordinates": [
+          117.95,
+          34.12
+        ],
+        "type": "major",
+        "description": "徐州治所，今江苏睢宁"
+      },
+      {
+        "name": "蓟",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "幽州治所，今北京"
+      },
+      {
+        "name": "晋阳",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "并州治所，今山西太原"
+      },
+      {
+        "name": "平城",
+        "coordinates": [
+          113.3,
+          40.08
+        ],
+        "type": "major",
+        "description": "北魏前期都城，今山西大同"
+      },
+      {
+        "name": "凉州",
+        "coordinates": [
+          102.63,
+          37.93
+        ],
+        "type": "major",
+        "description": "凉州治所，今甘肃武威"
+      },
+      {
+        "name": "敦煌",
+        "coordinates": [
+          94.68,
+          40.15
+        ],
+        "type": "major",
+        "description": "敦煌郡，今甘肃敦煌"
+      },
+      {
+        "name": "统万",
+        "coordinates": [
+          108.88,
+          37.62
+        ],
+        "type": "major",
+        "description": "大夏国都城，今陕西靖边"
+      },
+      {
+        "name": "姑臧",
+        "coordinates": [
+          102.63,
+          37.93
+        ],
+        "type": "major",
+        "description": "前凉等政权都城，今甘肃武威"
+      },
+      {
+        "name": "中山",
+        "coordinates": [
+          114.5,
+          38.03
+        ],
+        "type": "major",
+        "description": "后燕都城，今河北定州"
+      },
+      {
+        "name": "龙城",
+        "coordinates": [
+          120.42,
+          41.58
+        ],
+        "type": "major",
+        "description": "前燕等政权都城，今辽宁朝阳"
+      }
+    ]
+  },
+  {
+    "id": "sui",
+    "name": "隋",
+    "shortName": "隋朝",
+    "period": "581-618",
+    "startYear": 581,
+    "endYear": 618,
+    "capital": "大兴（今陕西西安）",
+    "capitalCoordinates": [
+      108.94,
+      34.34
+    ],
+    "color": "#4682b4",
+    "secondaryColor": "#5f9ea0",
+    "richness": "medium",
+    "overview": "二世而亡却功在千秋，大运河贯通南北，科举制影响深远。",
+    "heroImage": "/images/hero-sui.jpg",
+    "tagline": "大运河上龙舟去，千古功过任评说",
+    "cities": [
+      {
+        "name": "大兴",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "capital",
+        "description": "隋朝都城，今陕西西安"
+      },
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "capital",
+        "description": "隋朝东都，今河南洛阳"
+      },
+      {
+        "name": "江都",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "隋炀帝驻跸之地，今江苏扬州"
+      },
+      {
+        "name": "涿郡",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "幽州治所，今北京"
+      },
+      {
+        "name": "太原",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "并州治所，今山西太原"
+      },
+      {
+        "name": "晋阳",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "李渊起兵之地"
+      },
+      {
+        "name": "余杭",
+        "coordinates": [
+          120.15,
+          30.28
+        ],
+        "type": "major",
+        "description": "江南重镇，今浙江杭州"
+      },
+      {
+        "name": "会稽",
+        "coordinates": [
+          120.58,
+          30
+        ],
+        "type": "major",
+        "description": "会稽郡治所，今浙江绍兴"
+      },
+      {
+        "name": "江陵",
+        "coordinates": [
+          112.18,
+          30.35
+        ],
+        "type": "major",
+        "description": "荆州治所，今湖北荆州"
+      },
+      {
+        "name": "襄阳",
+        "coordinates": [
+          112.15,
+          32.05
+        ],
+        "type": "major",
+        "description": "荆州重镇，今湖北襄阳"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "蜀郡治所，今四川成都"
+      },
+      {
+        "name": "番禺",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "南海郡治所，今广东广州"
+      },
+      {
+        "name": "长沙",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "长沙郡治所，今湖南长沙"
+      },
+      {
+        "name": "豫章",
+        "coordinates": [
+          115.88,
+          28.68
+        ],
+        "type": "major",
+        "description": "豫章郡治所，今江西南昌"
+      },
+      {
+        "name": "寿春",
+        "coordinates": [
+          116.78,
+          32.58
+        ],
+        "type": "major",
+        "description": "淮南郡治所，今安徽寿县"
+      },
+      {
+        "name": "张掖",
+        "coordinates": [
+          100.45,
+          38.93
+        ],
+        "type": "major",
+        "description": "张掖郡治所，今甘肃张掖"
+      },
+      {
+        "name": "敦煌",
+        "coordinates": [
+          94.68,
+          40.15
+        ],
+        "type": "major",
+        "description": "敦煌郡治所，今甘肃敦煌"
+      },
+      {
+        "name": "武威",
+        "coordinates": [
+          102.63,
+          37.93
+        ],
+        "type": "major",
+        "description": "武威郡治所，今甘肃武威"
+      },
+      {
+        "name": "朔方",
+        "coordinates": [
+          108.72,
+          40.38
+        ],
+        "type": "major",
+        "description": "朔方郡治所"
+      },
+      {
+        "name": "辽东",
+        "coordinates": [
+          123.42,
+          41.82
+        ],
+        "type": "major",
+        "description": "辽东郡治所，今辽宁辽阳"
+      },
+      {
+        "name": "九原",
+        "coordinates": [
+          109.82,
+          40.65
+        ],
+        "type": "major",
+        "description": "五原郡治所，今内蒙古包头"
+      },
+      {
+        "name": "建安",
+        "coordinates": [
+          118.68,
+          27.05
+        ],
+        "type": "major",
+        "description": "建安郡治所，今福建建瓯"
+      },
+      {
+        "name": "交趾",
+        "coordinates": [
+          105.83,
+          21.03
+        ],
+        "type": "major",
+        "description": "交趾郡治所，今越南北宁"
+      }
+    ]
+  },
+  {
+    "id": "tang",
+    "name": "唐",
+    "shortName": "唐朝",
+    "period": "618-907",
+    "startYear": 618,
+    "endYear": 907,
+    "capital": "长安（今陕西西安）",
+    "capitalCoordinates": [
+      108.94,
+      34.34
+    ],
+    "color": "#d4af37",
+    "secondaryColor": "#f0e68c",
+    "richness": "rich",
+    "overview": "诗歌的黄金时代，万邦来朝的天可汗，开放包容的盛世华章。",
+    "heroImage": "/images/hero-tang.jpg",
+    "tagline": "九天阊阖开宫殿，万国衣冠拜冕旒",
+    "cities": [
+      {
+        "name": "长安",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "capital",
+        "description": "唐朝都城，今陕西西安"
+      },
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "capital",
+        "description": "唐朝东都，今河南洛阳"
+      },
+      {
+        "name": "太原",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "北都，今山西太原"
+      },
+      {
+        "name": "扬州",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "淮南道治所，今江苏扬州"
+      },
+      {
+        "name": "益州",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "剑南道治所，今四川成都"
+      },
+      {
+        "name": "广州",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "岭南道治所，今广东广州"
+      },
+      {
+        "name": "幽州",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "范阳节度使驻地，今北京"
+      },
+      {
+        "name": "汴州",
+        "coordinates": [
+          114.32,
+          34.8
+        ],
+        "type": "major",
+        "description": "宣武节度使驻地，今河南开封"
+      },
+      {
+        "name": "魏州",
+        "coordinates": [
+          115.22,
+          36.35
+        ],
+        "type": "major",
+        "description": "魏博节度使驻地，今河北大名"
+      },
+      {
+        "name": "荆州",
+        "coordinates": [
+          112.18,
+          30.35
+        ],
+        "type": "major",
+        "description": "荆州治所，今湖北荆州"
+      },
+      {
+        "name": "襄州",
+        "coordinates": [
+          112.15,
+          32.05
+        ],
+        "type": "major",
+        "description": "山南东道治所，今湖北襄阳"
+      },
+      {
+        "name": "苏州",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "江南东道重镇，今江苏苏州"
+      },
+      {
+        "name": "杭州",
+        "coordinates": [
+          120.15,
+          30.28
+        ],
+        "type": "major",
+        "description": "江南东道治所，今浙江杭州"
+      },
+      {
+        "name": "越州",
+        "coordinates": [
+          120.58,
+          30
+        ],
+        "type": "major",
+        "description": "越州治所，今浙江绍兴"
+      },
+      {
+        "name": "明州",
+        "coordinates": [
+          121.55,
+          29.83
+        ],
+        "type": "major",
+        "description": "明州治所，今浙江宁波"
+      },
+      {
+        "name": "福州",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "major",
+        "description": "福建观察使驻地，今福建福州"
+      },
+      {
+        "name": "潭州",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "湖南观察使驻地，今湖南长沙"
+      },
+      {
+        "name": "洪州",
+        "coordinates": [
+          115.88,
+          28.68
+        ],
+        "type": "major",
+        "description": "江西观察使驻地，今江西南昌"
+      },
+      {
+        "name": "凉州",
+        "coordinates": [
+          102.63,
+          37.93
+        ],
+        "type": "major",
+        "description": "河西节度使驻地，今甘肃武威"
+      },
+      {
+        "name": "沙州",
+        "coordinates": [
+          94.68,
+          40.15
+        ],
+        "type": "major",
+        "description": "归义军驻地，今甘肃敦煌"
+      },
+      {
+        "name": "西州",
+        "coordinates": [
+          89.18,
+          42.95
+        ],
+        "type": "major",
+        "description": "安西都护府辖地，今新疆吐鲁番"
+      },
+      {
+        "name": "龟兹",
+        "coordinates": [
+          82.97,
+          41.72
+        ],
+        "type": "major",
+        "description": "安西四镇之一，今新疆库车"
+      },
+      {
+        "name": "于阗",
+        "coordinates": [
+          79.92,
+          37.12
+        ],
+        "type": "major",
+        "description": "安西四镇之一，今新疆和田"
+      },
+      {
+        "name": "疏勒",
+        "coordinates": [
+          75.98,
+          39.47
+        ],
+        "type": "major",
+        "description": "安西四镇之一，今新疆喀什"
+      },
+      {
+        "name": "安西",
+        "coordinates": [
+          82.97,
+          41.72
+        ],
+        "type": "major",
+        "description": "安西都护府驻地"
+      },
+      {
+        "name": "北庭",
+        "coordinates": [
+          89.18,
+          44.17
+        ],
+        "type": "major",
+        "description": "北庭都护府驻地，今新疆吉木萨尔"
+      },
+      {
+        "name": "营州",
+        "coordinates": [
+          120.42,
+          41.58
+        ],
+        "type": "major",
+        "description": "平卢节度使驻地，今辽宁朝阳"
+      },
+      {
+        "name": "安东",
+        "coordinates": [
+          124.38,
+          40.13
+        ],
+        "type": "major",
+        "description": "安东都护府驻地，今辽宁辽阳"
+      },
+      {
+        "name": "安南",
+        "coordinates": [
+          105.83,
+          21.03
+        ],
+        "type": "major",
+        "description": "安南都护府驻地，今越南河内"
+      },
+      {
+        "name": "黔州",
+        "coordinates": [
+          108.77,
+          29.53
+        ],
+        "type": "major",
+        "description": "黔中道治所，今重庆彭水"
+      }
+    ]
+  },
+  {
+    "id": "wudai",
+    "name": "五代",
+    "shortName": "五代十国",
+    "period": "907-960",
+    "startYear": 907,
+    "endYear": 960,
+    "capital": "开封 / 洛阳",
+    "capitalCoordinates": [
+      114.35,
+      34.79
+    ],
+    "color": "#808080",
+    "secondaryColor": "#a9a9a9",
+    "richness": "thin",
+    "overview": "五代更迭十国并立，武人干政乱世纷纭，却是宋词勃兴的前夜。",
+    "heroImage": "/images/hero-wudai.jpg",
+    "tagline": "五代十国乱纷纷，一剑霜寒十四州",
+    "cities": [
+      {
+        "name": "开封",
+        "coordinates": [
+          114.32,
+          34.8
+        ],
+        "type": "capital",
+        "description": "后梁、后晋、后汉、后周都城，今河南开封"
+      },
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "capital",
+        "description": "后唐都城，今河南洛阳"
+      },
+      {
+        "name": "幽州",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "capital",
+        "description": "辽南京，今北京"
+      },
+      {
+        "name": "金陵",
+        "coordinates": [
+          118.78,
+          32.05
+        ],
+        "type": "capital",
+        "description": "南唐都城，今江苏南京"
+      },
+      {
+        "name": "杭州",
+        "coordinates": [
+          120.15,
+          30.28
+        ],
+        "type": "capital",
+        "description": "吴越国都，今浙江杭州"
+      },
+      {
+        "name": "扬州",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "淮南重镇，今江苏扬州"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "capital",
+        "description": "前蜀、后蜀都城，今四川成都"
+      },
+      {
+        "name": "广州",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "南汉都城，今广东广州"
+      },
+      {
+        "name": "太原",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "北汉都城，今山西太原"
+      },
+      {
+        "name": "大名",
+        "coordinates": [
+          115.22,
+          36.35
+        ],
+        "type": "major",
+        "description": "后晋北京，今河北大名"
+      },
+      {
+        "name": "魏州",
+        "coordinates": [
+          114.62,
+          36.35
+        ],
+        "type": "major",
+        "description": "邺都，今河北临漳"
+      },
+      {
+        "name": "江陵",
+        "coordinates": [
+          112.18,
+          30.35
+        ],
+        "type": "major",
+        "description": "南平国都，今湖北荆州"
+      },
+      {
+        "name": "潭州",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "楚国都城，今湖南长沙"
+      },
+      {
+        "name": "福州",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "capital",
+        "description": "闽国都城，今福建福州"
+      },
+      {
+        "name": "虔州",
+        "coordinates": [
+          114.93,
+          25.85
+        ],
+        "type": "major",
+        "description": "虔州治所，今江西赣州"
+      },
+      {
+        "name": "苏州",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "吴越重镇，今江苏苏州"
+      },
+      {
+        "name": "越州",
+        "coordinates": [
+          120.58,
+          30
+        ],
+        "type": "major",
+        "description": "吴越重镇，今浙江绍兴"
+      },
+      {
+        "name": "潞州",
+        "coordinates": [
+          113.12,
+          36.18
+        ],
+        "type": "major",
+        "description": "上党郡治所，今山西长治"
+      },
+      {
+        "name": "郓州",
+        "coordinates": [
+          116.08,
+          35.72
+        ],
+        "type": "major",
+        "description": "天平节度使驻地，今山东东平"
+      },
+      {
+        "name": "青州",
+        "coordinates": [
+          118.48,
+          36.68
+        ],
+        "type": "major",
+        "description": "平卢节度使驻地，今山东青州"
+      },
+      {
+        "name": "襄州",
+        "coordinates": [
+          112.15,
+          32.05
+        ],
+        "type": "major",
+        "description": "山南东道治所，今湖北襄阳"
+      },
+      {
+        "name": "秦州",
+        "coordinates": [
+          105.72,
+          34.58
+        ],
+        "type": "major",
+        "description": "雄武军驻地，今甘肃天水"
+      },
+      {
+        "name": "凉州",
+        "coordinates": [
+          102.63,
+          37.93
+        ],
+        "type": "major",
+        "description": "河西节度使驻地，今甘肃武威"
+      }
+    ]
+  },
+  {
+    "id": "song",
+    "name": "宋",
+    "shortName": "宋朝",
+    "period": "960-1279",
+    "startYear": 960,
+    "endYear": 1279,
+    "capital": "开封（北宋）/ 临安（今浙江杭州，南宋）",
+    "capitalCoordinates": [
+      120.16,
+      30.25
+    ],
+    "color": "#87ceeb",
+    "secondaryColor": "#b0e0e6",
+    "richness": "rich",
+    "overview": "经济文化的巅峰，活字印刷与指南针问世，词章风雅冠绝古今。",
+    "heroImage": "/images/hero-song.jpg",
+    "tagline": "烟柳画桥，风帘翠幕，参差十万人家",
+    "cities": [
+      {
+        "name": "开封",
+        "coordinates": [
+          114.32,
+          34.8
+        ],
+        "type": "capital",
+        "description": "北宋都城，今河南开封"
+      },
+      {
+        "name": "临安",
+        "coordinates": [
+          120.15,
+          30.28
+        ],
+        "type": "capital",
+        "description": "南宋都城，今浙江杭州"
+      },
+      {
+        "name": "应天府",
+        "coordinates": [
+          115.65,
+          34.45
+        ],
+        "type": "major",
+        "description": "南京，今河南商丘"
+      },
+      {
+        "name": "大名府",
+        "coordinates": [
+          115.22,
+          36.35
+        ],
+        "type": "major",
+        "description": "北京，今河北大名"
+      },
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.45,
+          34.62
+        ],
+        "type": "major",
+        "description": "西京，今河南洛阳"
+      },
+      {
+        "name": "扬州",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "淮南东路治所，今江苏扬州"
+      },
+      {
+        "name": "苏州",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "平江府，今江苏苏州"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "成都府路治所，今四川成都"
+      },
+      {
+        "name": "广州",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "广南东路治所，今广东广州"
+      },
+      {
+        "name": "福州",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "major",
+        "description": "福建路治所，今福建福州"
+      },
+      {
+        "name": "潭州",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "荆湖南路治所，今湖南长沙"
+      },
+      {
+        "name": "洪州",
+        "coordinates": [
+          115.88,
+          28.68
+        ],
+        "type": "major",
+        "description": "江南西路治所，今江西南昌"
+      },
+      {
+        "name": "泉州",
+        "coordinates": [
+          118.68,
+          24.88
+        ],
+        "type": "major",
+        "description": "海上丝绸之路起点，今福建泉州"
+      },
+      {
+        "name": "明州",
+        "coordinates": [
+          121.55,
+          29.83
+        ],
+        "type": "major",
+        "description": "庆元府，今浙江宁波"
+      },
+      {
+        "name": "建康",
+        "coordinates": [
+          118.78,
+          32.05
+        ],
+        "type": "major",
+        "description": "江宁府，今江苏南京"
+      },
+      {
+        "name": "襄阳",
+        "coordinates": [
+          112.15,
+          32.05
+        ],
+        "type": "major",
+        "description": "京西南路重镇，今湖北襄阳"
+      },
+      {
+        "name": "江陵",
+        "coordinates": [
+          112.18,
+          30.35
+        ],
+        "type": "major",
+        "description": "江陵府，今湖北荆州"
+      },
+      {
+        "name": "太原",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "河东路治所，今山西太原"
+      },
+      {
+        "name": "幽州",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "辽南京，今北京"
+      },
+      {
+        "name": "大同",
+        "coordinates": [
+          113.3,
+          40.08
+        ],
+        "type": "major",
+        "description": "辽西京，今山西大同"
+      },
+      {
+        "name": "兴庆",
+        "coordinates": [
+          106.28,
+          38.47
+        ],
+        "type": "major",
+        "description": "西夏都城，今宁夏银川"
+      },
+      {
+        "name": "会宁",
+        "coordinates": [
+          127.52,
+          45.08
+        ],
+        "type": "major",
+        "description": "金上京，今黑龙江阿城"
+      },
+      {
+        "name": "中都",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "major",
+        "description": "金中都，今北京"
+      },
+      {
+        "name": "凉州",
+        "coordinates": [
+          102.63,
+          37.93
+        ],
+        "type": "major",
+        "description": "西凉府，今甘肃武威"
+      },
+      {
+        "name": "邕州",
+        "coordinates": [
+          108.37,
+          22.82
+        ],
+        "type": "major",
+        "description": "广南西路治所，今广西南宁"
+      }
+    ]
+  },
+  {
+    "id": "yuan",
+    "name": "元",
+    "shortName": "元朝",
+    "period": "1271-1368",
+    "startYear": 1271,
+    "endYear": 1368,
+    "capital": "大都（今北京）",
+    "capitalCoordinates": [
+      116.41,
+      39.9
+    ],
+    "color": "#228b22",
+    "secondaryColor": "#32cd32",
+    "richness": "medium",
+    "overview": "蒙古铁骑踏遍欧亚，疆域空前辽阔，元曲杂剧市井花开。",
+    "heroImage": "/images/hero-yuan.jpg",
+    "tagline": "铁马冰河入梦来，欧亚万里一毡房",
+    "cities": [
+      {
+        "name": "大都",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "capital",
+        "description": "元朝都城，今北京"
+      },
+      {
+        "name": "上都",
+        "coordinates": [
+          116.08,
+          42.27
+        ],
+        "type": "capital",
+        "description": "元朝夏都，今内蒙古正蓝旗"
+      },
+      {
+        "name": "和林",
+        "coordinates": [
+          106.8,
+          47.9
+        ],
+        "type": "major",
+        "description": "蒙古国都城，今蒙古国哈尔和林"
+      },
+      {
+        "name": "杭州",
+        "coordinates": [
+          120.15,
+          30.28
+        ],
+        "type": "major",
+        "description": "江浙行省治所，今浙江杭州"
+      },
+      {
+        "name": "泉州",
+        "coordinates": [
+          118.68,
+          24.88
+        ],
+        "type": "major",
+        "description": "海上丝绸之路起点，今福建泉州"
+      },
+      {
+        "name": "广州",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "江西行省辖地，今广东广州"
+      },
+      {
+        "name": "扬州",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "河南江北行省治所，今江苏扬州"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "四川行省治所，今四川成都"
+      },
+      {
+        "name": "福州",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "major",
+        "description": "福建行省治所，今福建福州"
+      },
+      {
+        "name": "潭州",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "湖广行省治所，今湖南长沙"
+      },
+      {
+        "name": "龙兴",
+        "coordinates": [
+          115.88,
+          28.68
+        ],
+        "type": "major",
+        "description": "江西行省治所，今江西南昌"
+      },
+      {
+        "name": "真定",
+        "coordinates": [
+          114.48,
+          38.03
+        ],
+        "type": "major",
+        "description": "真定路治所，今河北正定"
+      },
+      {
+        "name": "大同",
+        "coordinates": [
+          113.3,
+          40.08
+        ],
+        "type": "major",
+        "description": "大同路治所，今山西大同"
+      },
+      {
+        "name": "太原",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "冀宁路治所，今山西太原"
+      },
+      {
+        "name": "奉元",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "major",
+        "description": "安西路治所，今陕西西安"
+      },
+      {
+        "name": "中兴",
+        "coordinates": [
+          106.28,
+          38.47
+        ],
+        "type": "major",
+        "description": "宁夏府路治所，今宁夏银川"
+      },
+      {
+        "name": "甘州",
+        "coordinates": [
+          100.45,
+          38.93
+        ],
+        "type": "major",
+        "description": "甘肃行省治所，今甘肃张掖"
+      },
+      {
+        "name": "亦集乃",
+        "coordinates": [
+          101.08,
+          41.95
+        ],
+        "type": "major",
+        "description": "亦集乃路治所，今内蒙古额济纳旗"
+      },
+      {
+        "name": "辽阳",
+        "coordinates": [
+          123.42,
+          41.82
+        ],
+        "type": "major",
+        "description": "辽阳行省治所，今辽宁辽阳"
+      },
+      {
+        "name": "开元",
+        "coordinates": [
+          124.82,
+          42.55
+        ],
+        "type": "major",
+        "description": "开元路治所，今吉林农安"
+      },
+      {
+        "name": "云南",
+        "coordinates": [
+          102.72,
+          25.05
+        ],
+        "type": "major",
+        "description": "云南行省治所，今云南昆明"
+      },
+      {
+        "name": "大理",
+        "coordinates": [
+          100.22,
+          25.58
+        ],
+        "type": "major",
+        "description": "大理路治所，今云南大理"
+      },
+      {
+        "name": "八番",
+        "coordinates": [
+          106.72,
+          26.58
+        ],
+        "type": "major",
+        "description": "八番顺元宣慰司，今贵州贵阳"
+      },
+      {
+        "name": "吐蕃",
+        "coordinates": [
+          91.12,
+          29.65
+        ],
+        "type": "major",
+        "description": "宣政院辖地，今西藏拉萨"
+      },
+      {
+        "name": "交趾",
+        "coordinates": [
+          105.83,
+          21.03
+        ],
+        "type": "major",
+        "description": "交趾行省，今越南北部"
+      },
+      {
+        "name": "畏兀儿",
+        "coordinates": [
+          87.62,
+          43.82
+        ],
+        "type": "major",
+        "description": "畏兀儿地区，今新疆吐鲁番"
+      }
+    ]
+  },
+  {
+    "id": "ming",
+    "name": "明",
+    "shortName": "明朝",
+    "period": "1368-1644",
+    "startYear": 1368,
+    "endYear": 1644,
+    "capital": "南京（初期）/ 北京",
+    "capitalCoordinates": [
+      116.41,
+      39.9
+    ],
+    "color": "#cd853f",
+    "secondaryColor": "#deb887",
+    "richness": "rich",
+    "overview": "天子守国门，君王死社稷，郑和七下西洋，紫禁城万间宫阙。",
+    "heroImage": "/images/hero-ming.jpg",
+    "tagline": "天子守国门，不和亲、不纳贡、不割地",
+    "cities": [
+      {
+        "name": "京师",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "capital",
+        "description": "明朝都城，今北京"
+      },
+      {
+        "name": "南京",
+        "coordinates": [
+          118.78,
+          32.05
+        ],
+        "type": "capital",
+        "description": "明朝留都，今江苏南京"
+      },
+      {
+        "name": "中都",
+        "coordinates": [
+          117.38,
+          32.88
+        ],
+        "type": "major",
+        "description": "明中都，今安徽凤阳"
+      },
+      {
+        "name": "苏州",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "苏州府，今江苏苏州"
+      },
+      {
+        "name": "杭州",
+        "coordinates": [
+          120.15,
+          30.28
+        ],
+        "type": "major",
+        "description": "杭州府，今浙江杭州"
+      },
+      {
+        "name": "扬州",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "扬州府，今江苏扬州"
+      },
+      {
+        "name": "济南",
+        "coordinates": [
+          117,
+          36.65
+        ],
+        "type": "major",
+        "description": "济南府，今山东济南"
+      },
+      {
+        "name": "太原",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "太原府，今山西太原"
+      },
+      {
+        "name": "西安",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "major",
+        "description": "西安府，今陕西西安"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "成都府，今四川成都"
+      },
+      {
+        "name": "武昌",
+        "coordinates": [
+          114.32,
+          30.55
+        ],
+        "type": "major",
+        "description": "武昌府，今湖北武汉"
+      },
+      {
+        "name": "长沙",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "长沙府，今湖南长沙"
+      },
+      {
+        "name": "南昌",
+        "coordinates": [
+          115.88,
+          28.68
+        ],
+        "type": "major",
+        "description": "南昌府，今江西南昌"
+      },
+      {
+        "name": "福州",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "major",
+        "description": "福州府，今福建福州"
+      },
+      {
+        "name": "广州",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "广州府，今广东广州"
+      },
+      {
+        "name": "桂林",
+        "coordinates": [
+          110.28,
+          25.28
+        ],
+        "type": "major",
+        "description": "桂林府，今广西桂林"
+      },
+      {
+        "name": "昆明",
+        "coordinates": [
+          102.72,
+          25.05
+        ],
+        "type": "major",
+        "description": "云南府，今云南昆明"
+      },
+      {
+        "name": "贵阳",
+        "coordinates": [
+          106.72,
+          26.58
+        ],
+        "type": "major",
+        "description": "贵阳府，今贵州贵阳"
+      },
+      {
+        "name": "兰州",
+        "coordinates": [
+          103.82,
+          36.05
+        ],
+        "type": "major",
+        "description": "临洮府/兰州，今甘肃兰州"
+      },
+      {
+        "name": "宁夏",
+        "coordinates": [
+          106.28,
+          38.47
+        ],
+        "type": "major",
+        "description": "宁夏镇，今宁夏银川"
+      },
+      {
+        "name": "辽东",
+        "coordinates": [
+          123.42,
+          41.82
+        ],
+        "type": "major",
+        "description": "辽东都司，今辽宁辽阳"
+      },
+      {
+        "name": "大同",
+        "coordinates": [
+          113.3,
+          40.08
+        ],
+        "type": "major",
+        "description": "大同镇，今山西大同"
+      },
+      {
+        "name": "宣府",
+        "coordinates": [
+          115.05,
+          40.55
+        ],
+        "type": "major",
+        "description": "宣府镇，今河北宣化"
+      },
+      {
+        "name": "泉州",
+        "coordinates": [
+          118.68,
+          24.88
+        ],
+        "type": "major",
+        "description": "泉州府，今福建泉州"
+      },
+      {
+        "name": "宁波",
+        "coordinates": [
+          121.55,
+          29.83
+        ],
+        "type": "major",
+        "description": "宁波府，今浙江宁波"
+      }
+    ]
+  },
+  {
+    "id": "qing",
+    "name": "清",
+    "shortName": "清朝",
+    "period": "1644-1912",
+    "startYear": 1644,
+    "endYear": 1912,
+    "capital": "北京",
+    "capitalCoordinates": [
+      116.41,
+      39.9
+    ],
+    "color": "#4169e1",
+    "secondaryColor": "#6495ed",
+    "richness": "rich",
+    "overview": "康乾盛世最后的帝国荣光，万里长城内外一统，帝制在此落幕。",
+    "heroImage": "/images/hero-qing.jpg",
+    "tagline": "康乾盛世，落日余晖照紫禁",
+    "cities": [
+      {
+        "name": "京师",
+        "coordinates": [
+          116.42,
+          39.92
+        ],
+        "type": "capital",
+        "description": "清朝都城，今北京"
+      },
+      {
+        "name": "盛京",
+        "coordinates": [
+          123.42,
+          41.82
+        ],
+        "type": "major",
+        "description": "清朝陪都，今辽宁沈阳"
+      },
+      {
+        "name": "江宁",
+        "coordinates": [
+          118.78,
+          32.05
+        ],
+        "type": "major",
+        "description": "两江总督驻地，今江苏南京"
+      },
+      {
+        "name": "苏州",
+        "coordinates": [
+          120.58,
+          31.3
+        ],
+        "type": "major",
+        "description": "江苏巡抚驻地，今江苏苏州"
+      },
+      {
+        "name": "杭州",
+        "coordinates": [
+          120.15,
+          30.28
+        ],
+        "type": "major",
+        "description": "闽浙总督驻地，今浙江杭州"
+      },
+      {
+        "name": "扬州",
+        "coordinates": [
+          119.42,
+          32.4
+        ],
+        "type": "major",
+        "description": "两淮盐运使驻地，今江苏扬州"
+      },
+      {
+        "name": "济南",
+        "coordinates": [
+          117,
+          36.65
+        ],
+        "type": "major",
+        "description": "山东巡抚驻地，今山东济南"
+      },
+      {
+        "name": "太原",
+        "coordinates": [
+          112.55,
+          37.87
+        ],
+        "type": "major",
+        "description": "山西巡抚驻地，今山西太原"
+      },
+      {
+        "name": "西安",
+        "coordinates": [
+          108.95,
+          34.27
+        ],
+        "type": "major",
+        "description": "陕西巡抚驻地，今陕西西安"
+      },
+      {
+        "name": "兰州",
+        "coordinates": [
+          103.82,
+          36.05
+        ],
+        "type": "major",
+        "description": "陕甘总督驻地，今甘肃兰州"
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.05,
+          30.65
+        ],
+        "type": "major",
+        "description": "四川总督驻地，今四川成都"
+      },
+      {
+        "name": "武昌",
+        "coordinates": [
+          114.32,
+          30.55
+        ],
+        "type": "major",
+        "description": "湖广总督驻地，今湖北武汉"
+      },
+      {
+        "name": "长沙",
+        "coordinates": [
+          112.98,
+          28.22
+        ],
+        "type": "major",
+        "description": "湖南巡抚驻地，今湖南长沙"
+      },
+      {
+        "name": "南昌",
+        "coordinates": [
+          115.88,
+          28.68
+        ],
+        "type": "major",
+        "description": "江西巡抚驻地，今江西南昌"
+      },
+      {
+        "name": "福州",
+        "coordinates": [
+          119.3,
+          26.08
+        ],
+        "type": "major",
+        "description": "闽浙总督驻地，今福建福州"
+      },
+      {
+        "name": "广州",
+        "coordinates": [
+          113.25,
+          23.13
+        ],
+        "type": "major",
+        "description": "两广总督驻地，今广东广州"
+      },
+      {
+        "name": "桂林",
+        "coordinates": [
+          110.28,
+          25.28
+        ],
+        "type": "major",
+        "description": "广西巡抚驻地，今广西桂林"
+      },
+      {
+        "name": "昆明",
+        "coordinates": [
+          102.72,
+          25.05
+        ],
+        "type": "major",
+        "description": "云贵总督驻地，今云南昆明"
+      },
+      {
+        "name": "贵阳",
+        "coordinates": [
+          106.72,
+          26.58
+        ],
+        "type": "major",
+        "description": "贵州巡抚驻地，今贵州贵阳"
+      },
+      {
+        "name": "乌鲁木齐",
+        "coordinates": [
+          87.62,
+          43.82
+        ],
+        "type": "major",
+        "description": "伊犁将军辖地，今新疆乌鲁木齐"
+      },
+      {
+        "name": "拉萨",
+        "coordinates": [
+          91.12,
+          29.65
+        ],
+        "type": "major",
+        "description": "驻藏大臣驻地，今西藏拉萨"
+      },
+      {
+        "name": "西宁",
+        "coordinates": [
+          101.78,
+          36.62
+        ],
+        "type": "major",
+        "description": "西宁办事大臣驻地，今青海西宁"
+      },
+      {
+        "name": "承德",
+        "coordinates": [
+          117.92,
+          40.97
+        ],
+        "type": "major",
+        "description": "热河行宫，今河北承德"
+      },
+      {
+        "name": "吉林",
+        "coordinates": [
+          126.55,
+          43.83
+        ],
+        "type": "major",
+        "description": "吉林将军驻地，今吉林吉林"
+      },
+      {
+        "name": "齐齐哈尔",
+        "coordinates": [
+          123.95,
+          47.35
+        ],
+        "type": "major",
+        "description": "黑龙江将军驻地，今黑龙江齐齐哈尔"
+      },
+      {
+        "name": "台湾",
+        "coordinates": [
+          121.5,
+          25.03
+        ],
+        "type": "major",
+        "description": "台湾府，今台湾台南"
+      },
+      {
+        "name": "哈尔滨",
+        "coordinates": [
+          126.53,
+          45.8
+        ],
+        "type": "major",
+        "description": "阿勒楚喀，今黑龙江哈尔滨"
+      },
+      {
+        "name": "伊犁",
+        "coordinates": [
+          81.32,
+          43.92
+        ],
+        "type": "major",
+        "description": "伊犁将军驻地，今新疆伊宁"
+      },
+      {
+        "name": "喀什",
+        "coordinates": [
+          75.98,
+          39.47
+        ],
+        "type": "major",
+        "description": "喀什噶尔参赞大臣驻地，今新疆喀什"
+      },
+      {
+        "name": "库伦",
+        "coordinates": [
+          106.9,
+          47.92
+        ],
+        "type": "major",
+        "description": "库伦办事大臣驻地，今蒙古国乌兰巴托"
+      }
+    ]
+  }
+]

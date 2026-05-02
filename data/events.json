@@ -1,0 +1,3001 @@
+[
+  {
+    "id": "event-hereditary-xia",
+    "year": -2070,
+    "title": "禹传子启，世袭制建立",
+    "dynasty": "xia",
+    "category": "politics",
+    "location": "阳城",
+    "coordinates": [
+      113.1,
+      34.5
+    ],
+    "description": "大禹死后，其子启打破禅让传统，继承王位，建立夏朝。此举标志着中国从部落联盟进入世袭王朝时代，开启了家天下的政治格局。",
+    "significance": "确立了中国古代政治制度中世袭制的基础，深刻影响了此后四千年的王朝更替模式。",
+    "relatedFigures": [
+      "dayu",
+      "qi"
+    ],
+    "image": "/images/event-dayu.jpg"
+  },
+  {
+    "id": "event-shaokang-zhongxing",
+    "year": -1875,
+    "title": "少康中兴",
+    "dynasty": "xia",
+    "category": "military",
+    "location": "纶邑",
+    "coordinates": [
+      113.5,
+      34.2
+    ],
+    "description": "夏朝中期，寒浞篡位，少康凭借有虞氏支持，积蓄力量，最终起兵击败寒浞父子，恢复夏朝统治。",
+    "significance": "是中国历史上首次以弱小力量复国成功的典范，被后世称为'中兴'之祖。",
+    "relatedFigures": [
+      "shaokang"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-erlitou-culture",
+    "year": -1900,
+    "title": "二里头文化形成",
+    "dynasty": "xia",
+    "category": "culture",
+    "location": "二里头",
+    "coordinates": [
+      112.7,
+      34.7
+    ],
+    "description": "以河南偃师二里头遗址为代表的考古学文化，展现了夏代晚期高度发达的宫殿建筑、青铜礼器和等级分明的社会结构。",
+    "significance": "被公认为探索夏文化的关键遗址，证明了早期国家形态在中原地区的形成。",
+    "relatedFigures": [],
+    "image": ""
+  },
+  {
+    "id": "event-bronze-xia",
+    "year": -1800,
+    "title": "青铜器铸造技术萌芽",
+    "dynasty": "xia",
+    "category": "technology",
+    "location": "二里头",
+    "coordinates": [
+      112.7,
+      34.7
+    ],
+    "description": "夏代工匠掌握了复合范铸青铜技术，开始铸造爵、斝等青铜礼器，标志着中国青铜时代的开端。",
+    "significance": "青铜铸造技术成为中国古代最重要的手工业成就之一，奠定了商周青铜文明的技术基础。",
+    "relatedFigures": [],
+    "image": ""
+  },
+  {
+    "id": "event-tang-mie-xia",
+    "year": -1600,
+    "title": "商汤灭夏",
+    "dynasty": "shang",
+    "category": "military",
+    "location": "鸣条",
+    "coordinates": [
+      112.5,
+      35.2
+    ],
+    "description": "商汤率领方国联军在鸣条之战中大败夏桀，夏朝灭亡，商朝建立。这是中国历史上第一次王朝更迭。",
+    "significance": "开启了'汤武革命'的历史叙事，为后世王朝更替提供了合法性论述的范式。",
+    "relatedFigures": [
+      "shangtang",
+      "xiajie"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-pangeng-qianyin",
+    "year": -1300,
+    "title": "盘庚迁殷",
+    "dynasty": "shang",
+    "category": "politics",
+    "location": "殷",
+    "coordinates": [
+      114.3,
+      36.1
+    ],
+    "description": "商王盘庚力排众议，将都城从奄迁至殷，稳定了政局，使商朝摆脱政治危机，此后商朝不再迁都。",
+    "significance": "此后商朝进入稳定发展期，因此商朝也被称为殷商，奠定了晚期商文化的繁荣基础。",
+    "relatedFigures": [
+      "pangeng"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-oracle-bones",
+    "year": -1250,
+    "title": "甲骨文出现",
+    "dynasty": "shang",
+    "category": "culture",
+    "location": "殷墟",
+    "coordinates": [
+      114.3,
+      36.1
+    ],
+    "description": "商代晚期，王室在龟甲兽骨上刻写卜辞，用于占卜和记录。甲骨文是中国已知最早的成熟文字系统。",
+    "significance": "甲骨文的发现证实了商朝历史的真实性，为研究汉字起源和古代社会提供了珍贵资料。",
+    "relatedFigures": [
+      "wuding"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-simuwu-ding",
+    "year": -1200,
+    "title": "司母戊鼎铸造",
+    "dynasty": "shang",
+    "category": "technology",
+    "location": "殷墟",
+    "coordinates": [
+      114.3,
+      36.1
+    ],
+    "description": "商代工匠铸造了重达832.84公斤的司母戊大方鼎，采用多范合铸的复杂工艺，代表了青铜铸造技术的巅峰。",
+    "significance": "是世界迄今发现的最大、最重的古代青铜器，体现了商代高度发达的手工业组织能力和技术水平。",
+    "relatedFigures": [],
+    "image": ""
+  },
+  {
+    "id": "event-wuwang-ke-shang",
+    "year": -1046,
+    "title": "武王克商",
+    "dynasty": "zhou",
+    "category": "politics",
+    "location": "镐京",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "周武王姬发率军东征，在牧野击败商军，商纣自焚，商朝灭亡。周朝建立，定都镐京，实行分封制。",
+    "significance": "建立了延续近八百年的周朝，分封制和宗法制奠定了中国古代政治制度的基本框架。",
+    "relatedFigures": [
+      "zhouwuwang",
+      "zhougong"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-muye-zhizhan",
+    "year": -1046,
+    "title": "牧野之战",
+    "dynasty": "zhou",
+    "category": "military",
+    "location": "牧野",
+    "coordinates": [
+      113.9,
+      35.3
+    ],
+    "description": "周武王联军与商朝军队在牧野展开决战，商军奴隶阵前倒戈，周军大胜，加速了商朝灭亡。",
+    "significance": "是中国历史上以少胜多的著名战役，也是中国纪年体系的重要节点。",
+    "relatedFigures": [
+      "zhouwuwang",
+      "zhouwang"
+    ],
+    "image": "/images/event-muye.jpg"
+  },
+  {
+    "id": "event-liyue-zhidu",
+    "year": -1040,
+    "title": "礼乐制度确立",
+    "dynasty": "zhou",
+    "category": "culture",
+    "location": "洛邑",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "周公制礼作乐，建立了一整套以宗法等级为核心的礼乐制度，规范了君臣、父子、夫妇等社会关系。",
+    "significance": "礼乐文化成为中华文明的核心特征之一，深刻影响了中国古代社会的伦理观念和政治文化。",
+    "relatedFigures": [
+      "zhougong"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-iron-zhou",
+    "year": -800,
+    "title": "铁器开始出现",
+    "dynasty": "zhou",
+    "category": "technology",
+    "location": "虢国",
+    "coordinates": [
+      111.2,
+      34.7
+    ],
+    "description": "西周晚期至春秋时期，中国开始出现人工冶铁制品。虢国墓地出土的玉柄铁剑是目前发现最早的铁器之一。",
+    "significance": "铁器的出现和普及推动了农业生产力的大幅提升，为春秋战国的社会变革奠定了物质基础。",
+    "relatedFigures": [],
+    "image": ""
+  },
+  {
+    "id": "event-qin-unification",
+    "year": -221,
+    "title": "秦始皇统一六国",
+    "dynasty": "qin",
+    "category": "politics",
+    "location": "咸阳",
+    "coordinates": [
+      108.7,
+      34.3
+    ],
+    "description": "秦王嬴政先后攻灭韩、赵、魏、楚、燕、齐六国，建立中国历史上第一个大一统中央集权帝国，自称始皇帝。",
+    "significance": "结束了春秋战国五百余年的分裂局面，确立了郡县制和中央集权体制，塑造了此后两千年的政治格局。",
+    "relatedFigures": [
+      "qinshihuang",
+      "lisi"
+    ],
+    "image": "/images/event-unify.jpg"
+  },
+  {
+    "id": "event-changping-zhizhan",
+    "year": -260,
+    "title": "长平之战",
+    "dynasty": "qin",
+    "category": "military",
+    "location": "长平",
+    "coordinates": [
+      112.9,
+      35.8
+    ],
+    "description": "秦赵两国在长平展开战略决战，秦将白起围困赵军四十余日，赵括战死，四十万赵军投降后被坑杀。",
+    "significance": "是战国时期规模最大、最为惨烈的战役，此役后赵国元气大伤，秦国统一之势已不可阻挡。",
+    "relatedFigures": [
+      "baiqi",
+      "zhaokuo"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-shu-tong-wen",
+    "year": -221,
+    "title": "书同文",
+    "dynasty": "qin",
+    "category": "culture",
+    "location": "咸阳",
+    "coordinates": [
+      108.7,
+      34.3
+    ],
+    "description": "秦始皇下令统一文字，以秦国的小篆为标准字体，废除六国异形文字，由李斯等人整理颁布。",
+    "significance": "文字的统一促进了文化认同和政令畅通，为中华文明的延续和统一多民族国家的形成提供了文化纽带。",
+    "relatedFigures": [
+      "qinshihuang",
+      "lisi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-dujiangyan",
+    "year": -256,
+    "title": "都江堰建成",
+    "dynasty": "qin",
+    "category": "technology",
+    "location": "成都",
+    "coordinates": [
+      103.6,
+      31
+    ],
+    "description": "秦蜀郡太守李冰主持修建都江堰水利工程，通过鱼嘴分水、飞沙堰溢洪、宝瓶口引水，科学地解决了岷江水患和灌溉问题。",
+    "significance": "使成都平原成为'水旱从人，不知饥馑'的天府之国，至今仍在发挥灌溉作用，是世界水利史上的奇迹。",
+    "relatedFigures": [
+      "libing"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-hanwudi-ascend",
+    "year": -141,
+    "title": "汉武帝即位",
+    "dynasty": "han",
+    "category": "politics",
+    "location": "长安",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "刘彻即位为汉武帝，在位五十余年，推行推恩令、独尊儒术、盐铁官营等政策，全面加强中央集权。",
+    "significance": "汉武帝的统治奠定了汉帝国的鼎盛格局，儒家思想成为正统意识形态，影响此后两千年的中国政治文化。",
+    "relatedFigures": [
+      "hanwudi",
+      "dong-zhongshu"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-mobei-zhizhan",
+    "year": -119,
+    "title": "漠北之战",
+    "dynasty": "han",
+    "category": "military",
+    "location": "漠北",
+    "coordinates": [
+      110,
+      47
+    ],
+    "description": "汉武帝派遣卫青、霍去病各率五万骑兵深入漠北，与匈奴单于主力决战，大败匈奴，封狼居胥。",
+    "significance": "是汉匈战争的转折点，匈奴被迫远徙漠北，'匈奴远遁，而漠南无王庭'，保障了北方边境的长期安宁。",
+    "relatedFigures": [
+      "huoqubing",
+      "weiqing"
+    ],
+    "image": "/images/event-zhangqian.jpg"
+  },
+  {
+    "id": "event-shiji",
+    "year": -91,
+    "title": "司马迁著《史记》",
+    "dynasty": "han",
+    "category": "culture",
+    "location": "长安",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "太史令司马迁忍辱负重，历时十余年完成中国第一部纪传体通史《史记》，记载了从黄帝到汉武帝的历史。",
+    "significance": "《史记》开创了纪传体史书的编纂体例，被鲁迅誉为'史家之绝唱，无韵之离骚'，对后世史学和文学影响深远。",
+    "relatedFigures": [
+      "simaqian"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-cailun-paper",
+    "year": 105,
+    "title": "蔡伦改进造纸术",
+    "dynasty": "han",
+    "category": "technology",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "宦官蔡伦总结前人经验，以树皮、麻头、破布、旧渔网为原料，改进了造纸工艺，制成了质量优良的植物纤维纸。",
+    "significance": "造纸术的改进使文字载体成本大幅降低，促进了知识的传播和文化的普及，是中国古代四大发明之一。",
+    "relatedFigures": [
+      "cailun"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-chibi-zhizhan",
+    "year": 208,
+    "title": "赤壁之战",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "赤壁",
+    "coordinates": [
+      113.9,
+      29.7
+    ],
+    "description": "孙权、刘备联军在长江赤壁一带以火攻大破曹操大军，曹操退回北方，奠定了三国鼎立的基础。",
+    "significance": "是中国历史上以弱胜强、以少胜多的经典水战，也是三国格局形成的关键战役。",
+    "relatedFigures": [
+      "zhouyu",
+      "zhugeliang",
+      "caocao"
+    ],
+    "image": "/images/event-chibi.jpg"
+  },
+  {
+    "id": "event-cao-pi-wei",
+    "year": 220,
+    "title": "曹丕篡汉建魏",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "曹操去世后，其子曹丕逼迫汉献帝禅让，建立曹魏政权，定都洛阳。汉朝正式灭亡。",
+    "significance": "标志着三国时代的正式开始，也标志着四百余年汉朝统治的终结。",
+    "relatedFigures": [
+      "caopi",
+      "hanxiandi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-jiuzhang-zhushu",
+    "year": 263,
+    "title": "刘徽注《九章算术》",
+    "dynasty": "sanguo",
+    "category": "culture",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "魏晋数学家刘徽为《九章算术》作注，提出了割圆术、十进小数等先进数学思想，将圆周率精确到3.1416。",
+    "significance": "刘徽的注疏奠定了中国古代数学的理论基础，其数学思想在当时处于世界领先水平。",
+    "relatedFigures": [
+      "liuhui"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-muniu-liuma",
+    "year": 231,
+    "title": "诸葛亮发明木牛流马",
+    "dynasty": "sanguo",
+    "category": "technology",
+    "location": "祁山",
+    "coordinates": [
+      105.3,
+      34.2
+    ],
+    "description": "蜀汉丞相诸葛亮在北伐过程中，为解决蜀道运粮困难，发明了木牛流马等运输工具，提高了后勤效率。",
+    "significance": "体现了三国时期在机械设计和运输技术方面的创新，虽有神秘色彩，但反映了古人解决实际工程问题的智慧。",
+    "relatedFigures": [
+      "zhugeliang"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-xijin-establish",
+    "year": 266,
+    "title": "司马炎建立西晋",
+    "dynasty": "jin",
+    "category": "politics",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "司马炎逼迫魏元帝禅让，建立晋朝，定都洛阳，史称西晋。随后出兵灭吴，短暂统一中国。",
+    "significance": "结束了三国鼎立的分裂局面，实现了短暂的大一统，但随后的分封政策也为八王之乱埋下隐患。",
+    "relatedFigures": [
+      "simayan"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-feishui-zhizhan",
+    "year": 383,
+    "title": "淝水之战",
+    "dynasty": "jin",
+    "category": "military",
+    "location": "淝水",
+    "coordinates": [
+      116.8,
+      32
+    ],
+    "description": "前秦苻坚率八十余万大军南下，东晋谢安、谢玄率北府兵八万在淝水以少胜多，大败前秦。",
+    "significance": "保障了东晋的偏安局面，使江南地区免受北方少数民族政权的直接统治，为南方文化经济发展创造了条件。",
+    "relatedFigures": [
+      "xiean",
+      "fujian"
+    ],
+    "image": "/images/event-xiaoyan.jpg"
+  },
+  {
+    "id": "event-lantingxu",
+    "year": 353,
+    "title": "王羲之写《兰亭序》",
+    "dynasty": "jin",
+    "category": "culture",
+    "location": "会稽山阴",
+    "coordinates": [
+      120.6,
+      30
+    ],
+    "description": "东晋书法家王羲之在兰亭与友人雅集，乘兴写下《兰亭序》，记述山水之美与聚会之乐，抒发对人生无常的感慨。",
+    "significance": "《兰亭序》被誉为'天下第一行书'，王羲之被尊为'书圣'，此作成为中国书法艺术的不朽典范。",
+    "relatedFigures": [
+      "wangxizhi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-yugong-diyutu",
+    "year": 268,
+    "title": "裴秀创制《禹贡地域图》",
+    "dynasty": "jin",
+    "category": "technology",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "西晋地图学家裴秀主持编制《禹贡地域图》十八篇，提出了'制图六体'理论，系统总结了绘制地图的六项原则。",
+    "significance": "裴秀被李约瑟称为'中国科学制图学之父'，其制图六体理论对中国古代地图学发展影响深远。",
+    "relatedFigures": [
+      "peixiu"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-sui-unification",
+    "year": 589,
+    "title": "隋文帝统一南北",
+    "dynasty": "sui",
+    "category": "politics",
+    "location": "大兴",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "隋文帝杨坚派晋王杨广率军南下，攻占建康，灭亡陈朝，结束了自西晋灭亡以来近三百年的分裂局面。",
+    "significance": "重建了大一统帝国，推行三省六部制、均田制、租庸调制，为隋唐盛世奠定了制度基础。",
+    "relatedFigures": [
+      "suiwendihuan"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-sui-gaogouli",
+    "year": 612,
+    "title": "隋炀帝三征高句丽",
+    "dynasty": "sui",
+    "category": "military",
+    "location": "辽东",
+    "coordinates": [
+      123.4,
+      41.8
+    ],
+    "description": "隋炀帝杨广先后三次发动对高句丽的大规模战争，动员兵力数百万，但均以失败告终，造成国力空虚、民怨沸腾。",
+    "significance": "三征高句丽严重消耗了隋朝国力，直接引发了隋末农民大起义，加速了隋朝的灭亡。",
+    "relatedFigures": [
+      "suiyangdi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-keju-founded",
+    "year": 605,
+    "title": "科举制度创立",
+    "dynasty": "sui",
+    "category": "culture",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "隋炀帝设立进士科，以考试选拔人才，标志着科举制度的正式创立，打破了魏晋以来门阀士族对仕途的垄断。",
+    "significance": "科举制度是中国古代最重要的选官制度，持续一千三百余年，对社会流动和文化传承产生了深远影响。",
+    "relatedFigures": [
+      "suiyangdi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-grand-canal",
+    "year": 605,
+    "title": "大运河开凿",
+    "dynasty": "sui",
+    "category": "technology",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "隋炀帝征发数百万民工，以洛阳为中心，开凿通济渠、永济渠、邗沟、江南河，贯通南北五大水系。",
+    "significance": "大运河成为南北经济文化交流的大动脉，促进了沿岸城市的繁荣，其部分河段至今仍在使用。",
+    "relatedFigures": [
+      "suiyangdi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-xuanwumen",
+    "year": 626,
+    "title": "玄武门之变",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "长安",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "秦王李世民在长安玄武门发动政变，诛杀太子李建成和齐王李元吉，随后李渊退位，李世民即位为唐太宗。",
+    "significance": "虽然手段残酷，但使李世民掌握了政权，开启了贞观之治，成为唐朝走向盛世的关键转折点。",
+    "relatedFigures": [
+      "lishimin",
+      "li-jiancheng"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-anshi-zhiluan",
+    "year": 755,
+    "title": "安史之乱爆发",
+    "dynasty": "tang",
+    "category": "military",
+    "location": "范阳",
+    "coordinates": [
+      116.1,
+      39.7
+    ],
+    "description": "安禄山、史思明在范阳起兵叛乱，叛军攻陷洛阳、长安，唐玄宗仓皇出逃，唐朝由盛转衰。",
+    "significance": "是唐朝由盛转衰的转折点，藩镇割据局面形成，北方经济遭到严重破坏，人口大量南迁。",
+    "relatedFigures": [
+      "anlushan",
+      "tangxuanzong"
+    ],
+    "image": "/images/event-maweipo.jpg"
+  },
+  {
+    "id": "event-lidu-poetry",
+    "year": 750,
+    "title": "李白杜甫诗歌繁荣",
+    "dynasty": "tang",
+    "category": "culture",
+    "location": "长安",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "盛唐时期，李白、杜甫等诗人将唐诗推向巅峰。李白的诗豪放飘逸，杜甫的诗沉郁顿挫，各臻其妙。",
+    "significance": "唐诗是中国古典诗歌的黄金时代，代表了中华文学的巅峰成就，对后世文学影响不可估量。",
+    "relatedFigures": [
+      "libai",
+      "dufu"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-woodblock-printing",
+    "year": 868,
+    "title": "雕版印刷术发明",
+    "dynasty": "tang",
+    "category": "technology",
+    "location": "长安",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "唐代发明了雕版印刷术，现存最早的标有年代的印刷品是咸通九年刻印的《金刚经》，工艺精美，图文清晰。",
+    "significance": "印刷术的发明大大提高了书籍复制效率，促进了知识的传播和教育的发展，是中国古代四大发明之一。",
+    "relatedFigures": [],
+    "image": "/images/event-xuanzang.jpg"
+  },
+  {
+    "id": "event-houliang-establish",
+    "year": 907,
+    "title": "朱温建立后梁",
+    "dynasty": "wudai",
+    "category": "politics",
+    "location": "开封",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "宣武节度使朱温逼迫唐哀帝禅让，建立梁朝，定都开封，史称后梁。唐朝正式灭亡，五代十国时期开始。",
+    "significance": "标志着五代十国分裂局面的开端，此后北方政权更迭频繁，政权平均存在时间不足十年。",
+    "relatedFigures": [
+      "zhuwen"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-zhoushizong-beifa",
+    "year": 959,
+    "title": "周世宗北伐",
+    "dynasty": "wudai",
+    "category": "military",
+    "location": "幽州",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "后周世宗柴荣率军北伐辽国，连克益津关、瓦桥关、淤口关三关，收复部分失地，但因患病班师。",
+    "significance": "是五代时期中原政权对辽国少有的军事胜利，为后来北宋的统一战争奠定了基础。",
+    "relatedFigures": [
+      "chairong"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-jiujing-keyin",
+    "year": 932,
+    "title": "冯道刻印《九经》",
+    "dynasty": "wudai",
+    "category": "culture",
+    "location": "开封",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "后唐宰相冯道主持在国子监刻印儒家《九经》，历时二十余年完成，是官方大规模刻印书籍的开端。",
+    "significance": "开创了儒家经典官方刻印的传统，促进了儒学经典的传播和规范化，对宋代科举和学术发展影响深远。",
+    "relatedFigures": [
+      "fengdao"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-gunpowder-military",
+    "year": 904,
+    "title": "火药用于军事",
+    "dynasty": "wudai",
+    "category": "technology",
+    "location": "豫章",
+    "coordinates": [
+      115.9,
+      28.7
+    ],
+    "description": "五代时期，杨行密的军队在攻打豫章时使用了'发机飞火'，即利用火药制作的燃烧性武器，这是火药用于军事的最早记载之一。",
+    "significance": "火药从炼丹术走向军事应用，是世界军事技术史上的重大革命，后来经阿拉伯传入欧洲，改变了世界格局。",
+    "relatedFigures": [],
+    "image": ""
+  },
+  {
+    "id": "event-chenqiao-bingbian",
+    "year": 960,
+    "title": "陈桥兵变，北宋建立",
+    "dynasty": "song",
+    "category": "politics",
+    "location": "开封",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "后周将领赵匡胤在陈桥驿发动兵变，黄袍加身，回师开封，逼迫周恭帝禅位，建立宋朝，定都开封。",
+    "significance": "结束了五代十国的分裂局面，建立了延续三百余年的宋朝，但重文轻武的国策也为后来的边患埋下伏笔。",
+    "relatedFigures": [
+      "zhaokuangyin"
+    ],
+    "image": "/images/event-beijiu.jpg"
+  },
+  {
+    "id": "event-chanyuan-zhi-meng",
+    "year": 1005,
+    "title": "澶渊之盟",
+    "dynasty": "song",
+    "category": "military",
+    "location": "澶州",
+    "coordinates": [
+      115,
+      35.7
+    ],
+    "description": "北宋与辽在澶州订立和约，约定宋辽为兄弟之国，宋每年向辽缴纳岁币。辽军北撤，双方维持和平。",
+    "significance": "结束了宋辽之间长达二十五年的战争，此后两国维持了近百年的和平，促进了经济文化交流。",
+    "relatedFigures": [
+      "zhenzong",
+      "khitan-shengzong"
+    ],
+    "image": "/images/event-jingkang.jpg"
+  },
+  {
+    "id": "event-chengzhu-lixue",
+    "year": 1050,
+    "title": "程朱理学兴起",
+    "dynasty": "song",
+    "category": "culture",
+    "location": "洛阳",
+    "coordinates": [
+      112.4,
+      34.6
+    ],
+    "description": "北宋中期，程颢、程颐兄弟在洛阳讲学，提出'存天理，灭人欲'的哲学思想，奠定了程朱理学的理论基础。",
+    "significance": "程朱理学成为宋明时期占统治地位的官方哲学，深刻影响了中国近千年的社会伦理和东亚文化圈。",
+    "relatedFigures": [
+      "chenghao",
+      "chengyi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-bisheng-printing",
+    "year": 1041,
+    "title": "毕昇发明活字印刷",
+    "dynasty": "song",
+    "category": "technology",
+    "location": "杭州",
+    "coordinates": [
+      120.2,
+      30.3
+    ],
+    "description": "北宋平民毕昇发明了胶泥活字印刷术，用胶泥刻字，火烧硬化后排版印刷，大大提高了印刷效率。",
+    "significance": "活字印刷术是印刷史上的重大革新，比古腾堡的金属活字早约四百年，是中国古代四大发明之一。",
+    "relatedFigures": [
+      "bisheng"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-yuan-establish",
+    "year": 1271,
+    "title": "忽必烈建立元朝",
+    "dynasty": "yuan",
+    "category": "politics",
+    "location": "大都",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "忽必烈取《易经》'大哉乾元'之意，定国号为大元，正式建立元朝。1279年灭南宋，统一全国。",
+    "significance": "元朝是中国历史上第一个由少数民族建立的大一统王朝，疆域空前辽阔，行省制度对后世行政区划影响深远。",
+    "relatedFigures": [
+      "kublai"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-xiangyang-zhizhan",
+    "year": 1273,
+    "title": "襄阳之战",
+    "dynasty": "yuan",
+    "category": "military",
+    "location": "襄阳",
+    "coordinates": [
+      112.1,
+      32
+    ],
+    "description": "元军围攻南宋重镇襄阳、樊城长达六年，最终使用回回炮攻破城池。此战后南宋门户洞开，灭亡在即。",
+    "significance": "是宋元战争中最为惨烈和关键的战役，决定了南宋的命运，也展示了当时最先进的攻城武器技术。",
+    "relatedFigures": [
+      "kublai",
+      "lu-wenhuan"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-yuanqu-xingsheng",
+    "year": 1300,
+    "title": "元曲兴盛",
+    "dynasty": "yuan",
+    "category": "culture",
+    "location": "大都",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "元代城市经济繁荣，杂剧和散曲兴盛。关汉卿、马致远、郑光祖、白朴等被誉为'元曲四大家'，创作了大量脍炙人口的作品。",
+    "significance": "元曲与唐诗、宋词并称，是中国文学史上的重要里程碑，反映了元代市民文化的繁荣和多元文化的交融。",
+    "relatedFigures": [
+      "guanhanqing",
+      "mayuanji"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-shoushili",
+    "year": 1281,
+    "title": "郭守敬编制《授时历》",
+    "dynasty": "yuan",
+    "category": "technology",
+    "location": "大都",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "天文学家郭守敬主持编制《授时历》，测定一年为365.2425日，与现行公历相同但早三百年，并创制了简仪等天文仪器。",
+    "significance": "《授时历》是中国古代最精密的历法之一，使用了三百六十四年，其天文观测和仪器制造技术达到世界先进水平。",
+    "relatedFigures": [
+      "guoshoujing"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-ming-establish",
+    "year": 1368,
+    "title": "朱元璋建立明朝",
+    "dynasty": "ming",
+    "category": "politics",
+    "location": "应天",
+    "coordinates": [
+      118.8,
+      32
+    ],
+    "description": "朱元璋在应天称帝，国号大明，年号洪武。随后派徐达北伐，攻占大都，推翻元朝统治。",
+    "significance": "恢复了汉族对全国的统治，重建了大一统王朝，废丞相、设锦衣卫等制度对明代政治产生了深远影响。",
+    "relatedFigures": [
+      "zhuyuanzhang",
+      "xuda"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-zhenghe-voyages",
+    "year": 1405,
+    "title": "郑和下西洋",
+    "dynasty": "ming",
+    "category": "military",
+    "location": "刘家港",
+    "coordinates": [
+      121.1,
+      31.5
+    ],
+    "description": "明成祖派遣郑和率领庞大船队七下西洋，访问亚非三十余国，最远到达东非木骨都束，展示了明朝强大的海上力量。",
+    "significance": "是世界航海史上的空前壮举，比哥伦布发现新大陆早八十余年，促进了中外文化交流和海上贸易。",
+    "relatedFigures": [
+      "zhenghe",
+      "yongle"
+    ],
+    "image": "/images/event-zhenghe.jpg"
+  },
+  {
+    "id": "event-yongle-dadian",
+    "year": 1407,
+    "title": "《永乐大典》编纂",
+    "dynasty": "ming",
+    "category": "culture",
+    "location": "南京",
+    "coordinates": [
+      118.8,
+      32
+    ],
+    "description": "明成祖下令编纂大型类书《永乐大典》，召集三千余名学者，收录古今图书七八千种，装成二万二千余册。",
+    "significance": "是世界有史以来最大的百科全书，保存了大量明以前的文献资料，是中华文明的珍贵文化遗产。",
+    "relatedFigures": [
+      "yongle",
+      "jie-jin"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-bencao-gangmu",
+    "year": 1578,
+    "title": "李时珍著《本草纲目》",
+    "dynasty": "ming",
+    "category": "technology",
+    "location": "蕲州",
+    "coordinates": [
+      115.4,
+      30.1
+    ],
+    "description": "医学家李时珍历时二十七年，走遍名山大川，搜集药物标本，编纂完成《本草纲目》，收录药物1892种。",
+    "significance": "是中国古代药物学的集大成之作，对中医药学发展影响深远，被达尔文等西方学者引用和推崇。",
+    "relatedFigures": [
+      "lishizhen"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-qing-ruiguan",
+    "year": 1644,
+    "title": "清军入关",
+    "dynasty": "qing",
+    "category": "politics",
+    "location": "北京",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "明末李自成攻陷北京，崇祯帝自缢。驻守山海关的明将吴三桂引清军入关，清军击败李自成，攻占北京，建立对全国的统治。",
+    "significance": "标志着清朝从地方政权转变为全国性政权，开启了满族统治中国近三百年的历史。",
+    "relatedFigures": [
+      "shunzhi",
+      "dorgon",
+      "wusangui"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-yakesa-zhizhan",
+    "year": 1685,
+    "title": "雅克萨之战",
+    "dynasty": "qing",
+    "category": "military",
+    "location": "雅克萨",
+    "coordinates": [
+      123.5,
+      53.5
+    ],
+    "description": "清康熙帝派遣清军进攻盘踞雅克萨的沙俄侵略军，经过两次战斗，俄军投降。随后双方签订了《尼布楚条约》。",
+    "significance": "是清朝初期捍卫东北边疆的重要战役，也是中俄签订的第一个边界条约，维持了中俄东疆百余年的和平。",
+    "relatedFigures": [
+      "kangxi"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-siku-quanshu",
+    "year": 1773,
+    "title": "《四库全书》编纂",
+    "dynasty": "qing",
+    "category": "culture",
+    "location": "北京",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "乾隆帝下令编纂《四库全书》，由纪昀等三百六十余位学者参与，收录图书三千五百余种，分经史子集四部，共七万九千余卷。",
+    "significance": "是中国古代最大的官修丛书，系统整理了中国传统文化典籍，但编纂过程中也销毁了不少'禁书'。",
+    "relatedFigures": [
+      "qianlong",
+      "jiyun"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-jingzhang-railway",
+    "year": 1909,
+    "title": "詹天佑修建京张铁路",
+    "dynasty": "qing",
+    "category": "technology",
+    "location": "张家口",
+    "coordinates": [
+      114.9,
+      40.8
+    ],
+    "description": "詹天佑主持修建北京至张家口的铁路，创造性地设计了'人'字形线路，解决了八达岭段的爬坡难题，是中国自主设计和修建的第一条铁路。",
+    "significance": "打破了外国人对中国铁路建设的垄断，是中国近代工程技术的标志性成就，极大地振奋了民族自信心。",
+    "relatedFigures": [
+      "zhantianyou"
+    ],
+    "image": ""
+  },
+  {
+    "id": "event-taoyuan-sanjiayi",
+    "year": 184,
+    "title": "桃园三结义",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "涿郡（今河北涿州）",
+    "coordinates": [
+      115.97,
+      39.48
+    ],
+    "description": "东汉末年，刘备、关羽、张飞在涿郡张飞庄后的桃园中结为异姓兄弟，誓曰\"不求同年同月同日生，但求同年同月同日死\"。此举标志着蜀汉集团的雏形形成，三人从此生死与共，共同投身于平定黄巾之乱的战争中。",
+    "significance": "奠定了蜀汉政权的核心班底，成为中国历史上忠义精神的最高象征，影响了后世数千年的兄弟伦理观念。",
+    "relatedFigures": [
+      "liubei",
+      "guanyu",
+      "zhangfei"
+    ]
+  },
+  {
+    "id": "event-guandu-zhizhan",
+    "year": 200,
+    "title": "官渡之战",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "官渡（今河南中牟）",
+    "coordinates": [
+      113.97,
+      34.72
+    ],
+    "description": "曹操与袁绍在官渡展开决战。曹操兵力远少于袁绍，但他采纳许攸的建议，奇袭乌巢烧毁袁绍粮草，导致袁军大乱。曹操乘势出击，大败袁绍，奠定了统一北方的基础。",
+    "significance": "中国历史上以少胜多的经典战役，确立了曹操在北方的主导地位，为后来魏国的建立奠定了坚实基础。",
+    "relatedFigures": [
+      "caocao",
+      "yuanshao",
+      "guojia"
+    ]
+  },
+  {
+    "id": "event-sangu-maolu",
+    "year": 207,
+    "title": "三顾茅庐",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "隆中（今湖北襄阳）",
+    "coordinates": [
+      112.15,
+      32.05
+    ],
+    "description": "刘备为求贤才，三次前往隆中拜访诸葛亮。前两次诸葛亮均外出，第三次终于得见。诸葛亮为刘备分析了天下形势，提出\"隆中对\"战略——先取荆州，再取益州，三分天下，最后北伐中原统一天下。",
+    "significance": "确立了蜀汉的战略方针，诸葛亮出山辅佐刘备，成为蜀汉最重要的军师。这一事件成为中国历史上求贤若渴的典范。",
+    "relatedFigures": [
+      "liubei",
+      "zhugeliang"
+    ]
+  },
+  {
+    "id": "event-guanyu-maicheng",
+    "year": 219,
+    "title": "关羽败走麦城",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "麦城（今湖北当阳）",
+    "coordinates": [
+      111.78,
+      30.82
+    ],
+    "description": "关羽北伐襄樊，水淹七军威震华夏，但东吴吕蒙偷袭荆州，关羽腹背受敌，退守麦城。粮尽援绝后，他突围被擒，被孙权下令斩首。关羽之死震动天下，直接引发了后来的夷陵之战。",
+    "significance": "关羽的死亡标志着蜀汉由盛转衰的转折点，也导致了吴蜀联盟的破裂，改变了三国鼎立的格局。",
+    "relatedFigures": [
+      "guanyu",
+      "sunquan"
+    ]
+  },
+  {
+    "id": "event-yiling-zhizhan",
+    "year": 222,
+    "title": "夷陵之战",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "夷陵（今湖北宜昌）",
+    "coordinates": [
+      111.28,
+      30.7
+    ],
+    "description": "刘备为替关羽报仇，率大军伐吴。吴军统帅陆逊采取坚壁清野、以逸待劳的策略，待蜀军疲惫后，趁天气炎热、蜀军扎营于树林之中时，发动火攻，火烧连营七百里，大败刘备。",
+    "significance": "三国时期三大战役之一，刘备惨败后元气大伤，不久病逝于白帝城。此战确立了吴蜀对峙的格局，也证明了陆逊的杰出军事才能。",
+    "relatedFigures": [
+      "liubei",
+      "luxun",
+      "sunquan"
+    ]
+  },
+  {
+    "id": "event-zhuge-beifa",
+    "year": 228,
+    "title": "诸葛亮北伐",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "祁山（今甘肃礼县）",
+    "coordinates": [
+      105.18,
+      34.18
+    ],
+    "description": "诸葛亮为实现统一大业，先后五次北伐中原。第一次北伐时，他采用声东击西之策，命赵云佯攻郿城，自己亲率主力出祁山，关中震动。但因马谡失街亭，功亏一篑。此后几次北伐均因粮草不济或战略失误而未能成功。",
+    "significance": "诸葛亮\"鞠躬尽瘁，死而后已\"精神的集中体现，虽然北伐未成功，但他以弱攻强的勇气和战略智慧为后世敬仰。",
+    "relatedFigures": [
+      "zhugeliang",
+      "simayi"
+    ]
+  },
+  {
+    "id": "event-gaopingling",
+    "year": 249,
+    "title": "高平陵之变",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "洛阳（今河南洛阳）",
+    "coordinates": [
+      112.45,
+      34.62
+    ],
+    "description": "魏帝曹芳扫墓时，大将军曹爽随行。司马懿趁机关闭城门，控制洛阳，矫太后诏命罢免曹爽。曹爽犹豫不决，最终投降。司马懿随即诛杀曹爽及其党羽，独揽曹魏大权。",
+    "significance": "曹魏政权由曹氏向司马氏转移的关键转折点，为后来司马炎篡魏建晋铺平了道路。",
+    "relatedFigures": [
+      "simayi",
+      "caopi"
+    ]
+  },
+  {
+    "id": "event-dengai-mieshu",
+    "year": 263,
+    "title": "邓艾灭蜀",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "成都（今四川成都）",
+    "coordinates": [
+      104.05,
+      30.65
+    ],
+    "description": "魏国大将邓艾率精兵翻越阴平小道，出奇兵直取成都。蜀军猝不及防，刘禅出城投降，蜀汉灭亡。邓艾以奇袭闻名，创造了中国战争史上翻越天险、以少胜多的经典战例。",
+    "significance": "三国鼎立格局的终结，蜀汉灭亡标志着三国时代进入尾声，为晋朝统一中国扫清了障碍。",
+    "relatedFigures": [
+      "jiangwei",
+      "caopi"
+    ]
+  },
+  {
+    "id": "event-dongzhuo-luanzheng",
+    "year": 189,
+    "title": "董卓之乱",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "洛阳（今河南洛阳）",
+    "coordinates": [
+      112.45,
+      34.62
+    ],
+    "description": "董卓率西凉军入洛阳，废少帝刘辩，立献帝刘协，独揽朝政。他残暴无道，焚毁洛阳，迁都长安，引发天下大乱。曹操发布讨董檄文，十八路诸侯联合起兵讨伐董卓。",
+    "significance": "东汉政权名存实亡的标志，拉开了三国乱世的大幕。各路诸侯的崛起和相互征伐由此开始。",
+    "relatedFigures": [
+      "dongzhuo",
+      "caocao",
+      "yuanshao"
+    ]
+  },
+  {
+    "id": "event-zhujiu-lunyingxiong",
+    "year": 199,
+    "title": "煮酒论英雄",
+    "dynasty": "sanguo",
+    "category": "culture",
+    "location": "许都（今河南许昌）",
+    "coordinates": [
+      113.82,
+      34.02
+    ],
+    "description": "曹操邀请刘备饮酒，席间评论天下英雄。曹操说\"今天下英雄，唯使君与操耳\"。刘备闻言大惊，以为曹操已识破自己的雄心，筷子掉落。恰逢雷声大作，刘备借口害怕雷声掩饰过去。",
+    "significance": "展现了曹操的雄才大略和识人之明，也体现了刘备的隐忍和智慧。这一事件成为中国历史上著名的政治谋略典故。",
+    "relatedFigures": [
+      "caocao",
+      "liubei"
+    ]
+  },
+  {
+    "id": "event-baimenlou-lvbu",
+    "year": 199,
+    "title": "白门楼吕布殒命",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "下邳（今江苏睢宁）",
+    "coordinates": [
+      117.95,
+      34.12
+    ],
+    "description": "曹操率军围困吕布于下邳，决水灌城。吕布部将侯成、宋宪等人叛变，趁吕布熟睡时将其绑缚，开城投降。吕布被押至白门楼，曹操虽有收降之意，但刘备提醒他\"公不见丁原、董卓之事乎\"，曹操遂下令将吕布缢死。",
+    "significance": "三国第一猛将吕布的终结，曹操彻底消除了北方的隐患，为统一北方扫清了障碍。",
+    "relatedFigures": [
+      "lvbu",
+      "caocao",
+      "liubei"
+    ]
+  },
+  {
+    "id": "event-sunquan-chenghao",
+    "year": 229,
+    "title": "孙权称帝",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "建业（今江苏南京）",
+    "coordinates": [
+      118.78,
+      32.05
+    ],
+    "description": "孙权在建业正式称帝，国号吴，改元黄龙。至此，魏、蜀、吴三国全部建立，三国鼎立格局正式形成。孙权在位期间，重视农桑，发展经济，使江南地区得到长足发展。",
+    "significance": "三国鼎立格局正式确立，东吴政权达到鼎盛。孙权是三国时期在位时间最长的君主。",
+    "relatedFigures": [
+      "sunquan"
+    ]
+  },
+  {
+    "id": "event-qixin-menghuo",
+    "year": 225,
+    "title": "七擒孟获",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "南中（今云南一带）",
+    "coordinates": [
+      102.72,
+      25.05
+    ],
+    "description": "诸葛亮南征，对南中少数民族首领孟获采用\"攻心为上\"的策略，七次擒获又七次释放。孟获最终心悦诚服，发誓永不反叛。诸葛亮善待南中各部，任用当地首领为官，促进了民族团结。",
+    "significance": "诸葛亮\"攻心为上\"军事思想的典范，稳定了蜀汉后方，为北伐创造了条件，也体现了诸葛亮高超的政治智慧。",
+    "relatedFigures": [
+      "zhugeliang"
+    ]
+  },
+  {
+    "id": "event-zhouyu-bingushi",
+    "year": 210,
+    "title": "周瑜病逝巴丘",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "巴丘（今湖南岳阳）",
+    "coordinates": [
+      113.12,
+      29.37
+    ],
+    "description": "东吴名将周瑜在准备攻取益州的途中，于巴丘病逝，年仅三十六岁。周瑜是东吴最杰出的军事统帅之一，赤壁之战的主要策划者。他的早逝对东吴是巨大损失。",
+    "significance": "东吴失去最杰出的军事统帅，改变了东吴西进的战略部署。\"既生瑜何生亮\"虽为小说虚构，但反映了周瑜与诸葛亮齐名的历史地位。",
+    "relatedFigures": [
+      "zhouyu",
+      "zhugeliang",
+      "sunquan"
+    ]
+  },
+  {
+    "id": "event-zhangfei-yudizhang",
+    "year": 221,
+    "title": "张飞遇害",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "阆中（今四川阆中）",
+    "coordinates": [
+      106,
+      31.55
+    ],
+    "description": "关羽被害后，张飞悲痛欲绝，急于伐吴报仇。他下令三日内制办白旗白甲，挂孝出征。部将范强、张达请求宽限时日，被张飞鞭打。二人当夜潜入帐中，割下张飞首级投奔东吴。",
+    "significance": "张飞之死进一步激化了蜀吴矛盾，推动了刘备发动夷陵之战，也反映了张飞性格暴躁的悲剧命运。",
+    "relatedFigures": [
+      "zhangfei",
+      "liubei"
+    ]
+  },
+  {
+    "id": "event-zhaoyun-changbanpo",
+    "year": 208,
+    "title": "长坂坡之战",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "长坂坡（今湖北当阳）",
+    "coordinates": [
+      111.78,
+      30.82
+    ],
+    "description": "曹操南征荆州，刘备携百姓南撤，被曹军追上于长坂坡。刘备抛妻弃子逃走，赵云孤身一人返回敌阵，七进七出，斩杀曹军名将五十余员，最终救出刘备幼子阿斗和甘夫人。",
+    "significance": "赵云\"单骑救主\"威震天下，成为忠勇武将的典范。此战也体现了刘备\"以人为本\"的政治理念，携民渡江赢得了民心。",
+    "relatedFigures": [
+      "zhaoyun",
+      "liubei",
+      "caocao"
+    ]
+  },
+  {
+    "id": "event-simayi-zhugeliang",
+    "year": 234,
+    "title": "五丈原对峙",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "五丈原（今陕西岐山）",
+    "coordinates": [
+      107.65,
+      34.42
+    ],
+    "description": "诸葛亮最后一次北伐，与司马懿在五丈原对峙。司马懿采取坚守不战的策略，任凭诸葛亮挑衅辱骂，始终闭门不出。诸葛亮积劳成疾，最终病逝于五丈原军中，享年五十四岁。",
+    "significance": "\"出师未捷身先死\"的悲剧结局，诸葛亮鞠躬尽瘁的精神感动千古。司马懿的隐忍策略成功拖垮了诸葛亮，确立了魏国的战略优势。",
+    "relatedFigures": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei"
+    ]
+  },
+  {
+    "id": "event-dayu-zhishui",
+    "year": -2000,
+    "title": "大禹治水",
+    "dynasty": "xia",
+    "category": "technology",
+    "location": "黄河流域",
+    "coordinates": [
+      112.5,
+      35
+    ],
+    "description": "大禹采用疏导方法治理洪水，三过家门而不入，最终平定水患，为夏朝建立奠定基础。",
+    "significance": "奠定了中华文明治水传统，大禹成为贤明君主象征。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-tushan-zhihui",
+    "year": -1980,
+    "title": "涂山之会",
+    "dynasty": "xia",
+    "category": "politics",
+    "location": "涂山（今安徽蚌埠）",
+    "coordinates": [
+      117.3,
+      32.9
+    ],
+    "description": "禹在涂山召集各部落首领会盟，执玉帛者万国，标志着禹的权威确立，为建立夏朝做准备。",
+    "significance": "夏朝建立前的重要政治集会，展示了部落联盟向国家形态过渡。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-gan-zhizhan",
+    "year": -1970,
+    "title": "甘之战",
+    "dynasty": "xia",
+    "category": "military",
+    "location": "甘（今陕西户县）",
+    "coordinates": [
+      108.6,
+      34.1
+    ],
+    "description": "启讨伐有扈氏，在甘地展开决战。启在战前发布《甘誓》，宣告有扈氏罪行，最终击败有扈氏。",
+    "significance": "确立了夏朝世袭王权的合法性，标志着禅让制向世袭制的转变。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-taikang-shiguo",
+    "year": -1950,
+    "title": "太康失国",
+    "dynasty": "xia",
+    "category": "politics",
+    "location": "夏都阳城（今河南登封）",
+    "coordinates": [
+      113,
+      34.5
+    ],
+    "description": "夏启之子太康继位后，沉湎酒色，不理朝政。东夷有穷氏首领后羿趁机夺取政权，太康被迫流亡。",
+    "significance": "夏朝第一次重大政治危机，体现了早期王权的脆弱性。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-houyi-daidai",
+    "year": -1940,
+    "title": "后羿代夏",
+    "dynasty": "xia",
+    "category": "politics",
+    "location": "夏都（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "后羿凭借强大的军事力量夺取夏朝政权，立太康之弟中康为傀儡。后羿本人后来也沉湎游猎，被寒浞所杀。",
+    "significance": "展示了部落首领对王权的觊觎，反映了早期国家的不稳定性。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-shaokang-zhongxing-1",
+    "year": -1860,
+    "title": "少康中兴",
+    "dynasty": "xia",
+    "category": "politics",
+    "location": "夏都（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "少康在有虞氏部落积蓄力量，联合夏朝遗臣，最终击败寒浞，恢复夏朝统治，史称少康中兴。",
+    "significance": "夏朝从衰落中复兴的关键事件，少康成为中兴之主的典范。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-kongjia-luanzheng",
+    "year": -1660,
+    "title": "孔甲乱政",
+    "dynasty": "xia",
+    "category": "politics",
+    "location": "夏都（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "孔甲即位后，迷信鬼神，淫乱不堪，诸侯纷纷叛离。传说他饲养龙，任命刘累为御龙氏。",
+    "significance": "夏朝由盛转衰的转折点，孔甲乱政加速了夏朝的灭亡。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-xiajie-wangguo",
+    "year": -1600,
+    "title": "鸣条之战与夏桀亡国",
+    "dynasty": "xia",
+    "category": "military",
+    "location": "鸣条（今山西夏县）",
+    "coordinates": [
+      111.2,
+      35.1
+    ],
+    "description": "夏桀暴虐无道，商汤率领诸侯联军在鸣条与夏军决战，夏桀大败逃亡，夏朝灭亡。",
+    "significance": "中国历史上第一次王朝更替，开启了商朝的统治。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yiyin-fangtaijia",
+    "year": -1530,
+    "title": "伊尹放太甲",
+    "dynasty": "shang",
+    "category": "politics",
+    "location": "商都亳（今河南商丘）",
+    "coordinates": [
+      115.6,
+      34.4
+    ],
+    "description": "商汤之孙太甲继位后，暴虐乱德。开国功臣伊尹将其放逐到桐宫，三年后太甲悔过，伊尹还政于太甲。",
+    "significance": "中国历史上权臣废立君主的最早记录，伊尹成为贤相典范。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wuding-zhongxing",
+    "year": -1250,
+    "title": "武丁中兴",
+    "dynasty": "shang",
+    "category": "politics",
+    "location": "商都殷（今河南安阳）",
+    "coordinates": [
+      114.4,
+      36.1
+    ],
+    "description": "武丁即位后，任用傅说、甘盘等贤臣，励精图治，使商朝国力达到鼎盛，史称武丁中兴。",
+    "significance": "商朝的黄金时代，甲骨文记载最丰富的时期。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-fuhao-chuzheng",
+    "year": -1200,
+    "title": "妇好出征",
+    "dynasty": "shang",
+    "category": "military",
+    "location": "商都殷（今河南安阳）",
+    "coordinates": [
+      114.4,
+      36.1
+    ],
+    "description": "妇好是商王武丁的王后，也是中国历史上有据可查的第一位女性军事统帅。她多次率军出征，击败土方、羌方等部族。",
+    "significance": "展示了中国古代女性的军事才能，打破了男尊女卑的传统认知。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhouxin-wangguo",
+    "year": -1046,
+    "title": "牧野之战与商纣亡国",
+    "dynasty": "shang",
+    "category": "military",
+    "location": "牧野（今河南淇县南）",
+    "coordinates": [
+      114.2,
+      35.6
+    ],
+    "description": "周武王率领诸侯联军在牧野与商军决战。商军奴隶阵前倒戈，纣王退回朝歌自焚，商朝灭亡。",
+    "significance": "商周之际的决定性战役，结束了商朝600年的统治，开启了周朝时代。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-jiagucheng-xian",
+    "year": -1200,
+    "title": "甲骨文出现",
+    "dynasty": "shang",
+    "category": "culture",
+    "location": "殷墟（今河南安阳）",
+    "coordinates": [
+      114.4,
+      36.1
+    ],
+    "description": "商朝人在龟甲和兽骨上刻写文字，用于占卜和记录。甲骨文是中国已发现的最早的成熟文字系统。",
+    "significance": "中国文字的源头，为研究商代历史提供了第一手资料。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhoutaiwang-zhouxu",
+    "year": -1140,
+    "title": "周太王迁岐",
+    "dynasty": "shang",
+    "category": "politics",
+    "location": "岐山（今陕西岐山）",
+    "coordinates": [
+      107.6,
+      34.4
+    ],
+    "description": "周太王古公亶父率领周族从豳迁到岐山下的周原。周人在此地发展壮大，为日后灭商奠定了基础。",
+    "significance": "周族崛起的起点，周原成为周文化的发祥地。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhougong-zhili",
+    "year": -1040,
+    "title": "周公制礼作乐",
+    "dynasty": "zhou",
+    "category": "culture",
+    "location": "洛邑（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "周公旦平定三监之乱后，制定了一套完整的礼乐制度，包括分封制、宗法制和礼乐文化，奠定了中华文明的基本框架。",
+    "significance": "中国传统政治制度和伦理文化的基石，影响了中国数千年的政治文明。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-guoren-baodong",
+    "year": -841,
+    "title": "国人暴动",
+    "dynasty": "zhou",
+    "category": "politics",
+    "location": "镐京（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "周厉王暴虐，压制舆论，引起国人（都城平民）不满。国人攻入王宫，厉王逃亡到彘，政权由周公和召公共同执掌。",
+    "significance": "中国历史上有确切纪年的开端（共和元年，公元前841年），标志着民意的力量。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-pingwang-dongqian",
+    "year": -770,
+    "title": "平王东迁",
+    "dynasty": "zhou",
+    "category": "politics",
+    "location": "洛邑（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "犬戎攻破镐京，周幽王被杀。周平王将都城从镐京迁到洛邑，东周开始。东周分为春秋和战国两个时期。",
+    "significance": "西周灭亡、东周建立的标志，周王室从此衰微，诸侯争霸时代开始。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-chunqiu-wuba",
+    "year": -651,
+    "title": "齐桓公称霸",
+    "dynasty": "zhou",
+    "category": "politics",
+    "location": "葵丘（今河南兰考）",
+    "coordinates": [
+      114.8,
+      34.8
+    ],
+    "description": "齐桓公在管仲辅佐下，九合诸侯，一匡天下，成为春秋首霸。葵丘会盟确立了霸主地位。",
+    "significance": "春秋五霸之首，\"尊王攘夷\"政策维护了华夏文明的延续。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-chengpu-zhizhan",
+    "year": -632,
+    "title": "城濮之战",
+    "dynasty": "zhou",
+    "category": "military",
+    "location": "城濮（今山东鄄城）",
+    "coordinates": [
+      115.5,
+      35.6
+    ],
+    "description": "晋文公率军与楚军在城濮决战。晋军采用\"退避三舍\"策略，诱敌深入，大败楚军，晋文公由此称霸。",
+    "significance": "春秋时期规模最大的战争之一，奠定了晋国中原霸主地位。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-kongzi-zhouyou",
+    "year": -497,
+    "title": "孔子周游列国",
+    "dynasty": "zhou",
+    "category": "culture",
+    "location": "卫、曹、宋、郑、陈、蔡、楚等国",
+    "coordinates": [
+      114,
+      34
+    ],
+    "description": "孔子带领弟子离开鲁国，周游卫、曹、宋、郑、陈、蔡、楚等国十四年，宣扬仁义礼智信的治国理念。",
+    "significance": "儒家思想传播的关键时期，孔子成为中国文化的代表人物。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-sanjia-fenjin",
+    "year": -403,
+    "title": "三家分晋",
+    "dynasty": "zhou",
+    "category": "politics",
+    "location": "晋国（今山西、河南一带）",
+    "coordinates": [
+      112.5,
+      36
+    ],
+    "description": "晋国被韩、赵、魏三家大夫瓜分，周威烈王正式承认三家为诸侯。司马光《资治通鉴》以此作为开篇。",
+    "significance": "春秋时代结束、战国时代开始的标志，礼崩乐坏的典型事件。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-shangyang-bianfa",
+    "year": -356,
+    "title": "商鞅变法",
+    "dynasty": "zhou",
+    "category": "politics",
+    "location": "秦国咸阳（今陕西咸阳）",
+    "coordinates": [
+      108.7,
+      34.3
+    ],
+    "description": "秦孝公任用商鞅推行变法，废除世卿世禄制，实行军功爵制，奖励耕战，重农抑商，建立郡县制。",
+    "significance": "秦国由弱变强的转折点，为日后统一六国奠定了制度基础。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-hezong-lianheng",
+    "year": -318,
+    "title": "合纵连横",
+    "dynasty": "zhou",
+    "category": "politics",
+    "location": "函谷关（今河南灵宝）",
+    "coordinates": [
+      110.9,
+      34.5
+    ],
+    "description": "苏秦主张六国合纵抗秦，张仪主张连横事秦。合纵连横的斗争成为战国时期外交的主要特征。",
+    "significance": "战国时期外交策略的巅峰，影响了中国古代政治谋略的发展。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-chunqiu-wuyue",
+    "year": -473,
+    "title": "吴越争霸",
+    "dynasty": "zhou",
+    "category": "military",
+    "location": "吴国姑苏（今江苏苏州）",
+    "coordinates": [
+      120.6,
+      31.3
+    ],
+    "description": "越王勾践卧薪尝胆，最终击败吴王夫差，灭吴称霸。范蠡、文种辅佐勾践，西施入吴的故事流传千古。",
+    "significance": "春秋末年最精彩的霸主之争，\"卧薪尝胆\"成为自强不息的象征。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-sunbin-maling",
+    "year": -341,
+    "title": "马陵之战",
+    "dynasty": "zhou",
+    "category": "military",
+    "location": "马陵（今山东郯城）",
+    "coordinates": [
+      118.3,
+      34.6
+    ],
+    "description": "齐国孙膑用减灶计诱魏军深入，在马陵设伏大败魏军，魏将庞涓自杀，太子申被俘。魏国从此衰落。",
+    "significance": "战国时期齐国崛起、魏国衰落的转折点，孙膑兵法大放异彩。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-fenshu-kengru",
+    "year": -213,
+    "title": "焚书坑儒",
+    "dynasty": "qin",
+    "category": "culture",
+    "location": "咸阳（今陕西咸阳）",
+    "coordinates": [
+      108.7,
+      34.3
+    ],
+    "description": "秦始皇采纳李斯建议，焚烧民间所藏《诗》《书》及百家语，坑杀方士和儒生四百六十余人。",
+    "significance": "秦始皇加强思想控制的极端手段，对中国古代文化造成了巨大损失。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-chensheng-wuguang",
+    "year": -209,
+    "title": "陈胜吴广起义",
+    "dynasty": "qin",
+    "category": "military",
+    "location": "大泽乡（今安徽宿州）",
+    "coordinates": [
+      116.9,
+      33.6
+    ],
+    "description": "陈胜、吴广在大泽乡揭竿而起，提出\"王侯将相宁有种乎\"的口号，建立张楚政权，掀起了秦末农民大起义。",
+    "significance": "中国历史上第一次大规模农民起义，开创了平民反抗暴政的先河。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-julu-zhizhan",
+    "year": -207,
+    "title": "巨鹿之战",
+    "dynasty": "qin",
+    "category": "military",
+    "location": "巨鹿（今河北平乡）",
+    "coordinates": [
+      115,
+      37.1
+    ],
+    "description": "项羽率领楚军渡过漳河，破釜沉舟，与秦军主力在巨鹿决战。楚军九战九捷，大破秦军，章邯投降。",
+    "significance": "秦末决定性的战役，项羽一战成名，秦朝主力被消灭。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-liubang-ruguan",
+    "year": -206,
+    "title": "刘邦入关",
+    "dynasty": "qin",
+    "category": "politics",
+    "location": "咸阳（今陕西咸阳）",
+    "coordinates": [
+      108.7,
+      34.3
+    ],
+    "description": "刘邦率军先入咸阳，秦王子婴投降，秦朝灭亡。刘邦与关中百姓约法三章，深得民心。",
+    "significance": "秦朝正式灭亡，楚汉之争即将开始。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhangyi-lianheng",
+    "year": -328,
+    "title": "张仪连横",
+    "dynasty": "qin",
+    "category": "politics",
+    "location": "秦国咸阳（今陕西咸阳）",
+    "coordinates": [
+      108.7,
+      34.3
+    ],
+    "description": "张仪作为秦国相国，以连横策略瓦解六国合纵，使各国纷纷与秦结盟。张仪以欺诈手段使楚怀王与齐国断交。",
+    "significance": "秦国统一六国的重要外交策略，展示了战国时期纵横家的风采。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-lisi-tongyi",
+    "year": -221,
+    "title": "书同文车同轨",
+    "dynasty": "qin",
+    "category": "culture",
+    "location": "咸阳（今陕西咸阳）",
+    "coordinates": [
+      108.7,
+      34.3
+    ],
+    "description": "秦始皇统一六国后，推行书同文、车同轨、统一度量衡的政策。李斯主持简化文字，创制小篆作为全国标准文字。",
+    "significance": "奠定了中国统一多民族国家的文化基础，促进了各地经济文化交流。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-chuhan-zhizheng",
+    "year": -206,
+    "title": "楚汉之争",
+    "dynasty": "han",
+    "category": "military",
+    "location": "荥阳（今河南荥阳）",
+    "coordinates": [
+      113.4,
+      34.8
+    ],
+    "description": "刘邦与项羽为争夺天下展开长达四年的战争。项羽虽然勇武，但刘邦善用人才，最终垓下之战项羽自刎。",
+    "significance": "决定了汉朝的建立和楚国的灭亡，刘邦的用人之道成为后世典范。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-baideng-zhiwei",
+    "year": -200,
+    "title": "白登之围",
+    "dynasty": "han",
+    "category": "military",
+    "location": "白登山（今山西大同）",
+    "coordinates": [
+      113.3,
+      40.1
+    ],
+    "description": "汉高祖刘邦亲征匈奴，被冒顿单于围困于白登山七日。后用陈平计策贿赂单于阏氏，才得以脱险。",
+    "significance": "汉朝对匈奴政策的转折点，此后采取和亲政策换取和平。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wenjing-zhizhi",
+    "year": -156,
+    "title": "文景之治",
+    "dynasty": "han",
+    "category": "politics",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "汉文帝、汉景帝推行休养生息政策，轻徭薄赋，与民休息。社会安定，经济繁荣，国库充盈，史称文景之治。",
+    "significance": "中国封建社会的第一个治世，为汉武帝的强盛奠定了基础。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhangqian-xiyu",
+    "year": -138,
+    "title": "张骞通西域",
+    "dynasty": "han",
+    "category": "politics",
+    "location": "西域（今新疆及中亚）",
+    "coordinates": [
+      76,
+      39.5
+    ],
+    "description": "汉武帝派遣张骞出使西域，联络大月氏共击匈奴。张骞两次出使西域，开辟了丝绸之路。",
+    "significance": "丝绸之路的开通，促进了东西方经济文化交流，影响深远。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-huoqubing-fenglangjuxu",
+    "year": -119,
+    "title": "霍去病封狼居胥",
+    "dynasty": "han",
+    "category": "military",
+    "location": "狼居胥山（今蒙古国境内）",
+    "coordinates": [
+      106,
+      48
+    ],
+    "description": "霍去病率军深入漠北，大败匈奴左贤王，封狼居胥山而还。这是汉军对匈奴作战的最辉煌胜利。",
+    "significance": "汉匈战争的转折点，匈奴从此远遁漠北，漠南无王庭。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wangmang-cuanhan",
+    "year": 8,
+    "title": "王莽篡汉",
+    "dynasty": "han",
+    "category": "politics",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "王莽以外戚身份掌握朝政，最终逼迫汉孺子婴禅让，建立新朝。王莽推行托古改制，试图恢复周礼。",
+    "significance": "汉朝中衰的标志，王莽改制激化了社会矛盾，引发绿林赤眉起义。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-guangwu-zhongxing",
+    "year": 25,
+    "title": "光武中兴",
+    "dynasty": "han",
+    "category": "politics",
+    "location": "洛阳（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "刘秀在昆阳之战中大败王莽军，后平定各地割据势力，建立东汉，定都洛阳，史称光武中兴。",
+    "significance": "汉朝复兴，刘秀以柔道治国，社会稳定，经济恢复。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-banchao-jingying",
+    "year": 73,
+    "title": "班超经营西域",
+    "dynasty": "han",
+    "category": "military",
+    "location": "西域（今新疆）",
+    "coordinates": [
+      80,
+      40
+    ],
+    "description": "班超奉命出使西域，以三十六人平定西域五十余国，恢复汉朝对西域的统治，重新打通丝绸之路。",
+    "significance": "东汉对西域统治的恢复，班超的胆略和外交才能令人叹服。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-huangjin-qiyi",
+    "year": 184,
+    "title": "黄巾起义",
+    "dynasty": "han",
+    "category": "military",
+    "location": "巨鹿（今河北平乡）",
+    "coordinates": [
+      115,
+      37.1
+    ],
+    "description": "张角以\"苍天已死，黄天当立\"为口号，率领黄巾军起义。起义虽然被镇压，但动摇了东汉统治根基。",
+    "significance": "东汉灭亡的导火索，开启了军阀割据的时代，为三国鼎立埋下伏笔。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-hanwudi-tuice",
+    "year": -127,
+    "title": "推恩令",
+    "dynasty": "han",
+    "category": "politics",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "汉武帝采纳主父偃建议，颁布推恩令，允许诸侯王将封地分给子弟。诸侯国越分越小，无力对抗中央。",
+    "significance": "巧妙解决了诸侯割据问题，加强了中央集权，避免了流血冲突。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-sanguo-zhaoyun",
+    "year": 208,
+    "title": "长坂坡单骑救主",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "长坂坡（今湖北当阳）",
+    "coordinates": [
+      111.8,
+      30.8
+    ],
+    "description": "赵云在当阳长坂坡七进七出，单枪匹马救出刘备幼子阿斗。赵云的忠勇成为后世武将的楷模。",
+    "significance": "赵云忠勇形象的标志性事件，体现了三国时期武将的个人英雄主义。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-sanguo-dengai",
+    "year": 263,
+    "title": "邓艾偷渡阴平",
+    "dynasty": "sanguo",
+    "category": "military",
+    "location": "阴平（今甘肃文县）",
+    "coordinates": [
+      104.7,
+      32.9
+    ],
+    "description": "邓艾率军从阴平小道翻越摩天岭，奇袭成都。刘禅出降，蜀汉灭亡。这是中国古代最著名的奇袭战例之一。",
+    "significance": "蜀汉灭亡的直接原因，展示了出奇制胜的军事谋略。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-sanguo-xuchu",
+    "year": 196,
+    "title": "挟天子以令诸侯",
+    "dynasty": "sanguo",
+    "category": "politics",
+    "location": "许都（今河南许昌）",
+    "coordinates": [
+      113.8,
+      34
+    ],
+    "description": "曹操将汉献帝从洛阳迁到许都，以天子名义发号施令。这一策略使曹操在政治上占据了主动权。",
+    "significance": "曹操统一北方的关键策略，展现了高超的政治智慧。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-bawang-zhiluan",
+    "year": 291,
+    "title": "八王之乱",
+    "dynasty": "jin",
+    "category": "military",
+    "location": "洛阳（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "西晋皇族为争夺皇位，爆发了长达十六年的内乱。八王相继起兵，战乱导致数十万人死亡，国力大损。",
+    "significance": "西晋灭亡的主要原因，引发了后来的五胡乱华和永嘉之乱。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yongjia-zhiluan",
+    "year": 311,
+    "title": "永嘉之乱",
+    "dynasty": "jin",
+    "category": "military",
+    "location": "洛阳（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "匈奴刘聪攻破洛阳，俘虏晋怀帝，杀害王公士民三万余人。这是西晋灭亡的开端，北方陷入五胡十六国的混战。",
+    "significance": "西晋灭亡的标志，北方汉人大量南迁，开启了东晋时代。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zuti-beifa",
+    "year": 313,
+    "title": "祖逖北伐",
+    "dynasty": "jin",
+    "category": "military",
+    "location": "江淮地区（今江苏、安徽一带）",
+    "coordinates": [
+      118,
+      32.5
+    ],
+    "description": "祖逖率领部曲渡江北伐，收复黄河以南大片土地。他\"闻鸡起舞\"的故事成为后世励志典范。",
+    "significance": "东晋北伐的代表性事件，展示了汉族士人收复中原的决心。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-hengwen-beifa",
+    "year": 354,
+    "title": "桓温北伐",
+    "dynasty": "jin",
+    "category": "military",
+    "location": "关中（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "桓温三次北伐，一度攻入长安附近，但因后勤不济而撤军。桓温是东晋最有权势的将领。",
+    "significance": "东晋最大的北伐行动之一，虽未成功，但声威远播。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-taoyuanming",
+    "year": 405,
+    "title": "陶渊明归隐",
+    "dynasty": "jin",
+    "category": "culture",
+    "location": "浔阳（今江西九江）",
+    "coordinates": [
+      115.9,
+      29.7
+    ],
+    "description": "陶渊明辞去彭泽县令，归隐田园，创作了《归去来兮辞》《桃花源记》等不朽名篇。",
+    "significance": "中国隐逸文化的代表人物，\"采菊东篱下\"成为文人理想生活的象征。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-liuyu-daijin",
+    "year": 420,
+    "title": "刘裕代晋",
+    "dynasty": "jin",
+    "category": "politics",
+    "location": "建康（今江苏南京）",
+    "coordinates": [
+      118.8,
+      32
+    ],
+    "description": "刘裕灭南燕、后秦，功绩显赫，最终逼迫晋恭帝禅让，建立刘宋，南朝开始。",
+    "significance": "东晋灭亡、南朝开始的标志，寒门出身的刘裕打破了门阀士族的垄断。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-kaihuang-zhizhi",
+    "year": 581,
+    "title": "开皇之治",
+    "dynasty": "sui",
+    "category": "politics",
+    "location": "大兴（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "隋文帝杨坚建立隋朝后，推行均田制、租庸调制，改革官制，减轻赋税，社会安定，经济繁荣，史称开皇之治。",
+    "significance": "隋朝的黄金时期，人口达到峰值，国库充盈，为统一全国积累了实力。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yangdi-yunan",
+    "year": 618,
+    "title": "江都兵变",
+    "dynasty": "sui",
+    "category": "military",
+    "location": "江都（今江苏扬州）",
+    "coordinates": [
+      119.4,
+      32.4
+    ],
+    "description": "宇文化及在江都发动兵变，弑杀隋炀帝。隋朝名存实亡，李渊在长安建立唐朝。",
+    "significance": "隋朝正式灭亡的标志，唐朝建立的前奏。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhenguan-zhizhi",
+    "year": 627,
+    "title": "贞观之治",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "唐太宗李世民任用魏征、房玄龄等贤臣，虚心纳谏，轻徭薄赋，社会安定，经济繁荣，史称贞观之治。",
+    "significance": "中国古代最著名的治世之一，成为后世帝王治国的典范。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wuzetian-chenghuang",
+    "year": 690,
+    "title": "武则天称帝",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "洛阳（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "武则天废唐睿宗，自称皇帝，改国号为周。她是中国历史上唯一的女皇帝，在位期间推行了一系列改革。",
+    "significance": "中国历史上唯一的女皇帝，打破了男性垄断皇权的传统。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-kaiyuan-shengshi",
+    "year": 713,
+    "title": "开元盛世",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "唐玄宗李隆基励精图治，任用姚崇、宋璟等贤相，唐朝国力达到顶峰，人口超过八千万，史称开元盛世。",
+    "significance": "中国封建社会的鼎盛时期，长安成为当时世界上最大的都市。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-xuanzang-xixing",
+    "year": 629,
+    "title": "玄奘西行取经",
+    "dynasty": "tang",
+    "category": "culture",
+    "location": "西域（今新疆至印度）",
+    "coordinates": [
+      78,
+      30
+    ],
+    "description": "玄奘法师从长安出发，经西域到达天竺（今印度），求取佛经。历时十七年，带回佛经六百五十七部。",
+    "significance": "中印文化交流的里程碑，《西游记》的原型故事。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-jianzhen-dongdu",
+    "year": 753,
+    "title": "鉴真东渡",
+    "dynasty": "tang",
+    "category": "culture",
+    "location": "扬州至日本奈良",
+    "coordinates": [
+      129.9,
+      32.7
+    ],
+    "description": "鉴真和尚历经六次东渡，终于抵达日本。他在日本传播佛教律宗和唐朝文化，被日本尊为\"律宗之祖\"。",
+    "significance": "中日文化交流的重要事件，鉴真成为中日友好的象征。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-anzhi-zhiluan",
+    "year": 755,
+    "title": "安史之乱",
+    "dynasty": "tang",
+    "category": "military",
+    "location": "范阳（今北京）至长安",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "安禄山、史思明发动叛乱，攻占洛阳、长安。唐玄宗逃往四川，唐朝从此由盛转衰。",
+    "significance": "唐朝由盛转衰的转折点，藩镇割据局面由此形成。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-huangchao-qiyi",
+    "year": 875,
+    "title": "黄巢起义",
+    "dynasty": "tang",
+    "category": "military",
+    "location": "曹州（今山东菏泽）",
+    "coordinates": [
+      115.5,
+      35.2
+    ],
+    "description": "黄巢率领农民起义军转战大半个中国，一度攻占长安，建立大齐政权。起义军提出\"均平\"口号。",
+    "significance": "唐末最大的农民起义，沉重打击了唐朝统治，加速了唐朝灭亡。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhuwen-mietang",
+    "year": 907,
+    "title": "朱温灭唐",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "汴州（今河南开封）",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "朱温逼迫唐哀帝禅让，建立后梁。唐朝灭亡，五代十国开始。朱温还杀害了唐昭宗和大量宗室大臣。",
+    "significance": "唐朝正式灭亡，中国历史进入五代十国的分裂时期。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-libai-dufu",
+    "year": 750,
+    "title": "盛唐诗歌繁荣",
+    "dynasty": "tang",
+    "category": "culture",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "唐朝是中国诗歌发展的黄金时代，李白、杜甫、白居易等诗人辈出，留下了数万首传世佳作。",
+    "significance": "中国古典诗歌的巅峰，唐诗成为中华文化的瑰宝。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-diaoban-yinshua",
+    "year": 868,
+    "title": "雕版印刷术",
+    "dynasty": "tang",
+    "category": "technology",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "唐朝发明了雕版印刷术，《金刚经》成为世界上现存最早的有确切日期的雕版印刷品。印刷术极大推动了文化传播。",
+    "significance": "中国四大发明之一，对世界文明的发展产生了深远影响。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-tanglu-shuyi",
+    "year": 624,
+    "title": "李渊建唐",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "长安（今陕西西安）",
+    "coordinates": [
+      108.9,
+      34.3
+    ],
+    "description": "李渊在晋阳起兵，攻占长安，建立唐朝。随后派李世民等人平定各地割据势力，统一全国。",
+    "significance": "唐朝建立，开启了近三百年的大唐盛世。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wuzetian-zhaoce",
+    "year": 690,
+    "title": "武则天开创殿试",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "洛阳（今河南洛阳）",
+    "coordinates": [
+      112.5,
+      34.6
+    ],
+    "description": "武则天在位期间大力推行科举，亲自在洛城殿策问贡士，开创了殿试制度。她还首创武举，选拔军事人才。",
+    "significance": "科举制度的重大发展，扩大了人才选拔范围。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-tang-fan",
+    "year": 641,
+    "title": "文成公主入藏",
+    "dynasty": "tang",
+    "category": "politics",
+    "location": "逻些（今西藏拉萨）",
+    "coordinates": [
+      91.1,
+      29.7
+    ],
+    "description": "唐太宗将文成公主嫁给吐蕃赞普松赞干布。文成公主带去了大量书籍、工匠和技术，促进了唐蕃友好。",
+    "significance": "汉藏民族团结的象征，促进了中原与西藏的经济文化交流。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-shijingtang-yanyun",
+    "year": 936,
+    "title": "石敬瑭割让燕云十六州",
+    "dynasty": "wudai",
+    "category": "politics",
+    "location": "幽州（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "后晋石敬瑭以割让燕云十六州为代价，换取契丹支持称帝。这一割让使中原失去北方屏障，影响长达四百年。",
+    "significance": "中原王朝国防的重大损失，为后来辽金南下提供了便利。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhoushizong-beifa-5",
+    "year": 955,
+    "title": "周世宗北伐",
+    "dynasty": "wudai",
+    "category": "military",
+    "location": "幽州（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "后周世宗柴荣率军北伐辽国，收复瀛、莫二州和瓦桥、益津、淤口三关。可惜柴荣英年早逝，未能收复燕云。",
+    "significance": "五代时期最有希望的统一战争，为北宋统一奠定了基础。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhoushizong-gaige",
+    "year": 954,
+    "title": "后周世宗改革",
+    "dynasty": "wudai",
+    "category": "politics",
+    "location": "汴京（今河南开封）",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "周世宗柴荣进行政治、经济、军事改革，整顿吏治，均定赋税，整顿禁军，使后周国力大增。",
+    "significance": "为北宋的统一和强盛奠定了基础，是五代时期最有作为的政治家。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-nantang-liyu",
+    "year": 975,
+    "title": "南唐后主李煜亡国",
+    "dynasty": "wudai",
+    "category": "military",
+    "location": "金陵（今江苏南京）",
+    "coordinates": [
+      118.8,
+      32
+    ],
+    "description": "北宋灭南唐，后主李煜被俘。李煜虽不善治国，却是一位伟大的词人，留下了\"问君能有几多愁\"等千古绝唱。",
+    "significance": "五代十国结束的前奏，李煜的词作成为中国文学史上的瑰宝。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-huoyao-junshi",
+    "year": 950,
+    "title": "火药用于军事",
+    "dynasty": "wudai",
+    "category": "technology",
+    "location": "汴京（今河南开封）",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "五代时期，火药开始用于军事。最早的火药武器是火箭和火炮。北宋时期，火药武器得到进一步发展。",
+    "significance": "火药从炼丹术走向军事应用，改变了战争的形态。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-chenqiao-bingbian-6",
+    "year": 960,
+    "title": "陈桥兵变",
+    "dynasty": "song",
+    "category": "politics",
+    "location": "陈桥驿（今河南封丘）",
+    "coordinates": [
+      114,
+      35
+    ],
+    "description": "赵匡胤在陈桥驿发动兵变，黄袍加身，取代后周，建立北宋。随后逐步平定各地割据势力，统一全国。",
+    "significance": "北宋建立，赵匡胤以和平方式夺取政权，避免了大规模战乱。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-beijiu-shibingquan",
+    "year": 961,
+    "title": "杯酒释兵权",
+    "dynasty": "song",
+    "category": "politics",
+    "location": "汴京（今河南开封）",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "宋太祖赵匡胤宴请石守信等大将，以和平方式解除他们的兵权。这一策略有效防止了武将割据。",
+    "significance": "宋朝重文轻武政策的开端，彻底消除了武将篡权的可能。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wang-anshi",
+    "year": 1069,
+    "title": "王安石变法",
+    "dynasty": "song",
+    "category": "politics",
+    "location": "汴京（今河南开封）",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "宋神宗任用王安石推行变法，包括青苗法、募役法、保甲法等，试图解决财政危机和边防问题。",
+    "significance": "中国古代最著名的改革之一，虽然失败，但对后世影响深远。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-jingkang-zhibian",
+    "year": 1127,
+    "title": "靖康之变",
+    "dynasty": "song",
+    "category": "military",
+    "location": "汴京（今河南开封）",
+    "coordinates": [
+      114.3,
+      34.8
+    ],
+    "description": "金军攻破汴京，俘虏宋徽宗、宋钦宗二帝及大量宗室、大臣，北宋灭亡。赵构南渡建立南宋。",
+    "significance": "北宋灭亡的标志性事件，汉人政权第一次被北方民族完全征服。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yuefei-kangjin",
+    "year": 1140,
+    "title": "岳飞抗金",
+    "dynasty": "song",
+    "category": "military",
+    "location": "郾城（今河南漯河）",
+    "coordinates": [
+      113.9,
+      33.6
+    ],
+    "description": "岳飞率领岳家军北伐，在郾城大破金军铁浮图和拐子马，收复大片失地。后因宋高宗和秦桧求和，岳飞被冤杀。",
+    "significance": "中国历史上最著名的民族英雄之一，岳飞的精忠报国精神影响深远。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-shaoxing-heyi",
+    "year": 1141,
+    "title": "绍兴和议",
+    "dynasty": "song",
+    "category": "politics",
+    "location": "临安（今浙江杭州）",
+    "coordinates": [
+      120.2,
+      30.3
+    ],
+    "description": "南宋与金国订立和约，南宋向金称臣，割地赔款，杀害岳飞。此后宋金维持了近二十年的和平。",
+    "significance": "南宋偏安江南的开始，岳飞的冤死成为千古奇冤。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wentianxiang",
+    "year": 1278,
+    "title": "文天祥抗元",
+    "dynasty": "song",
+    "category": "military",
+    "location": "零丁洋（今广东珠江口）",
+    "coordinates": [
+      113.8,
+      22.4
+    ],
+    "description": "文天祥兵败被俘，元军劝他投降，他写下《过零丁洋》表明心志：\"人生自古谁无死，留取丹心照汗青\"。",
+    "significance": "中华民族不屈精神的象征，文天祥成为忠义的最高典范。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-shenkuo-mengxi",
+    "year": 1088,
+    "title": "沈括著《梦溪笔谈》",
+    "dynasty": "song",
+    "category": "technology",
+    "location": "梦溪园（今江苏镇江）",
+    "coordinates": [
+      119.4,
+      32.2
+    ],
+    "description": "沈括晚年隐居梦溪园，撰写《梦溪笔谈》，记载了当时的科技成就，包括活字印刷、指南针、石油等。",
+    "significance": "中国古代科学技术的百科全书，被李约瑟称为\"中国科学史上的坐标\"。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhinanzhen-hanghai",
+    "year": 1100,
+    "title": "指南针用于航海",
+    "dynasty": "song",
+    "category": "technology",
+    "location": "泉州（今福建泉州）",
+    "coordinates": [
+      118.7,
+      24.9
+    ],
+    "description": "北宋时期，指南针开始用于航海。朱彧在《萍洲可谈》中记录了广州海船使用指南针导航的情景。",
+    "significance": "中国四大发明之一，极大地促进了海上贸易和地理大发现。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-chengzhu-lixue-7",
+    "year": 1130,
+    "title": "程朱理学兴起",
+    "dynasty": "song",
+    "category": "culture",
+    "location": "武夷山（今福建武夷山）",
+    "coordinates": [
+      117.9,
+      27.7
+    ],
+    "description": "程颢、程颐、朱熹等人发展了理学思想，以\"理\"为核心，强调存天理灭人欲。理学成为南宋以后中国正统思想。",
+    "significance": "影响中国近千年的主流思想，塑造了东亚儒学的核心内容。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-bisheng-huozi",
+    "year": 1040,
+    "title": "毕昇发明活字印刷",
+    "dynasty": "song",
+    "category": "technology",
+    "location": "杭州（今浙江杭州）",
+    "coordinates": [
+      120.2,
+      30.3
+    ],
+    "description": "毕昇发明胶泥活字印刷术，用胶泥刻字，火烧使之坚硬，然后排版印刷。这是世界上最早的活字印刷术。",
+    "significance": "中国四大发明之一，比欧洲古腾堡早四百多年，推动了人类文明的传播。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-songtaizu-tongyi",
+    "year": 979,
+    "title": "宋太宗灭北汉",
+    "dynasty": "song",
+    "category": "military",
+    "location": "太原（今山西太原）",
+    "coordinates": [
+      112.5,
+      37.9
+    ],
+    "description": "宋太宗赵光义率军亲征北汉，攻克太原，北汉灭亡。至此，宋朝基本统一了中原地区，结束了五代十国的分裂局面。",
+    "significance": "北宋统一的最后一步，但未能收复燕云十六州，留下了边防隐患。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-baoxi-zhiyi",
+    "year": 1004,
+    "title": "寇准力主抗辽",
+    "dynasty": "song",
+    "category": "politics",
+    "location": "澶州（今河南濮阳）",
+    "coordinates": [
+      115,
+      35.7
+    ],
+    "description": "辽军大举南下，直抵黄河岸边的澶州。宰相寇准力劝宋真宗御驾亲征，宋军士气大振，射杀辽将萧挞凛。",
+    "significance": "澶渊之盟的前奏，展示了寇准的胆略和宋真宗的勇气。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-menggu-miejin",
+    "year": 1234,
+    "title": "蒙古灭金",
+    "dynasty": "yuan",
+    "category": "military",
+    "location": "蔡州（今河南汝南）",
+    "coordinates": [
+      114.3,
+      33
+    ],
+    "description": "蒙古与南宋联合攻金，金哀宗在蔡州自杀，金朝灭亡。蒙古成为北方唯一的强大政权。",
+    "significance": "金朝灭亡，蒙古统一北方，为后来忽必烈建立元朝扫清了障碍。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-menggu-miexixia",
+    "year": 1227,
+    "title": "蒙古灭西夏",
+    "dynasty": "yuan",
+    "category": "military",
+    "location": "兴庆府（今宁夏银川）",
+    "coordinates": [
+      106.3,
+      38.5
+    ],
+    "description": "成吉思汗亲征西夏，西夏末帝李睍投降，西夏灭亡。成吉思汗在征讨途中病逝，临终前秘不发丧。",
+    "significance": "西夏灭亡，蒙古消除了侧翼威胁，为灭金灭宋创造了条件。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yuandadu-jiancheng",
+    "year": 1276,
+    "title": "元大都建成",
+    "dynasty": "yuan",
+    "category": "technology",
+    "location": "大都（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "元世祖忽必烈命刘秉忠营建新都，历时十余年建成。大都规划严整，布局合理，是当时世界上最大的都市之一。",
+    "significance": "北京作为中国政治中心的开始，城市规划对后世影响深远。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-hongjin-qiyi",
+    "year": 1351,
+    "title": "红巾军起义",
+    "dynasty": "yuan",
+    "category": "military",
+    "location": "颍州（今安徽阜阳）",
+    "coordinates": [
+      115.8,
+      32.9
+    ],
+    "description": "韩山童、刘福通以\"弥勒降世\"为号召，发动红巾军起义。起义军头裹红巾，迅速发展到数十万之众。",
+    "significance": "元朝灭亡的导火索，朱元璋后来加入红巾军，最终推翻元朝。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-marco-polo",
+    "year": 1275,
+    "title": "马可波罗来华",
+    "dynasty": "yuan",
+    "category": "culture",
+    "location": "大都（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "意大利旅行家马可波罗随父叔到达大都，受到忽必烈接见。他在中国居住十七年，回国后写下《马可波罗游记》。",
+    "significance": "促进了东西方文化交流，激发了欧洲人对东方的向往。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-jingnan-zhiyi",
+    "year": 1399,
+    "title": "靖难之役",
+    "dynasty": "ming",
+    "category": "military",
+    "location": "北平（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "燕王朱棣以\"清君侧\"为名起兵，发动靖难之役。经过四年战争，朱棣攻占南京，即位称帝，是为明成祖。",
+    "significance": "明朝皇位的非正常更替，朱棣迁都北京，开创了永乐盛世。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yongledadian",
+    "year": 1408,
+    "title": "《永乐大典》编纂",
+    "dynasty": "ming",
+    "category": "culture",
+    "location": "南京（今江苏南京）",
+    "coordinates": [
+      118.8,
+      32
+    ],
+    "description": "明成祖下令编纂《永乐大典》，动员三千余人，历时五年完成。全书二万二千余卷，收录古今图书七八千种。",
+    "significance": "中国古代最大的类书，是人类历史上最大的百科全书之一。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-tumubao-zhibian",
+    "year": 1449,
+    "title": "土木堡之变",
+    "dynasty": "ming",
+    "category": "military",
+    "location": "土木堡（今河北怀来）",
+    "coordinates": [
+      115.5,
+      40.4
+    ],
+    "description": "明英宗亲征瓦剌，在土木堡被也先俘虏。这是明朝建国以来最大的军事惨败，京师震动。",
+    "significance": "明朝由盛转衰的转折点，暴露了明朝军事体制的弊端。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-qijiguang-kangwo",
+    "year": 1561,
+    "title": "戚继光抗倭",
+    "dynasty": "ming",
+    "category": "military",
+    "location": "台州（今浙江台州）",
+    "coordinates": [
+      121.4,
+      28.7
+    ],
+    "description": "戚继光率领戚家军在台州九战九捷，基本平定东南沿海的倭患。戚继光还创编了鸳鸯阵等战法。",
+    "significance": "明朝抗倭战争的胜利，戚继光成为民族英雄。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhangjuzheng-gaige",
+    "year": 1573,
+    "title": "张居正改革",
+    "dynasty": "ming",
+    "category": "politics",
+    "location": "北京（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "张居正担任内阁首辅，推行一条鞭法、考成法等一系列改革，整顿吏治，增加财政收入，使明朝出现中兴局面。",
+    "significance": "明朝最后一次重大改革，缓解了社会矛盾，但张居正死后改革被废。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wanli-sandazheng",
+    "year": 1592,
+    "title": "万历三大征",
+    "dynasty": "ming",
+    "category": "military",
+    "location": "朝鲜（今朝鲜半岛）",
+    "coordinates": [
+      126.9,
+      37.5
+    ],
+    "description": "万历年间，明朝进行了三次大规模军事行动：平定宁夏哱拜叛乱、平定播州杨应龙叛乱、援助朝鲜抗击日本入侵。",
+    "significance": "展示了明朝后期的军事力量，但也消耗了大量国力。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-nongmin-qiyi",
+    "year": 1627,
+    "title": "明末农民起义",
+    "dynasty": "ming",
+    "category": "military",
+    "location": "陕西（今陕西）",
+    "coordinates": [
+      109,
+      35
+    ],
+    "description": "陕西连年灾荒，高迎祥、李自成、张献忠等人先后发动起义。起义军提出\"均田免粮\"的口号，得到广大农民响应。",
+    "significance": "明朝灭亡的直接原因，李自成的起义最终推翻了明朝统治。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-nuerhachi-qiubing",
+    "year": 1618,
+    "title": "努尔哈赤起兵",
+    "dynasty": "ming",
+    "category": "military",
+    "location": "赫图阿拉（今辽宁新宾）",
+    "coordinates": [
+      125,
+      41.5
+    ],
+    "description": "努尔哈赤以\"七大恨\"誓师，起兵反明。随后统一女真各部，建立后金。萨尔浒之战中大败明军。",
+    "significance": "清朝建立的前奏，努尔哈赤成为清朝的奠基者。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-xuguangqi-jihe",
+    "year": 1607,
+    "title": "徐光启译《几何原本》",
+    "dynasty": "ming",
+    "category": "technology",
+    "location": "北京（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "徐光启与意大利传教士利玛窦合作，翻译欧几里得《几何原本》前六卷。这是中国历史上第一次系统介绍西方数学。",
+    "significance": "中西科学文化交流的里程碑，推动了中国数学的发展。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wanli-zhizheng",
+    "year": 1587,
+    "title": "万历怠政",
+    "dynasty": "ming",
+    "category": "politics",
+    "location": "北京紫禁城",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "万历皇帝长期不上朝，不理政务，官员空缺严重。这种怠政局面持续了二十余年，加速了明朝的衰落。",
+    "significance": "明朝政治腐败的典型表现，中央集权体制出现严重危机。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-haijin-mianchu",
+    "year": 1567,
+    "title": "隆庆开关",
+    "dynasty": "ming",
+    "category": "politics",
+    "location": "月港（今福建龙海）",
+    "coordinates": [
+      117.8,
+      24.4
+    ],
+    "description": "明穆宗宣布解除海禁，允许民间私人海外贸易。月港成为明朝唯一的合法对外贸易港口，海上贸易繁荣。",
+    "significance": "明朝海外贸易政策的重大转变，促进了东南沿海经济的发展。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-kangxi-aoobai",
+    "year": 1669,
+    "title": "康熙擒鳌拜",
+    "dynasty": "qing",
+    "category": "politics",
+    "location": "北京紫禁城",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "康熙帝以训练布库少年为名，设计擒拿权臣鳌拜，夺回朝政大权。康熙从此开始亲政，开创了康乾盛世。",
+    "significance": "康熙亲政的标志，展示了少年天子的果敢和智慧。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-sanfan-zhiluan",
+    "year": 1681,
+    "title": "平定三藩之乱",
+    "dynasty": "qing",
+    "category": "military",
+    "location": "云南（今云南昆明）",
+    "coordinates": [
+      102.7,
+      25
+    ],
+    "description": "康熙帝果断撤藩，吴三桂等起兵反叛。经过八年战争，清军平定三藩之乱，巩固了清朝对南方的统治。",
+    "significance": "清朝巩固统一的重要战争，消除了地方割据势力。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wenzi-yu",
+    "year": 1777,
+    "title": "文字狱",
+    "dynasty": "qing",
+    "category": "politics",
+    "location": "北京（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "清朝统治者以文字罪镇压知识分子，制造了大量文字狱案件。庄廷鑨明史案、戴名世南山案等最为著名。",
+    "significance": "清朝思想控制的极端手段，严重禁锢了知识分子的思想。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yapian-zhizhan",
+    "year": 1840,
+    "title": "鸦片战争",
+    "dynasty": "qing",
+    "category": "military",
+    "location": "广州（今广东广州）",
+    "coordinates": [
+      113.3,
+      23.1
+    ],
+    "description": "英国以中国禁烟为借口，发动鸦片战争。清军战败，签订《南京条约》，割让香港，赔款二千一百万银元。",
+    "significance": "中国近代史的开端，中国开始沦为半殖民地半封建社会。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-taiping-tianguo",
+    "year": 1851,
+    "title": "太平天国运动",
+    "dynasty": "qing",
+    "category": "military",
+    "location": "金田村（今广西桂平）",
+    "coordinates": [
+      110.1,
+      23.4
+    ],
+    "description": "洪秀全在金田村发动起义，建立太平天国，定都天京（南京）。太平天国提出《天朝田亩制度》，历时十四年。",
+    "significance": "中国近代史上规模最大的农民起义，动摇了清朝统治根基。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-yangwu-yundong",
+    "year": 1861,
+    "title": "洋务运动",
+    "dynasty": "qing",
+    "category": "technology",
+    "location": "安庆（今安徽安庆）",
+    "coordinates": [
+      117.1,
+      30.5
+    ],
+    "description": "曾国藩创办安庆内军械所，标志着洋务运动的开始。洋务派提出\"师夷长技以制夷\"，兴办近代工业和军事。",
+    "significance": "中国近代化的开端，开启了向西方学习技术的先河。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-jiawu-zhizhan",
+    "year": 1894,
+    "title": "甲午战争",
+    "dynasty": "qing",
+    "category": "military",
+    "location": "黄海",
+    "coordinates": [
+      123,
+      38
+    ],
+    "description": "日本发动甲午战争，清军在陆海战场均告失败。签订《马关条约》，割让台湾，赔款二亿两白银。",
+    "significance": "中国近代史上最屈辱的战争之一，极大地刺激了中华民族的觉醒。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-wuxu-bianfa",
+    "year": 1898,
+    "title": "戊戌变法",
+    "dynasty": "qing",
+    "category": "politics",
+    "location": "北京（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "光绪帝在康有为、梁启超等维新派支持下，推行变法。因慈禧太后发动政变，变法失败，历时一百零三天，史称百日维新。",
+    "significance": "中国近代第一次资产阶级改良运动，促进了思想解放。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-xinhai-geming",
+    "year": 1911,
+    "title": "辛亥革命",
+    "dynasty": "qing",
+    "category": "politics",
+    "location": "武昌（今湖北武汉）",
+    "coordinates": [
+      114.3,
+      30.6
+    ],
+    "description": "武昌新军起义，各地纷纷响应。清朝统治土崩瓦解，宣统帝退位。孙中山建立中华民国，结束了两千多年的封建帝制。",
+    "significance": "中国近代史上伟大的资产阶级民主革命，推翻了封建专制制度。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-siku-quanshu-11",
+    "year": 1782,
+    "title": "《四库全书》编纂",
+    "dynasty": "qing",
+    "category": "culture",
+    "location": "北京（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "乾隆帝下令编纂《四库全书》，收书三千五百零三种，七万九千余卷。编纂过程中也销毁了大量\"禁书\"。",
+    "significance": "中国古代最大的丛书，但伴随大量书籍被销毁，是文化史上的双刃剑。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-zhenyuanjian",
+    "year": 1888,
+    "title": "北洋海军成军",
+    "dynasty": "qing",
+    "category": "military",
+    "location": "威海卫（今山东威海）",
+    "coordinates": [
+      122.1,
+      37.5
+    ],
+    "description": "北洋海军正式成军，拥有定远、镇远等主力舰，是亚洲第一、世界第九的强大海军。李鸿章为海军提督。",
+    "significance": "中国近代海军建设的巅峰，但在甲午战争中全军覆没。",
+    "relatedFigures": []
+  },
+  {
+    "id": "event-tongzhi-zhongxing",
+    "year": 1862,
+    "title": "同治中兴",
+    "dynasty": "qing",
+    "category": "politics",
+    "location": "北京（今北京）",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "description": "同治年间，曾国藩、李鸿章、左宗棠等人在平定太平天国后，推行洋务运动，社会逐渐恢复稳定，史称同治中兴。",
+    "significance": "清朝后期的短暂复兴，但未能从根本上解决国家面临的问题。",
+    "relatedFigures": []
+  }
+]

@@ -1,0 +1,2870 @@
+[
+  {
+    "startYear": -140,
+    "duration": 6,
+    "name": "建元",
+    "endYear": -134
+  },
+  {
+    "startYear": -134,
+    "duration": 6,
+    "name": "元光",
+    "endYear": -128
+  },
+  {
+    "startYear": -128,
+    "duration": 6,
+    "name": "元朔",
+    "endYear": -122
+  },
+  {
+    "startYear": -122,
+    "duration": 6,
+    "name": "元狩",
+    "endYear": -116
+  },
+  {
+    "startYear": -116,
+    "duration": 6,
+    "name": "元鼎",
+    "endYear": -110
+  },
+  {
+    "startYear": -110,
+    "duration": 6,
+    "name": "元封",
+    "endYear": -104
+  },
+  {
+    "startYear": -104,
+    "duration": 4,
+    "name": "太初",
+    "endYear": -100
+  },
+  {
+    "startYear": -100,
+    "duration": 4,
+    "name": "天汉",
+    "endYear": -96
+  },
+  {
+    "startYear": -96,
+    "duration": 4,
+    "name": "太始",
+    "endYear": -92
+  },
+  {
+    "startYear": -92,
+    "duration": 4,
+    "name": "徵和",
+    "endYear": -88
+  },
+  {
+    "startYear": -88,
+    "duration": 2,
+    "name": "后元",
+    "endYear": -86
+  },
+  {
+    "startYear": -86,
+    "duration": 7,
+    "name": "始元",
+    "endYear": -79
+  },
+  {
+    "startYear": -80,
+    "duration": 6,
+    "name": "元凤",
+    "endYear": -74
+  },
+  {
+    "startYear": -74,
+    "duration": 1,
+    "name": "元平",
+    "endYear": -73
+  },
+  {
+    "startYear": -73,
+    "duration": 4,
+    "name": "本始",
+    "endYear": -69
+  },
+  {
+    "startYear": -69,
+    "duration": 4,
+    "name": "地节",
+    "endYear": -65
+  },
+  {
+    "startYear": -65,
+    "duration": 5,
+    "name": "元康",
+    "endYear": -60
+  },
+  {
+    "startYear": -61,
+    "duration": 4,
+    "name": "神爵",
+    "endYear": -57
+  },
+  {
+    "startYear": -57,
+    "duration": 4,
+    "name": "五凤",
+    "endYear": -53
+  },
+  {
+    "startYear": -53,
+    "duration": 4,
+    "name": "甘露",
+    "endYear": -49
+  },
+  {
+    "startYear": -49,
+    "duration": 1,
+    "name": "黄龙",
+    "endYear": -48
+  },
+  {
+    "startYear": -48,
+    "duration": 5,
+    "name": "初元",
+    "endYear": -43
+  },
+  {
+    "startYear": -43,
+    "duration": 5,
+    "name": "永光",
+    "endYear": -38
+  },
+  {
+    "startYear": -38,
+    "duration": 5,
+    "name": "建昭",
+    "endYear": -33
+  },
+  {
+    "startYear": -33,
+    "duration": 1,
+    "name": "竟甯",
+    "endYear": -32
+  },
+  {
+    "startYear": -32,
+    "duration": 4,
+    "name": "建始",
+    "endYear": -28
+  },
+  {
+    "startYear": -28,
+    "duration": 4,
+    "name": "河平",
+    "endYear": -24
+  },
+  {
+    "startYear": -24,
+    "duration": 4,
+    "name": "阳朔",
+    "endYear": -20
+  },
+  {
+    "startYear": -20,
+    "duration": 4,
+    "name": "鸿嘉",
+    "endYear": -16
+  },
+  {
+    "startYear": -16,
+    "duration": 4,
+    "name": "永始",
+    "endYear": -12
+  },
+  {
+    "startYear": -12,
+    "duration": 4,
+    "name": "元延",
+    "endYear": -8
+  },
+  {
+    "startYear": -8,
+    "duration": 4,
+    "name": "绥和",
+    "endYear": -4
+  },
+  {
+    "startYear": -6,
+    "duration": 4,
+    "name": "建平",
+    "endYear": -2
+  },
+  {
+    "startYear": -2,
+    "duration": 2,
+    "name": "元寿",
+    "endYear": 0
+  },
+  {
+    "startYear": 1,
+    "duration": 5,
+    "name": "元始",
+    "endYear": 6
+  },
+  {
+    "startYear": 6,
+    "duration": 3,
+    "name": "居摄",
+    "endYear": 9
+  },
+  {
+    "startYear": 8,
+    "duration": 1,
+    "name": "初始",
+    "endYear": 9
+  },
+  {
+    "startYear": 9,
+    "duration": 5,
+    "name": "始建国",
+    "endYear": 14
+  },
+  {
+    "startYear": 14,
+    "duration": 6,
+    "name": "天凤",
+    "endYear": 20
+  },
+  {
+    "startYear": 20,
+    "duration": 4,
+    "name": "地皇",
+    "endYear": 24
+  },
+  {
+    "startYear": 23,
+    "duration": 3,
+    "name": "更始",
+    "endYear": 26
+  },
+  {
+    "startYear": 25,
+    "duration": 32,
+    "name": "建武",
+    "endYear": 57
+  },
+  {
+    "startYear": 56,
+    "duration": 2,
+    "name": "建武中元",
+    "endYear": 58
+  },
+  {
+    "startYear": 58,
+    "duration": 18,
+    "name": "永平",
+    "endYear": 76
+  },
+  {
+    "startYear": 76,
+    "duration": 9,
+    "name": "建初",
+    "endYear": 85
+  },
+  {
+    "startYear": 84,
+    "duration": 4,
+    "name": "元和",
+    "endYear": 88
+  },
+  {
+    "startYear": 87,
+    "duration": 2,
+    "name": "章和",
+    "endYear": 89
+  },
+  {
+    "startYear": 89,
+    "duration": 17,
+    "name": "永元",
+    "endYear": 106
+  },
+  {
+    "startYear": 105,
+    "duration": 1,
+    "name": "元兴",
+    "endYear": 106
+  },
+  {
+    "startYear": 106,
+    "duration": 1,
+    "name": "延平",
+    "endYear": 107
+  },
+  {
+    "startYear": 107,
+    "duration": 7,
+    "name": "永初",
+    "endYear": 114
+  },
+  {
+    "startYear": 114,
+    "duration": 7,
+    "name": "元初",
+    "endYear": 121
+  },
+  {
+    "startYear": 120,
+    "duration": 2,
+    "name": "永甯",
+    "endYear": 122
+  },
+  {
+    "startYear": 121,
+    "duration": 2,
+    "name": "建光",
+    "endYear": 123
+  },
+  {
+    "startYear": 122,
+    "duration": 4,
+    "name": "延光",
+    "endYear": 126
+  },
+  {
+    "startYear": 126,
+    "duration": 7,
+    "name": "永建",
+    "endYear": 133
+  },
+  {
+    "startYear": 132,
+    "duration": 4,
+    "name": "阳嘉",
+    "endYear": 136
+  },
+  {
+    "startYear": 136,
+    "duration": 6,
+    "name": "永和",
+    "endYear": 142
+  },
+  {
+    "startYear": 142,
+    "duration": 3,
+    "name": "汉安",
+    "endYear": 145
+  },
+  {
+    "startYear": 144,
+    "duration": 1,
+    "name": "建康",
+    "endYear": 145
+  },
+  {
+    "startYear": 145,
+    "duration": 1,
+    "name": "永熹",
+    "endYear": 146
+  },
+  {
+    "startYear": 146,
+    "duration": 1,
+    "name": "本初",
+    "endYear": 147
+  },
+  {
+    "startYear": 147,
+    "duration": 3,
+    "name": "建和",
+    "endYear": 150
+  },
+  {
+    "startYear": 150,
+    "duration": 1,
+    "name": "和平",
+    "endYear": 151
+  },
+  {
+    "startYear": 151,
+    "duration": 3,
+    "name": "元嘉",
+    "endYear": 154
+  },
+  {
+    "startYear": 153,
+    "duration": 2,
+    "name": "永兴",
+    "endYear": 155
+  },
+  {
+    "startYear": 155,
+    "duration": 4,
+    "name": "永寿",
+    "endYear": 159
+  },
+  {
+    "startYear": 158,
+    "duration": 10,
+    "name": "延熹",
+    "endYear": 168
+  },
+  {
+    "startYear": 167,
+    "duration": 1,
+    "name": "永康",
+    "endYear": 168
+  },
+  {
+    "startYear": 168,
+    "duration": 5,
+    "name": "建甯",
+    "endYear": 173
+  },
+  {
+    "startYear": 172,
+    "duration": 7,
+    "name": "熹平",
+    "endYear": 179
+  },
+  {
+    "startYear": 178,
+    "duration": 7,
+    "name": "光和",
+    "endYear": 185
+  },
+  {
+    "startYear": 184,
+    "duration": 6,
+    "name": "中平",
+    "endYear": 190
+  },
+  {
+    "startYear": 190,
+    "duration": 4,
+    "name": "初平",
+    "endYear": 194
+  },
+  {
+    "startYear": 194,
+    "duration": 2,
+    "name": "兴平",
+    "endYear": 196
+  },
+  {
+    "startYear": 196,
+    "duration": 25,
+    "name": "建安",
+    "endYear": 221
+  },
+  {
+    "startYear": 220,
+    "duration": 1,
+    "name": "延康",
+    "endYear": 221
+  },
+  {
+    "startYear": 220,
+    "duration": 7,
+    "name": "黄初",
+    "endYear": 227
+  },
+  {
+    "startYear": 227,
+    "duration": 7,
+    "name": "太和",
+    "endYear": 234
+  },
+  {
+    "startYear": 233,
+    "duration": 5,
+    "name": "青龙",
+    "endYear": 238
+  },
+  {
+    "startYear": 237,
+    "duration": 3,
+    "name": "景初",
+    "endYear": 240
+  },
+  {
+    "startYear": 240,
+    "duration": 10,
+    "name": "正始",
+    "endYear": 250
+  },
+  {
+    "startYear": 249,
+    "duration": 6,
+    "name": "嘉平",
+    "endYear": 255
+  },
+  {
+    "startYear": 254,
+    "duration": 3,
+    "name": "正元",
+    "endYear": 257
+  },
+  {
+    "startYear": 256,
+    "duration": 5,
+    "name": "甘露",
+    "endYear": 261
+  },
+  {
+    "startYear": 260,
+    "duration": 5,
+    "name": "景元",
+    "endYear": 265
+  },
+  {
+    "startYear": 264,
+    "duration": 2,
+    "name": "咸熙",
+    "endYear": 266
+  },
+  {
+    "startYear": 221,
+    "duration": 3,
+    "name": "章武",
+    "endYear": 224
+  },
+  {
+    "startYear": 223,
+    "duration": 15,
+    "name": "建兴",
+    "endYear": 238
+  },
+  {
+    "startYear": 238,
+    "duration": 20,
+    "name": "延熙",
+    "endYear": 258
+  },
+  {
+    "startYear": 258,
+    "duration": 6,
+    "name": "景耀",
+    "endYear": 264
+  },
+  {
+    "startYear": 263,
+    "duration": 1,
+    "name": "炎兴",
+    "endYear": 264
+  },
+  {
+    "startYear": 222,
+    "duration": 8,
+    "name": "黄武",
+    "endYear": 230
+  },
+  {
+    "startYear": 229,
+    "duration": 3,
+    "name": "黄龙",
+    "endYear": 232
+  },
+  {
+    "startYear": 232,
+    "duration": 7,
+    "name": "嘉禾",
+    "endYear": 239
+  },
+  {
+    "startYear": 238,
+    "duration": 14,
+    "name": "赤乌",
+    "endYear": 252
+  },
+  {
+    "startYear": 251,
+    "duration": 2,
+    "name": "太元",
+    "endYear": 253
+  },
+  {
+    "startYear": 252,
+    "duration": 1,
+    "name": "神凤",
+    "endYear": 253
+  },
+  {
+    "startYear": 252,
+    "duration": 2,
+    "name": "建兴",
+    "endYear": 254
+  },
+  {
+    "startYear": 254,
+    "duration": 3,
+    "name": "五凤",
+    "endYear": 257
+  },
+  {
+    "startYear": 256,
+    "duration": 3,
+    "name": "太平",
+    "endYear": 259
+  },
+  {
+    "startYear": 258,
+    "duration": 7,
+    "name": "永安",
+    "endYear": 265
+  },
+  {
+    "startYear": 264,
+    "duration": 2,
+    "name": "元兴",
+    "endYear": 266
+  },
+  {
+    "startYear": 265,
+    "duration": 2,
+    "name": "甘露",
+    "endYear": 267
+  },
+  {
+    "startYear": 266,
+    "duration": 4,
+    "name": "宝鼎",
+    "endYear": 270
+  },
+  {
+    "startYear": 269,
+    "duration": 3,
+    "name": "建衡",
+    "endYear": 272
+  },
+  {
+    "startYear": 272,
+    "duration": 3,
+    "name": "凤凰",
+    "endYear": 275
+  },
+  {
+    "startYear": 275,
+    "duration": 2,
+    "name": "天册",
+    "endYear": 277
+  },
+  {
+    "startYear": 276,
+    "duration": 1,
+    "name": "天玺",
+    "endYear": 277
+  },
+  {
+    "startYear": 277,
+    "duration": 4,
+    "name": "天纪",
+    "endYear": 281
+  },
+  {
+    "startYear": 275,
+    "duration": 6,
+    "name": "咸甯",
+    "endYear": 281
+  },
+  {
+    "startYear": 280,
+    "duration": 10,
+    "name": "太康",
+    "endYear": 290
+  },
+  {
+    "startYear": 290,
+    "duration": 1,
+    "name": "太熙",
+    "endYear": 291
+  },
+  {
+    "startYear": 290,
+    "duration": 1,
+    "name": "永熙",
+    "endYear": 291
+  },
+  {
+    "startYear": 291,
+    "duration": 1,
+    "name": "永平",
+    "endYear": 292
+  },
+  {
+    "startYear": 291,
+    "duration": 9,
+    "name": "元康",
+    "endYear": 300
+  },
+  {
+    "startYear": 300,
+    "duration": 2,
+    "name": "永康",
+    "endYear": 302
+  },
+  {
+    "startYear": 301,
+    "duration": 2,
+    "name": "永甯",
+    "endYear": 303
+  },
+  {
+    "startYear": 302,
+    "duration": 2,
+    "name": "太安",
+    "endYear": 304
+  },
+  {
+    "startYear": 304,
+    "duration": 1,
+    "name": "永安",
+    "endYear": 305
+  },
+  {
+    "startYear": 304,
+    "duration": 1,
+    "name": "建武",
+    "endYear": 305
+  },
+  {
+    "startYear": 304,
+    "duration": 1,
+    "name": "永安",
+    "endYear": 305
+  },
+  {
+    "startYear": 304,
+    "duration": 3,
+    "name": "永兴",
+    "endYear": 307
+  },
+  {
+    "startYear": 306,
+    "duration": 1,
+    "name": "光熙",
+    "endYear": 307
+  },
+  {
+    "startYear": 307,
+    "duration": 7,
+    "name": "永嘉",
+    "endYear": 314
+  },
+  {
+    "startYear": 313,
+    "duration": 5,
+    "name": "建兴",
+    "endYear": 318
+  },
+  {
+    "startYear": 317,
+    "duration": 2,
+    "name": "建武",
+    "endYear": 319
+  },
+  {
+    "startYear": 318,
+    "duration": 4,
+    "name": "大兴",
+    "endYear": 322
+  },
+  {
+    "startYear": 322,
+    "duration": 2,
+    "name": "永昌",
+    "endYear": 324
+  },
+  {
+    "startYear": 323,
+    "duration": 4,
+    "name": "太甯",
+    "endYear": 327
+  },
+  {
+    "startYear": 326,
+    "duration": 9,
+    "name": "咸和",
+    "endYear": 335
+  },
+  {
+    "startYear": 335,
+    "duration": 8,
+    "name": "咸康",
+    "endYear": 343
+  },
+  {
+    "startYear": 343,
+    "duration": 2,
+    "name": "建元",
+    "endYear": 345
+  },
+  {
+    "startYear": 345,
+    "duration": 12,
+    "name": "永和",
+    "endYear": 357
+  },
+  {
+    "startYear": 357,
+    "duration": 5,
+    "name": "升平",
+    "endYear": 362
+  },
+  {
+    "startYear": 362,
+    "duration": 2,
+    "name": "隆和",
+    "endYear": 364
+  },
+  {
+    "startYear": 363,
+    "duration": 3,
+    "name": "兴甯",
+    "endYear": 366
+  },
+  {
+    "startYear": 366,
+    "duration": 6,
+    "name": "太和",
+    "endYear": 372
+  },
+  {
+    "startYear": 371,
+    "duration": 2,
+    "name": "咸安",
+    "endYear": 373
+  },
+  {
+    "startYear": 373,
+    "duration": 3,
+    "name": "甯康",
+    "endYear": 376
+  },
+  {
+    "startYear": 376,
+    "duration": 21,
+    "name": "太元",
+    "endYear": 397
+  },
+  {
+    "startYear": 397,
+    "duration": 5,
+    "name": "隆安",
+    "endYear": 402
+  },
+  {
+    "startYear": 402,
+    "duration": 3,
+    "name": "元兴",
+    "endYear": 405
+  },
+  {
+    "startYear": 405,
+    "duration": 14,
+    "name": "义熙",
+    "endYear": 419
+  },
+  {
+    "startYear": 419,
+    "duration": 2,
+    "name": "元熙",
+    "endYear": 421
+  },
+  {
+    "startYear": 420,
+    "duration": 3,
+    "name": "永初",
+    "endYear": 423
+  },
+  {
+    "startYear": 423,
+    "duration": 2,
+    "name": "景平",
+    "endYear": 425
+  },
+  {
+    "startYear": 424,
+    "duration": 30,
+    "name": "元嘉",
+    "endYear": 454
+  },
+  {
+    "startYear": 454,
+    "duration": 3,
+    "name": "孝建",
+    "endYear": 457
+  },
+  {
+    "startYear": 457,
+    "duration": 8,
+    "name": "大明",
+    "endYear": 465
+  },
+  {
+    "startYear": 465,
+    "duration": 1,
+    "name": "永光",
+    "endYear": 466
+  },
+  {
+    "startYear": 465,
+    "duration": 1,
+    "name": "景和",
+    "endYear": 466
+  },
+  {
+    "startYear": 465,
+    "duration": 7,
+    "name": "泰始",
+    "endYear": 472
+  },
+  {
+    "startYear": 472,
+    "duration": 1,
+    "name": "泰豫",
+    "endYear": 473
+  },
+  {
+    "startYear": 473,
+    "duration": 5,
+    "name": "元徽",
+    "endYear": 478
+  },
+  {
+    "startYear": 477,
+    "duration": 3,
+    "name": "昇明",
+    "endYear": 480
+  },
+  {
+    "startYear": 479,
+    "duration": 4,
+    "name": "建元",
+    "endYear": 483
+  },
+  {
+    "startYear": 483,
+    "duration": 11,
+    "name": "永明",
+    "endYear": 494
+  },
+  {
+    "startYear": 494,
+    "duration": 1,
+    "name": "隆昌",
+    "endYear": 495
+  },
+  {
+    "startYear": 494,
+    "duration": 1,
+    "name": "延兴",
+    "endYear": 495
+  },
+  {
+    "startYear": 494,
+    "duration": 5,
+    "name": "建武",
+    "endYear": 499
+  },
+  {
+    "startYear": 498,
+    "duration": 1,
+    "name": "永泰",
+    "endYear": 499
+  },
+  {
+    "startYear": 499,
+    "duration": 3,
+    "name": "永元",
+    "endYear": 502
+  },
+  {
+    "startYear": 501,
+    "duration": 2,
+    "name": "中兴",
+    "endYear": 503
+  },
+  {
+    "startYear": 502,
+    "duration": 18,
+    "name": "天监",
+    "endYear": 520
+  },
+  {
+    "startYear": 520,
+    "duration": 8,
+    "name": "普通",
+    "endYear": 528
+  },
+  {
+    "startYear": 527,
+    "duration": 3,
+    "name": "大通",
+    "endYear": 530
+  },
+  {
+    "startYear": 529,
+    "duration": 6,
+    "name": "中大通",
+    "endYear": 535
+  },
+  {
+    "startYear": 535,
+    "duration": 12,
+    "name": "大同",
+    "endYear": 547
+  },
+  {
+    "startYear": 546,
+    "duration": 2,
+    "name": "中大同",
+    "endYear": 548
+  },
+  {
+    "startYear": 547,
+    "duration": 3,
+    "name": "太清",
+    "endYear": 550
+  },
+  {
+    "startYear": 550,
+    "duration": 2,
+    "name": "大宝",
+    "endYear": 552
+  },
+  {
+    "startYear": 552,
+    "duration": 4,
+    "name": "承圣",
+    "endYear": 556
+  },
+  {
+    "startYear": 555,
+    "duration": 2,
+    "name": "绍泰",
+    "endYear": 557
+  },
+  {
+    "startYear": 556,
+    "duration": 2,
+    "name": "太平",
+    "endYear": 558
+  },
+  {
+    "startYear": 557,
+    "duration": 3,
+    "name": "永定",
+    "endYear": 560
+  },
+  {
+    "startYear": 560,
+    "duration": 7,
+    "name": "天嘉",
+    "endYear": 567
+  },
+  {
+    "startYear": 566,
+    "duration": 1,
+    "name": "天康",
+    "endYear": 567
+  },
+  {
+    "startYear": 567,
+    "duration": 2,
+    "name": "光大",
+    "endYear": 569
+  },
+  {
+    "startYear": 569,
+    "duration": 14,
+    "name": "太建",
+    "endYear": 583
+  },
+  {
+    "startYear": 583,
+    "duration": 4,
+    "name": "至德",
+    "endYear": 587
+  },
+  {
+    "startYear": 587,
+    "duration": 3,
+    "name": "祯明",
+    "endYear": 590
+  },
+  {
+    "startYear": 396,
+    "duration": 3,
+    "name": "皇始",
+    "endYear": 399
+  },
+  {
+    "startYear": 398,
+    "duration": 7,
+    "name": "天兴",
+    "endYear": 405
+  },
+  {
+    "startYear": 404,
+    "duration": 6,
+    "name": "天赐",
+    "endYear": 410
+  },
+  {
+    "startYear": 409,
+    "duration": 5,
+    "name": "永兴",
+    "endYear": 414
+  },
+  {
+    "startYear": 414,
+    "duration": 3,
+    "name": "神瑞",
+    "endYear": 417
+  },
+  {
+    "startYear": 416,
+    "duration": 8,
+    "name": "泰常",
+    "endYear": 424
+  },
+  {
+    "startYear": 424,
+    "duration": 5,
+    "name": "始光",
+    "endYear": 429
+  },
+  {
+    "startYear": 428,
+    "duration": 4,
+    "name": "神麚",
+    "endYear": 432
+  },
+  {
+    "startYear": 432,
+    "duration": 3,
+    "name": "延和",
+    "endYear": 435
+  },
+  {
+    "startYear": 435,
+    "duration": 6,
+    "name": "太延",
+    "endYear": 441
+  },
+  {
+    "startYear": 440,
+    "duration": 12,
+    "name": "太平真君",
+    "endYear": 452
+  },
+  {
+    "startYear": 451,
+    "duration": 2,
+    "name": "正平",
+    "endYear": 453
+  },
+  {
+    "startYear": 452,
+    "duration": 1,
+    "name": "承平",
+    "endYear": 453
+  },
+  {
+    "startYear": 452,
+    "duration": 3,
+    "name": "兴安",
+    "endYear": 455
+  },
+  {
+    "startYear": 454,
+    "duration": 2,
+    "name": "兴光",
+    "endYear": 456
+  },
+  {
+    "startYear": 455,
+    "duration": 5,
+    "name": "太安",
+    "endYear": 460
+  },
+  {
+    "startYear": 460,
+    "duration": 6,
+    "name": "和平",
+    "endYear": 466
+  },
+  {
+    "startYear": 466,
+    "duration": 2,
+    "name": "天安",
+    "endYear": 468
+  },
+  {
+    "startYear": 467,
+    "duration": 5,
+    "name": "皇兴",
+    "endYear": 472
+  },
+  {
+    "startYear": 471,
+    "duration": 6,
+    "name": "延兴",
+    "endYear": 477
+  },
+  {
+    "startYear": 476,
+    "duration": 1,
+    "name": "承明",
+    "endYear": 477
+  },
+  {
+    "startYear": 477,
+    "duration": 23,
+    "name": "太和",
+    "endYear": 500
+  },
+  {
+    "startYear": 500,
+    "duration": 4,
+    "name": "景明",
+    "endYear": 504
+  },
+  {
+    "startYear": 504,
+    "duration": 5,
+    "name": "正始",
+    "endYear": 509
+  },
+  {
+    "startYear": 508,
+    "duration": 5,
+    "name": "永平",
+    "endYear": 513
+  },
+  {
+    "startYear": 512,
+    "duration": 4,
+    "name": "延昌",
+    "endYear": 516
+  },
+  {
+    "startYear": 516,
+    "duration": 3,
+    "name": "熙平",
+    "endYear": 519
+  },
+  {
+    "startYear": 518,
+    "duration": 3,
+    "name": "神龟",
+    "endYear": 521
+  },
+  {
+    "startYear": 520,
+    "duration": 6,
+    "name": "正光",
+    "endYear": 526
+  },
+  {
+    "startYear": 525,
+    "duration": 3,
+    "name": "孝昌",
+    "endYear": 528
+  },
+  {
+    "startYear": 528,
+    "duration": 1,
+    "name": "武泰",
+    "endYear": 529
+  },
+  {
+    "startYear": 528,
+    "duration": 1,
+    "name": "建义",
+    "endYear": 529
+  },
+  {
+    "startYear": 528,
+    "duration": 3,
+    "name": "永安",
+    "endYear": 531
+  },
+  {
+    "startYear": 530,
+    "duration": 2,
+    "name": "建明",
+    "endYear": 532
+  },
+  {
+    "startYear": 531,
+    "duration": 1,
+    "name": "普泰",
+    "endYear": 532
+  },
+  {
+    "startYear": 531,
+    "duration": 2,
+    "name": "中兴",
+    "endYear": 533
+  },
+  {
+    "startYear": 532,
+    "duration": 1,
+    "name": "太昌",
+    "endYear": 533
+  },
+  {
+    "startYear": 532,
+    "duration": 1,
+    "name": "永兴",
+    "endYear": 533
+  },
+  {
+    "startYear": 532,
+    "duration": 3,
+    "name": "永熙",
+    "endYear": 535
+  },
+  {
+    "startYear": 534,
+    "duration": 4,
+    "name": "天平",
+    "endYear": 538
+  },
+  {
+    "startYear": 538,
+    "duration": 2,
+    "name": "元象",
+    "endYear": 540
+  },
+  {
+    "startYear": 539,
+    "duration": 4,
+    "name": "兴和",
+    "endYear": 543
+  },
+  {
+    "startYear": 543,
+    "duration": 8,
+    "name": "武定",
+    "endYear": 551
+  },
+  {
+    "startYear": 550,
+    "duration": 10,
+    "name": "天保",
+    "endYear": 560
+  },
+  {
+    "startYear": 560,
+    "duration": 1,
+    "name": "乾明",
+    "endYear": 561
+  },
+  {
+    "startYear": 560,
+    "duration": 2,
+    "name": "皇建",
+    "endYear": 562
+  },
+  {
+    "startYear": 561,
+    "duration": 2,
+    "name": "太甯",
+    "endYear": 563
+  },
+  {
+    "startYear": 562,
+    "duration": 4,
+    "name": "河清",
+    "endYear": 566
+  },
+  {
+    "startYear": 565,
+    "duration": 5,
+    "name": "天统",
+    "endYear": 570
+  },
+  {
+    "startYear": 570,
+    "duration": 7,
+    "name": "武平",
+    "endYear": 577
+  },
+  {
+    "startYear": 576,
+    "duration": 1,
+    "name": "隆化",
+    "endYear": 577
+  },
+  {
+    "startYear": 577,
+    "duration": 1,
+    "name": "承光",
+    "endYear": 578
+  },
+  {
+    "startYear": 535,
+    "duration": 17,
+    "name": "大统",
+    "endYear": 552
+  },
+  {
+    "startYear": 552,
+    "duration": 3,
+    "name": "元钦",
+    "endYear": 555
+  },
+  {
+    "startYear": 554,
+    "duration": 3,
+    "name": "元廓",
+    "endYear": 557
+  },
+  {
+    "startYear": 559,
+    "duration": 2,
+    "name": "武成",
+    "endYear": 561
+  },
+  {
+    "startYear": 561,
+    "duration": 5,
+    "name": "保定",
+    "endYear": 566
+  },
+  {
+    "startYear": 566,
+    "duration": 7,
+    "name": "天和",
+    "endYear": 573
+  },
+  {
+    "startYear": 572,
+    "duration": 7,
+    "name": "建德",
+    "endYear": 579
+  },
+  {
+    "startYear": 578,
+    "duration": 1,
+    "name": "宣政",
+    "endYear": 579
+  },
+  {
+    "startYear": 579,
+    "duration": 1,
+    "name": "大成",
+    "endYear": 580
+  },
+  {
+    "startYear": 579,
+    "duration": 3,
+    "name": "大象",
+    "endYear": 582
+  },
+  {
+    "startYear": 581,
+    "duration": 1,
+    "name": "大定",
+    "endYear": 582
+  },
+  {
+    "startYear": 581,
+    "duration": 20,
+    "name": "开皇",
+    "endYear": 601
+  },
+  {
+    "startYear": 601,
+    "duration": 4,
+    "name": "仁寿",
+    "endYear": 605
+  },
+  {
+    "startYear": 605,
+    "duration": 14,
+    "name": "大业",
+    "endYear": 619
+  },
+  {
+    "startYear": 617,
+    "duration": 2,
+    "name": "义甯",
+    "endYear": 619
+  },
+  {
+    "startYear": 618,
+    "duration": 9,
+    "name": "武德",
+    "endYear": 627
+  },
+  {
+    "startYear": 627,
+    "duration": 23,
+    "name": "贞观",
+    "endYear": 650
+  },
+  {
+    "startYear": 650,
+    "duration": 6,
+    "name": "永徽",
+    "endYear": 656
+  },
+  {
+    "startYear": 656,
+    "duration": 6,
+    "name": "显庆",
+    "endYear": 662
+  },
+  {
+    "startYear": 661,
+    "duration": 3,
+    "name": "龙朔",
+    "endYear": 664
+  },
+  {
+    "startYear": 664,
+    "duration": 2,
+    "name": "麟德",
+    "endYear": 666
+  },
+  {
+    "startYear": 666,
+    "duration": 3,
+    "name": "乾封",
+    "endYear": 669
+  },
+  {
+    "startYear": 668,
+    "duration": 3,
+    "name": "总章",
+    "endYear": 671
+  },
+  {
+    "startYear": 670,
+    "duration": 5,
+    "name": "咸亨",
+    "endYear": 675
+  },
+  {
+    "startYear": 674,
+    "duration": 3,
+    "name": "上元",
+    "endYear": 677
+  },
+  {
+    "startYear": 676,
+    "duration": 4,
+    "name": "仪凤",
+    "endYear": 680
+  },
+  {
+    "startYear": 679,
+    "duration": 2,
+    "name": "调露",
+    "endYear": 681
+  },
+  {
+    "startYear": 680,
+    "duration": 2,
+    "name": "永隆",
+    "endYear": 682
+  },
+  {
+    "startYear": 681,
+    "duration": 2,
+    "name": "开耀",
+    "endYear": 683
+  },
+  {
+    "startYear": 682,
+    "duration": 2,
+    "name": "永淳",
+    "endYear": 684
+  },
+  {
+    "startYear": 683,
+    "duration": 1,
+    "name": "弘道",
+    "endYear": 684
+  },
+  {
+    "startYear": 684,
+    "duration": 1,
+    "name": "嗣圣",
+    "endYear": 685
+  },
+  {
+    "startYear": 684,
+    "duration": 1,
+    "name": "文明",
+    "endYear": 685
+  },
+  {
+    "startYear": 684,
+    "duration": 1,
+    "name": "光宅",
+    "endYear": 685
+  },
+  {
+    "startYear": 685,
+    "duration": 4,
+    "name": "垂拱",
+    "endYear": 689
+  },
+  {
+    "startYear": 689,
+    "duration": 1,
+    "name": "永昌",
+    "endYear": 690
+  },
+  {
+    "startYear": 690,
+    "duration": 1,
+    "name": "载初",
+    "endYear": 691
+  },
+  {
+    "startYear": 690,
+    "duration": 3,
+    "name": "天授",
+    "endYear": 693
+  },
+  {
+    "startYear": 692,
+    "duration": 1,
+    "name": "如意",
+    "endYear": 693
+  },
+  {
+    "startYear": 692,
+    "duration": 3,
+    "name": "长寿",
+    "endYear": 695
+  },
+  {
+    "startYear": 694,
+    "duration": 1,
+    "name": "延载",
+    "endYear": 695
+  },
+  {
+    "startYear": 695,
+    "duration": 1,
+    "name": "证圣",
+    "endYear": 696
+  },
+  {
+    "startYear": 695,
+    "duration": 2,
+    "name": "天册万岁",
+    "endYear": 697
+  },
+  {
+    "startYear": 696,
+    "duration": 1,
+    "name": "万岁登封",
+    "endYear": 697
+  },
+  {
+    "startYear": 696,
+    "duration": 2,
+    "name": "万岁通天",
+    "endYear": 698
+  },
+  {
+    "startYear": 697,
+    "duration": 1,
+    "name": "神功",
+    "endYear": 698
+  },
+  {
+    "startYear": 698,
+    "duration": 3,
+    "name": "圣历",
+    "endYear": 701
+  },
+  {
+    "startYear": 700,
+    "duration": 1,
+    "name": "久视",
+    "endYear": 701
+  },
+  {
+    "startYear": 701,
+    "duration": 1,
+    "name": "大足",
+    "endYear": 702
+  },
+  {
+    "startYear": 701,
+    "duration": 4,
+    "name": "长安",
+    "endYear": 705
+  },
+  {
+    "startYear": 705,
+    "duration": 3,
+    "name": "神龙",
+    "endYear": 708
+  },
+  {
+    "startYear": 707,
+    "duration": 4,
+    "name": "景龙",
+    "endYear": 711
+  },
+  {
+    "startYear": 710,
+    "duration": 2,
+    "name": "景云",
+    "endYear": 712
+  },
+  {
+    "startYear": 712,
+    "duration": 1,
+    "name": "太极",
+    "endYear": 713
+  },
+  {
+    "startYear": 712,
+    "duration": 1,
+    "name": "延和",
+    "endYear": 713
+  },
+  {
+    "startYear": 712,
+    "duration": 2,
+    "name": "先天",
+    "endYear": 714
+  },
+  {
+    "startYear": 713,
+    "duration": 29,
+    "name": "开元",
+    "endYear": 742
+  },
+  {
+    "startYear": 742,
+    "duration": 15,
+    "name": "天宝",
+    "endYear": 757
+  },
+  {
+    "startYear": 756,
+    "duration": 3,
+    "name": "至德",
+    "endYear": 759
+  },
+  {
+    "startYear": 758,
+    "duration": 3,
+    "name": "乾元",
+    "endYear": 761
+  },
+  {
+    "startYear": 760,
+    "duration": 2,
+    "name": "上元",
+    "endYear": 762
+  },
+  {
+    "startYear": 762,
+    "duration": 2,
+    "name": "宝应",
+    "endYear": 764
+  },
+  {
+    "startYear": 763,
+    "duration": 2,
+    "name": "广德",
+    "endYear": 765
+  },
+  {
+    "startYear": 765,
+    "duration": 2,
+    "name": "永泰",
+    "endYear": 767
+  },
+  {
+    "startYear": 766,
+    "duration": 14,
+    "name": "大历",
+    "endYear": 780
+  },
+  {
+    "startYear": 780,
+    "duration": 4,
+    "name": "建中",
+    "endYear": 784
+  },
+  {
+    "startYear": 784,
+    "duration": 1,
+    "name": "兴元",
+    "endYear": 785
+  },
+  {
+    "startYear": 785,
+    "duration": 21,
+    "name": "贞元",
+    "endYear": 806
+  },
+  {
+    "startYear": 805,
+    "duration": 1,
+    "name": "永贞",
+    "endYear": 806
+  },
+  {
+    "startYear": 806,
+    "duration": 15,
+    "name": "元和",
+    "endYear": 821
+  },
+  {
+    "startYear": 821,
+    "duration": 4,
+    "name": "长庆",
+    "endYear": 825
+  },
+  {
+    "startYear": 825,
+    "duration": 3,
+    "name": "宝历",
+    "endYear": 828
+  },
+  {
+    "startYear": 826,
+    "duration": 1,
+    "name": "李昂",
+    "endYear": 827
+  },
+  {
+    "startYear": 827,
+    "duration": 9,
+    "name": "大和",
+    "endYear": 836
+  },
+  {
+    "startYear": 836,
+    "duration": 5,
+    "name": "开成",
+    "endYear": 841
+  },
+  {
+    "startYear": 841,
+    "duration": 6,
+    "name": "会昌",
+    "endYear": 847
+  },
+  {
+    "startYear": 847,
+    "duration": 14,
+    "name": "大中",
+    "endYear": 861
+  },
+  {
+    "startYear": 859,
+    "duration": 1,
+    "name": "李漼",
+    "endYear": 860
+  },
+  {
+    "startYear": 860,
+    "duration": 15,
+    "name": "咸通",
+    "endYear": 875
+  },
+  {
+    "startYear": 873,
+    "duration": 1,
+    "name": "李儇",
+    "endYear": 874
+  },
+  {
+    "startYear": 874,
+    "duration": 6,
+    "name": "乾符",
+    "endYear": 880
+  },
+  {
+    "startYear": 880,
+    "duration": 2,
+    "name": "广明",
+    "endYear": 882
+  },
+  {
+    "startYear": 881,
+    "duration": 5,
+    "name": "中和",
+    "endYear": 886
+  },
+  {
+    "startYear": 885,
+    "duration": 4,
+    "name": "光啓",
+    "endYear": 889
+  },
+  {
+    "startYear": 888,
+    "duration": 1,
+    "name": "文德",
+    "endYear": 889
+  },
+  {
+    "startYear": 889,
+    "duration": 1,
+    "name": "龙纪",
+    "endYear": 890
+  },
+  {
+    "startYear": 890,
+    "duration": 2,
+    "name": "大顺",
+    "endYear": 892
+  },
+  {
+    "startYear": 892,
+    "duration": 2,
+    "name": "景福",
+    "endYear": 894
+  },
+  {
+    "startYear": 894,
+    "duration": 5,
+    "name": "乾甯",
+    "endYear": 899
+  },
+  {
+    "startYear": 898,
+    "duration": 4,
+    "name": "光化",
+    "endYear": 902
+  },
+  {
+    "startYear": 901,
+    "duration": 4,
+    "name": "天复",
+    "endYear": 905
+  },
+  {
+    "startYear": 904,
+    "duration": 4,
+    "name": "天祐",
+    "endYear": 908
+  },
+  {
+    "startYear": 907,
+    "duration": 5,
+    "name": "开平",
+    "endYear": 912
+  },
+  {
+    "startYear": 911,
+    "duration": 5,
+    "name": "乾化",
+    "endYear": 916
+  },
+  {
+    "startYear": 915,
+    "duration": 7,
+    "name": "贞明",
+    "endYear": 922
+  },
+  {
+    "startYear": 921,
+    "duration": 3,
+    "name": "龙德",
+    "endYear": 924
+  },
+  {
+    "startYear": 923,
+    "duration": 4,
+    "name": "同光",
+    "endYear": 927
+  },
+  {
+    "startYear": 926,
+    "duration": 5,
+    "name": "天成",
+    "endYear": 931
+  },
+  {
+    "startYear": 930,
+    "duration": 4,
+    "name": "长兴",
+    "endYear": 934
+  },
+  {
+    "startYear": 934,
+    "duration": 1,
+    "name": "应顺",
+    "endYear": 935
+  },
+  {
+    "startYear": 934,
+    "duration": 3,
+    "name": "清泰",
+    "endYear": 937
+  },
+  {
+    "startYear": 944,
+    "duration": 4,
+    "name": "开运",
+    "endYear": 948
+  },
+  {
+    "startYear": 951,
+    "duration": 3,
+    "name": "广顺",
+    "endYear": 954
+  },
+  {
+    "startYear": 963,
+    "duration": 6,
+    "name": "乾德",
+    "endYear": 969
+  },
+  {
+    "startYear": 968,
+    "duration": 9,
+    "name": "开宝",
+    "endYear": 977
+  },
+  {
+    "startYear": 976,
+    "duration": 9,
+    "name": "太平兴国",
+    "endYear": 985
+  },
+  {
+    "startYear": 984,
+    "duration": 4,
+    "name": "雍熙",
+    "endYear": 988
+  },
+  {
+    "startYear": 988,
+    "duration": 2,
+    "name": "端拱",
+    "endYear": 990
+  },
+  {
+    "startYear": 990,
+    "duration": 5,
+    "name": "淳化",
+    "endYear": 995
+  },
+  {
+    "startYear": 995,
+    "duration": 3,
+    "name": "至道",
+    "endYear": 998
+  },
+  {
+    "startYear": 998,
+    "duration": 6,
+    "name": "咸平",
+    "endYear": 1004
+  },
+  {
+    "startYear": 1004,
+    "duration": 4,
+    "name": "景德",
+    "endYear": 1008
+  },
+  {
+    "startYear": 1008,
+    "duration": 9,
+    "name": "大中祥符",
+    "endYear": 1017
+  },
+  {
+    "startYear": 1017,
+    "duration": 5,
+    "name": "天禧",
+    "endYear": 1022
+  },
+  {
+    "startYear": 1022,
+    "duration": 1,
+    "name": "乾兴",
+    "endYear": 1023
+  },
+  {
+    "startYear": 1023,
+    "duration": 10,
+    "name": "天圣",
+    "endYear": 1033
+  },
+  {
+    "startYear": 1032,
+    "duration": 2,
+    "name": "明道",
+    "endYear": 1034
+  },
+  {
+    "startYear": 1034,
+    "duration": 5,
+    "name": "景祐",
+    "endYear": 1039
+  },
+  {
+    "startYear": 1038,
+    "duration": 3,
+    "name": "宝元",
+    "endYear": 1041
+  },
+  {
+    "startYear": 1040,
+    "duration": 2,
+    "name": "康定",
+    "endYear": 1042
+  },
+  {
+    "startYear": 1041,
+    "duration": 8,
+    "name": "庆历",
+    "endYear": 1049
+  },
+  {
+    "startYear": 1049,
+    "duration": 6,
+    "name": "皇祐",
+    "endYear": 1055
+  },
+  {
+    "startYear": 1054,
+    "duration": 3,
+    "name": "至和",
+    "endYear": 1057
+  },
+  {
+    "startYear": 1056,
+    "duration": 8,
+    "name": "嘉祐",
+    "endYear": 1064
+  },
+  {
+    "startYear": 1064,
+    "duration": 4,
+    "name": "治平",
+    "endYear": 1068
+  },
+  {
+    "startYear": 1068,
+    "duration": 10,
+    "name": "熙甯",
+    "endYear": 1078
+  },
+  {
+    "startYear": 1078,
+    "duration": 8,
+    "name": "元丰",
+    "endYear": 1086
+  },
+  {
+    "startYear": 1086,
+    "duration": 9,
+    "name": "元祐",
+    "endYear": 1095
+  },
+  {
+    "startYear": 1094,
+    "duration": 5,
+    "name": "绍圣",
+    "endYear": 1099
+  },
+  {
+    "startYear": 1098,
+    "duration": 3,
+    "name": "元符",
+    "endYear": 1101
+  },
+  {
+    "startYear": 1101,
+    "duration": 1,
+    "name": "建中靖国",
+    "endYear": 1102
+  },
+  {
+    "startYear": 1102,
+    "duration": 5,
+    "name": "崇甯",
+    "endYear": 1107
+  },
+  {
+    "startYear": 1107,
+    "duration": 4,
+    "name": "大观",
+    "endYear": 1111
+  },
+  {
+    "startYear": 1111,
+    "duration": 8,
+    "name": "政和",
+    "endYear": 1119
+  },
+  {
+    "startYear": 1118,
+    "duration": 2,
+    "name": "重和",
+    "endYear": 1120
+  },
+  {
+    "startYear": 1119,
+    "duration": 7,
+    "name": "宣和",
+    "endYear": 1126
+  },
+  {
+    "startYear": 1126,
+    "duration": 2,
+    "name": "靖康",
+    "endYear": 1128
+  },
+  {
+    "startYear": 1127,
+    "duration": 4,
+    "name": "建炎",
+    "endYear": 1131
+  },
+  {
+    "startYear": 1131,
+    "duration": 32,
+    "name": "绍兴",
+    "endYear": 1163
+  },
+  {
+    "startYear": 1163,
+    "duration": 2,
+    "name": "隆兴",
+    "endYear": 1165
+  },
+  {
+    "startYear": 1165,
+    "duration": 9,
+    "name": "乾道",
+    "endYear": 1174
+  },
+  {
+    "startYear": 1174,
+    "duration": 16,
+    "name": "淳熙",
+    "endYear": 1190
+  },
+  {
+    "startYear": 1190,
+    "duration": 5,
+    "name": "绍熙",
+    "endYear": 1195
+  },
+  {
+    "startYear": 1195,
+    "duration": 6,
+    "name": "庆元",
+    "endYear": 1201
+  },
+  {
+    "startYear": 1201,
+    "duration": 4,
+    "name": "嘉泰",
+    "endYear": 1205
+  },
+  {
+    "startYear": 1205,
+    "duration": 3,
+    "name": "开禧",
+    "endYear": 1208
+  },
+  {
+    "startYear": 1208,
+    "duration": 17,
+    "name": "嘉定",
+    "endYear": 1225
+  },
+  {
+    "startYear": 1225,
+    "duration": 3,
+    "name": "宝庆",
+    "endYear": 1228
+  },
+  {
+    "startYear": 1228,
+    "duration": 6,
+    "name": "绍定",
+    "endYear": 1234
+  },
+  {
+    "startYear": 1234,
+    "duration": 3,
+    "name": "端平",
+    "endYear": 1237
+  },
+  {
+    "startYear": 1237,
+    "duration": 4,
+    "name": "嘉熙",
+    "endYear": 1241
+  },
+  {
+    "startYear": 1241,
+    "duration": 12,
+    "name": "淳祐",
+    "endYear": 1253
+  },
+  {
+    "startYear": 1253,
+    "duration": 6,
+    "name": "宝祐",
+    "endYear": 1259
+  },
+  {
+    "startYear": 1259,
+    "duration": 1,
+    "name": "开庆",
+    "endYear": 1260
+  },
+  {
+    "startYear": 1260,
+    "duration": 5,
+    "name": "景定",
+    "endYear": 1265
+  },
+  {
+    "startYear": 1265,
+    "duration": 10,
+    "name": "咸淳",
+    "endYear": 1275
+  },
+  {
+    "startYear": 1275,
+    "duration": 2,
+    "name": "德祐",
+    "endYear": 1277
+  },
+  {
+    "startYear": 1276,
+    "duration": 3,
+    "name": "景炎",
+    "endYear": 1279
+  },
+  {
+    "startYear": 1278,
+    "duration": 2,
+    "name": "祥兴",
+    "endYear": 1280
+  },
+  {
+    "startYear": 916,
+    "duration": 7,
+    "name": "神册",
+    "endYear": 923
+  },
+  {
+    "startYear": 922,
+    "duration": 5,
+    "name": "天赞",
+    "endYear": 927
+  },
+  {
+    "startYear": 938,
+    "duration": 10,
+    "name": "会同",
+    "endYear": 948
+  },
+  {
+    "startYear": 947,
+    "duration": 1,
+    "name": "大同",
+    "endYear": 948
+  },
+  {
+    "startYear": 947,
+    "duration": 5,
+    "name": "天禄",
+    "endYear": 952
+  },
+  {
+    "startYear": 951,
+    "duration": 19,
+    "name": "应历",
+    "endYear": 970
+  },
+  {
+    "startYear": 969,
+    "duration": 11,
+    "name": "保甯",
+    "endYear": 980
+  },
+  {
+    "startYear": 983,
+    "duration": 30,
+    "name": "统和",
+    "endYear": 1013
+  },
+  {
+    "startYear": 1012,
+    "duration": 10,
+    "name": "开泰",
+    "endYear": 1022
+  },
+  {
+    "startYear": 1021,
+    "duration": 11,
+    "name": "太平",
+    "endYear": 1032
+  },
+  {
+    "startYear": 1031,
+    "duration": 2,
+    "name": "景福",
+    "endYear": 1033
+  },
+  {
+    "startYear": 1032,
+    "duration": 24,
+    "name": "重熙",
+    "endYear": 1056
+  },
+  {
+    "startYear": 1055,
+    "duration": 10,
+    "name": "清甯",
+    "endYear": 1065
+  },
+  {
+    "startYear": 1065,
+    "duration": 10,
+    "name": "咸雍",
+    "endYear": 1075
+  },
+  {
+    "startYear": 1075,
+    "duration": 10,
+    "name": "大康",
+    "endYear": 1085
+  },
+  {
+    "startYear": 1085,
+    "duration": 10,
+    "name": "大安",
+    "endYear": 1095
+  },
+  {
+    "startYear": 1095,
+    "duration": 7,
+    "name": "寿昌",
+    "endYear": 1102
+  },
+  {
+    "startYear": 1101,
+    "duration": 10,
+    "name": "乾统",
+    "endYear": 1111
+  },
+  {
+    "startYear": 1111,
+    "duration": 10,
+    "name": "天庆",
+    "endYear": 1121
+  },
+  {
+    "startYear": 1121,
+    "duration": 5,
+    "name": "保大",
+    "endYear": 1126
+  },
+  {
+    "startYear": 1117,
+    "duration": 7,
+    "name": "天辅",
+    "endYear": 1124
+  },
+  {
+    "startYear": 1138,
+    "duration": 3,
+    "name": "天眷",
+    "endYear": 1141
+  },
+  {
+    "startYear": 1141,
+    "duration": 9,
+    "name": "皇统",
+    "endYear": 1150
+  },
+  {
+    "startYear": 1149,
+    "duration": 5,
+    "name": "天德",
+    "endYear": 1154
+  },
+  {
+    "startYear": 1153,
+    "duration": 4,
+    "name": "贞元",
+    "endYear": 1157
+  },
+  {
+    "startYear": 1156,
+    "duration": 6,
+    "name": "正隆",
+    "endYear": 1162
+  },
+  {
+    "startYear": 1161,
+    "duration": 29,
+    "name": "大定",
+    "endYear": 1190
+  },
+  {
+    "startYear": 1190,
+    "duration": 7,
+    "name": "明昌",
+    "endYear": 1197
+  },
+  {
+    "startYear": 1196,
+    "duration": 5,
+    "name": "承安",
+    "endYear": 1201
+  },
+  {
+    "startYear": 1201,
+    "duration": 8,
+    "name": "泰和",
+    "endYear": 1209
+  },
+  {
+    "startYear": 1209,
+    "duration": 3,
+    "name": "大安",
+    "endYear": 1212
+  },
+  {
+    "startYear": 1212,
+    "duration": 2,
+    "name": "崇庆",
+    "endYear": 1214
+  },
+  {
+    "startYear": 1213,
+    "duration": 1,
+    "name": "至甯",
+    "endYear": 1214
+  },
+  {
+    "startYear": 1213,
+    "duration": 5,
+    "name": "贞祐",
+    "endYear": 1218
+  },
+  {
+    "startYear": 1217,
+    "duration": 6,
+    "name": "兴定",
+    "endYear": 1223
+  },
+  {
+    "startYear": 1222,
+    "duration": 2,
+    "name": "元光",
+    "endYear": 1224
+  },
+  {
+    "startYear": 1224,
+    "duration": 9,
+    "name": "正大",
+    "endYear": 1233
+  },
+  {
+    "startYear": 1232,
+    "duration": 1,
+    "name": "开兴",
+    "endYear": 1233
+  },
+  {
+    "startYear": 1232,
+    "duration": 3,
+    "name": "天兴",
+    "endYear": 1235
+  },
+  {
+    "startYear": 1260,
+    "duration": 5,
+    "name": "中统",
+    "endYear": 1265
+  },
+  {
+    "startYear": 1264,
+    "duration": 31,
+    "name": "至元",
+    "endYear": 1295
+  },
+  {
+    "startYear": 1295,
+    "duration": 3,
+    "name": "元贞",
+    "endYear": 1298
+  },
+  {
+    "startYear": 1297,
+    "duration": 11,
+    "name": "大德",
+    "endYear": 1308
+  },
+  {
+    "startYear": 1308,
+    "duration": 4,
+    "name": "至大",
+    "endYear": 1312
+  },
+  {
+    "startYear": 1312,
+    "duration": 2,
+    "name": "皇庆",
+    "endYear": 1314
+  },
+  {
+    "startYear": 1314,
+    "duration": 7,
+    "name": "延祐",
+    "endYear": 1321
+  },
+  {
+    "startYear": 1321,
+    "duration": 3,
+    "name": "至治",
+    "endYear": 1324
+  },
+  {
+    "startYear": 1324,
+    "duration": 5,
+    "name": "泰定",
+    "endYear": 1329
+  },
+  {
+    "startYear": 1328,
+    "duration": 1,
+    "name": "致和",
+    "endYear": 1329
+  },
+  {
+    "startYear": 1328,
+    "duration": 1,
+    "name": "天顺",
+    "endYear": 1329
+  },
+  {
+    "startYear": 1328,
+    "duration": 3,
+    "name": "天历",
+    "endYear": 1331
+  },
+  {
+    "startYear": 1330,
+    "duration": 4,
+    "name": "至顺",
+    "endYear": 1334
+  },
+  {
+    "startYear": 1333,
+    "duration": 3,
+    "name": "元统",
+    "endYear": 1336
+  },
+  {
+    "startYear": 1335,
+    "duration": 6,
+    "name": "后至元",
+    "endYear": 1341
+  },
+  {
+    "startYear": 1341,
+    "duration": 28,
+    "name": "至正",
+    "endYear": 1369
+  },
+  {
+    "startYear": 1368,
+    "duration": 31,
+    "name": "洪武",
+    "endYear": 1399
+  },
+  {
+    "startYear": 1399,
+    "duration": 4,
+    "name": "建文",
+    "endYear": 1403
+  },
+  {
+    "startYear": 1403,
+    "duration": 22,
+    "name": "永乐",
+    "endYear": 1425
+  },
+  {
+    "startYear": 1425,
+    "duration": 1,
+    "name": "洪熙",
+    "endYear": 1426
+  },
+  {
+    "startYear": 1426,
+    "duration": 10,
+    "name": "宣德",
+    "endYear": 1436
+  },
+  {
+    "startYear": 1436,
+    "duration": 14,
+    "name": "正统",
+    "endYear": 1450
+  },
+  {
+    "startYear": 1450,
+    "duration": 8,
+    "name": "景泰",
+    "endYear": 1458
+  },
+  {
+    "startYear": 1457,
+    "duration": 8,
+    "name": "天顺",
+    "endYear": 1465
+  },
+  {
+    "startYear": 1465,
+    "duration": 23,
+    "name": "成化",
+    "endYear": 1488
+  },
+  {
+    "startYear": 1488,
+    "duration": 18,
+    "name": "弘治",
+    "endYear": 1506
+  },
+  {
+    "startYear": 1506,
+    "duration": 16,
+    "name": "正德",
+    "endYear": 1522
+  },
+  {
+    "startYear": 1522,
+    "duration": 45,
+    "name": "嘉靖",
+    "endYear": 1567
+  },
+  {
+    "startYear": 1567,
+    "duration": 6,
+    "name": "隆庆",
+    "endYear": 1573
+  },
+  {
+    "startYear": 1573,
+    "duration": 48,
+    "name": "万曆",
+    "endYear": 1621
+  },
+  {
+    "startYear": 1620,
+    "duration": 1,
+    "name": "泰昌",
+    "endYear": 1621
+  },
+  {
+    "startYear": 1621,
+    "duration": 7,
+    "name": "天啓",
+    "endYear": 1628
+  },
+  {
+    "startYear": 1628,
+    "duration": 17,
+    "name": "崇祯",
+    "endYear": 1645
+  },
+  {
+    "startYear": 1616,
+    "duration": 11,
+    "name": "天命",
+    "endYear": 1627
+  },
+  {
+    "startYear": 1627,
+    "duration": 10,
+    "name": "天聪",
+    "endYear": 1637
+  },
+  {
+    "startYear": 1636,
+    "duration": 8,
+    "name": "崇德",
+    "endYear": 1644
+  },
+  {
+    "startYear": 1644,
+    "duration": 18,
+    "name": "顺治",
+    "endYear": 1662
+  },
+  {
+    "startYear": 1662,
+    "duration": 61,
+    "name": "康熙",
+    "endYear": 1723
+  },
+  {
+    "startYear": 1723,
+    "duration": 13,
+    "name": "雍正",
+    "endYear": 1736
+  },
+  {
+    "startYear": 1736,
+    "duration": 60,
+    "name": "乾隆",
+    "endYear": 1796
+  },
+  {
+    "startYear": 1796,
+    "duration": 25,
+    "name": "嘉庆",
+    "endYear": 1821
+  },
+  {
+    "startYear": 1821,
+    "duration": 30,
+    "name": "道光",
+    "endYear": 1851
+  },
+  {
+    "startYear": 1851,
+    "duration": 11,
+    "name": "咸丰",
+    "endYear": 1862
+  },
+  {
+    "startYear": 1862,
+    "duration": 13,
+    "name": "同治",
+    "endYear": 1875
+  },
+  {
+    "startYear": 1875,
+    "duration": 34,
+    "name": "光绪",
+    "endYear": 1909
+  },
+  {
+    "startYear": 1909,
+    "duration": 3,
+    "name": "宣统",
+    "endYear": 1912
+  }
+]
