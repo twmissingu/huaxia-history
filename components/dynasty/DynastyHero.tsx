@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 import { MapPin } from 'lucide-react';
 
-import { formatPeriod, getDynastyColor, cn } from '@/lib/utils';
+import { formatPeriod, getDynastyColor, cn, withBasePath } from '@/lib/utils';
 import type { Dynasty } from '@/types/index';
 
 interface DynastyHeroProps {
@@ -21,7 +21,7 @@ export function DynastyHero({ dynasty }: DynastyHeroProps) {
         <>
           <div
             className="absolute inset-0 bg-cover bg-center"
-            style={{ backgroundImage: `url(${heroImage})` }}
+            style={{ backgroundImage: `url(${withBasePath(heroImage)})` }}
             aria-hidden="true"
           />
           <div

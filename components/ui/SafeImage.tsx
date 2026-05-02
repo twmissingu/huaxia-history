@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, type ImgHTMLAttributes } from 'react';
-import { cn } from '@/lib/utils';
+import { cn, withBasePath } from '@/lib/utils';
 
 interface SafeImageProps extends ImgHTMLAttributes<HTMLImageElement> {
   fallbackClassName?: string;
@@ -21,6 +21,8 @@ export function SafeImage({
 }: SafeImageProps) {
   const [failed, setFailed] = useState(false);
 
+  const resolvedSrc = typeof src === 'string' ? withBasePath(src) : src;
+
   if (failed || !src) {
     return (
       <div
@@ -39,7 +41,7 @@ export function SafeImage({
 
   return (
     <img
-      src={src}
+      src={resolvedSrc}
       alt={alt}
       className={className}
       onError={(e) => {

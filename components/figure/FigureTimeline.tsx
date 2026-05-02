@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 import { Calendar, MapPin, ScrollText } from 'lucide-react';
 import { useState, useEffect } from 'react';
-import { formatYear, getDynastyColor, cn } from '@/lib/utils';
+import { formatYear, getDynastyColor, cn, withBasePath } from '@/lib/utils';
 import type { HistoricalEvent, HistoricalFigure } from '@/types/index';
 import { categoryColors, categoryLabels } from '@/types/index';
 import { InkLink } from '@/components/ink-transition/InkLink';
@@ -185,7 +185,7 @@ function TimelineCard({
       {item.hasImage && item.image && (
         <div
           className="mb-3 h-24 w-full rounded-lg bg-cover bg-center"
-          style={{ backgroundImage: `url(${item.image})` }}
+          style={{ backgroundImage: `url(${withBasePath(item.image)})` }}
         >
           <div className="h-full w-full rounded-lg bg-gradient-to-t from-black/30 to-transparent" />
         </div>
